@@ -1,0 +1,14 @@
+make -C /lib/modules/3.11.0-13-generic/build M=/home/jackyzy823/code/driver_learn/upperdrv  modules
+make[1]: 正在进入目录 `/usr/src/linux-headers-3.11.0-13-generic'
+  CC [M]  /home/jackyzy823/code/driver_learn/upperdrv/upperdev.o
+/home/jackyzy823/code/driver_learn/upperdrv/upperdev.c:27:12: warning: ‘UpperDev_ioctl’ defined but not used [-Wunused-function]
+ static int UpperDev_ioctl(struct inode *inodep,struct file *filp,unsigned int cmd,unsigned long arg){
+            ^
+/home/jackyzy823/code/driver_learn/upperdrv/upperdev.c:56:13: warning: ‘UpperDev_setup_cdev’ defined but not used [-Wunused-function]
+ static void UpperDev_setup_cdev(struct UpperDev *dev,int minor){
+             ^
+  Building modules, stage 2.
+  MODPOST 1 modules
+  CC      /home/jackyzy823/code/driver_learn/upperdrv/upperdev.mod.o
+  LD [M]  /home/jackyzy823/code/driver_learn/upperdrv/upperdev.ko
+make[1]:正在离开目录 `/usr/src/linux-headers-3.11.0-13-generic'

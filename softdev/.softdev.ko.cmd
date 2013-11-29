@@ -1,0 +1,1 @@
+cmd_/home/jackyzy823/code/driver_learn/softdev/softdev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-13-generic/scripts/module-common.lds --build-id  -o /home/jackyzy823/code/driver_learn/softdev/softdev.ko /home/jackyzy823/code/driver_learn/softdev/softdev.o /home/jackyzy823/code/driver_learn/softdev/softdev.mod.o

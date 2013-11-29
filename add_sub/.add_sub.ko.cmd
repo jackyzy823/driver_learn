@@ -1,0 +1,1 @@
+cmd_/home/jackyzy823/code/driver_learn/add_sub/add_sub.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-12-generic/scripts/module-common.lds --build-id  -o /home/jackyzy823/code/driver_learn/add_sub/add_sub.ko /home/jackyzy823/code/driver_learn/add_sub/add_sub.o /home/jackyzy823/code/driver_learn/add_sub/add_sub.mod.o
