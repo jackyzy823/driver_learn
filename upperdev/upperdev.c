@@ -21,6 +21,7 @@
 
 static unsigned int upperdev_inc=0;
 char buffer[1512]={0};
+unsigned char **data_point=NULL;
 
 
 ////
@@ -50,21 +51,37 @@ int UpperDev_release(struct inode *inode,struct file *filp){
 
 
 ssize_t UpperDev_read(struct file *filp,char __user *buf, size_t size, loff_t *ppos){
+    int len;
     printk(KERN_NOTICE "[UpperDev]IN UpperDev_read!");
-    // int len=softdev_recv();
-    // if(copy_to_user(buf,buffer,len)){
-    //     return -EFAULT;
-    // }
+    len=softdev_recv(data_point);
+    *data_point=buffer;
+    if(len==0){
+        printk(KERN_NOTICE "[UpperDev][IN READ] Device is busy!");
+        return -EINVAL;
+    }
+    if(copy_to_user(buf,buffer,len)){
+        return -EFAULT;
+    }
     return -EINVAL;
 }
 
 ssize_t UpperDev_write(struct file *filp,const char __user *buf ,size_t size,loff_t *ppos){
+    int ret=0;
     printk(KERN_NOTICE "[UpperDev]IN UpperDev_write!");
     if(copy_from_user(buffer,buf,size)){
-        softdev_send(buffer,size);
-        return -EFAULT;
+        ret=softdev_send(buffer,size);
     }
-    return -EINVAL;
+    if(ret==-1){
+        printk(KERN_NOTICE "[UpperDev]Write too many chars!");
+        return -EINVAL;
+    }
+    if(ret==-2){
+        printk(KERN_NOTICE "[UpperDev][IN WRITE]Device is busy!");
+        return -EINVAL;
+    }
+
+
+    return -EFAULT;
 }
 
 
@@ -159,6 +176,6 @@ void UpperDev_exit(void){
 
 
 MODULE_AUTHOR("11300720044");
-MODULE_LICENSE("DUAL BSD/GPL");
+MODULE_LICENSE("GPL");
 module_init(UpperDev_init);
 module_exit(UpperDev_exit);

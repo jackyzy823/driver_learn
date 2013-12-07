@@ -23,6 +23,8 @@ __attribute__((section("__versions"))) = {
 	{ 0xf7452e85, __VMLINUX_SYMBOL_STR(softdev_ioctl) },
 	{ 0xb8397675, __VMLINUX_SYMBOL_STR(softdev_send) },
 	{ 0x362ef408, __VMLINUX_SYMBOL_STR(_copy_from_user) },
+	{ 0x2f287f0d, __VMLINUX_SYMBOL_STR(copy_to_user) },
+	{ 0xddc3a3d9, __VMLINUX_SYMBOL_STR(softdev_recv) },
 	{ 0x50eedeb8, __VMLINUX_SYMBOL_STR(printk) },
 	{ 0xb4390f9a, __VMLINUX_SYMBOL_STR(mcount) },
 };
@@ -33,4 +35,4 @@ __attribute__((section(".modinfo"))) =
 "depends=softdev";
 
 
-MODULE_INFO(srcversion, "36303E731FAED24A403D65D");
+MODULE_INFO(srcversion, "CFF6FCC3214CD5B6C844E02");
