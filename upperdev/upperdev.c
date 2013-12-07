@@ -14,7 +14,7 @@
 #include "softdev.h"
 #include <asm/io.h>
 #include <asm/uaccess.h>
-
+#include <linux/slab.h>  //kfree and kmalloc
 // #define UPPERDEV_MAJOR 117
 
 // static int UpperDev_major=UPPERDEV_MAJOR;
@@ -50,27 +50,45 @@ int UpperDev_release(struct inode *inode,struct file *filp){
 }
 
 
-ssize_t UpperDev_read(struct file *filp,char __user *buf, size_t size, loff_t *ppos){
-    int len;
-    printk(KERN_NOTICE "[UpperDev]IN UpperDev_read!");
-    len=softdev_recv(data_point);
-    *data_point=buffer;
-    if(len==0){
-        printk(KERN_NOTICE "[UpperDev][IN READ] Device is busy!");
+// ssize_t UpperDev_read(struct file *filp,char __user *buf, size_t size, loff_t *ppos){
+//     int len;
+//     printk(KERN_NOTICE "[UpperDev]IN UpperDev_read!");
+//     len=softdev_recv(data_point);
+//     *data_point=buffer;
+//     if(len==0){
+//         printk(KERN_NOTICE "[UpperDev][IN READ] Device is busy!");
+//         return -EINVAL;
+//     }
+//     if(copy_to_user(buf,buffer,len)){
+//         return -EFAULT;
+//     }
+//     return -EINVAL;
+// }
+
+
+
+ssize_t UpperDev_read(struct file *filp,char __user *buf,size_t count,loff_t *offset){
+    int length;
+    kfree(data_point);
+    data_point=(unsigned char **)kmalloc(sizeof(unsigned char *),GFP_KERNEL);
+    if(count<0){
         return -EINVAL;
     }
-    if(copy_to_user(buf,buffer,len)){
-        return -EFAULT;
+    length=softdev_recv(data_point);
+    if(length<count){
+        count=length;
     }
-    return -EINVAL;
+    copy_to_user(buf,*data_point,count);
+
+    return count;
+
 }
 
 ssize_t UpperDev_write(struct file *filp,const char __user *buf ,size_t size,loff_t *ppos){
     int ret=0;
     printk(KERN_NOTICE "[UpperDev]IN UpperDev_write!");
-    if(copy_from_user(buffer,buf,size)){
-        ret=softdev_send(buffer,size);
-    }
+    copy_from_user(buffer,buf,size);//success return 0;else return lost char num
+    ret=softdev_send(buffer,size);
     if(ret==-1){
         printk(KERN_NOTICE "[UpperDev]Write too many chars!");
         return -EINVAL;
@@ -80,7 +98,7 @@ ssize_t UpperDev_write(struct file *filp,const char __user *buf ,size_t size,lof
         return -EINVAL;
     }
 
-
+    printk(KERN_NOTICE "[UpperDev]Write Done");
     return -EFAULT;
 }
 
@@ -165,6 +183,7 @@ int UpperDev_init(void){
         printk("Unable to register char dev Upper");
         return ret;
     }
+    printk("[UpperDev]StartUP!");
     return 0;
 }
 

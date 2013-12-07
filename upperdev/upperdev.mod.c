@@ -23,9 +23,12 @@ __attribute__((section("__versions"))) = {
 	{ 0xf7452e85, __VMLINUX_SYMBOL_STR(softdev_ioctl) },
 	{ 0xb8397675, __VMLINUX_SYMBOL_STR(softdev_send) },
 	{ 0x362ef408, __VMLINUX_SYMBOL_STR(_copy_from_user) },
+	{ 0x50eedeb8, __VMLINUX_SYMBOL_STR(printk) },
 	{ 0x2f287f0d, __VMLINUX_SYMBOL_STR(copy_to_user) },
 	{ 0xddc3a3d9, __VMLINUX_SYMBOL_STR(softdev_recv) },
-	{ 0x50eedeb8, __VMLINUX_SYMBOL_STR(printk) },
+	{ 0x1f4fc7bb, __VMLINUX_SYMBOL_STR(kmem_cache_alloc_trace) },
+	{ 0x48fe8c6a, __VMLINUX_SYMBOL_STR(kmalloc_caches) },
+	{ 0x37a0cba, __VMLINUX_SYMBOL_STR(kfree) },
 	{ 0xb4390f9a, __VMLINUX_SYMBOL_STR(mcount) },
 };
 
@@ -35,4 +38,4 @@ __attribute__((section(".modinfo"))) =
 "depends=softdev";
 
 
-MODULE_INFO(srcversion, "CFF6FCC3214CD5B6C844E02");
+MODULE_INFO(srcversion, "E4DEE26400FED8027A6B928");

@@ -1,1734 +1,1357 @@
-[  684.798368] [UpperDev]IN UpperDev_write
-[  684.798370] [UpperDev]IN UpperDev_write
-[  684.798372] [UpperDev]IN UpperDev_write
-[  684.798374] [UpperDev]IN UpperDev_write
-[  684.798376] [UpperDev]IN UpperDev_write
-[  684.798378] [UpperDev]IN UpperDev_write
-[  684.798380] [UpperDev]IN UpperDev_write
-[  684.798382] [UpperDev]IN UpperDev_write
-[  684.798384] [UpperDev]IN UpperDev_write
-[  684.798386] [UpperDev]IN UpperDev_write
-[  684.798388] [UpperDev]IN UpperDev_write
-[  684.798390] [UpperDev]IN UpperDev_write
-[  684.798392] [UpperDev]IN UpperDev_write
-[  684.798393] [UpperDev]IN UpperDev_write
-[  684.798395] [UpperDev]IN UpperDev_write
-[  684.798397] [UpperDev]IN UpperDev_write
-[  684.798399] [UpperDev]IN UpperDev_write
-[  684.798401] [UpperDev]IN UpperDev_write
-[  684.798403] [UpperDev]IN UpperDev_write
-[  684.798405] [UpperDev]IN UpperDev_write
-[  684.798407] [UpperDev]IN UpperDev_write
-[  684.798409] [UpperDev]IN UpperDev_write
-[  684.798411] [UpperDev]IN UpperDev_write
-[  684.798413] [UpperDev]IN UpperDev_write
-[  684.798415] [UpperDev]IN UpperDev_write
-[  684.798417] [UpperDev]IN UpperDev_write
-[  684.798419] [UpperDev]IN UpperDev_write
-[  684.798421] [UpperDev]IN UpperDev_write
-[  684.798423] [UpperDev]IN UpperDev_write
-[  684.798425] [UpperDev]IN UpperDev_write
-[  684.798427] [UpperDev]IN UpperDev_write
-[  684.798429] [UpperDev]IN UpperDev_write
-[  684.798430] [UpperDev]IN UpperDev_write
-[  684.798432] [UpperDev]IN UpperDev_write
-[  684.798434] [UpperDev]IN UpperDev_write
-[  684.798436] [UpperDev]IN UpperDev_write
-[  684.798438] [UpperDev]IN UpperDev_write
-[  684.798440] [UpperDev]IN UpperDev_write
-[  684.798442] [UpperDev]IN UpperDev_write
-[  684.798444] [UpperDev]IN UpperDev_write
-[  684.798446] [UpperDev]IN UpperDev_write
-[  684.798448] [UpperDev]IN UpperDev_write
-[  684.798450] [UpperDev]IN UpperDev_write
-[  684.798452] [UpperDev]IN UpperDev_write
-[  684.798454] [UpperDev]IN UpperDev_write
-[  684.798456] [UpperDev]IN UpperDev_write
-[  684.798458] [UpperDev]IN UpperDev_write
-[  684.798460] [UpperDev]IN UpperDev_write
-[  684.798462] [UpperDev]IN UpperDev_write
-[  684.798464] [UpperDev]IN UpperDev_write
-[  684.798466] [UpperDev]IN UpperDev_write
-[  684.798468] [UpperDev]IN UpperDev_write
-[  684.798470] [UpperDev]IN UpperDev_write
-[  684.798471] [UpperDev]IN UpperDev_write
-[  684.798473] [UpperDev]IN UpperDev_write
-[  684.798475] [UpperDev]IN UpperDev_write
-[  684.798477] [UpperDev]IN UpperDev_write
-[  684.798479] [UpperDev]IN UpperDev_write
-[  684.798481] [UpperDev]IN UpperDev_write
-[  684.798483] [UpperDev]IN UpperDev_write
-[  684.798485] [UpperDev]IN UpperDev_write
-[  684.798487] [UpperDev]IN UpperDev_write
-[  684.798489] [UpperDev]IN UpperDev_write
-[  684.798491] [UpperDev]IN UpperDev_write
-[  684.798493] [UpperDev]IN UpperDev_write
-[  684.798495] [UpperDev]IN UpperDev_write
-[  684.798497] [UpperDev]IN UpperDev_write
-[  684.798498] [UpperDev]IN UpperDev_write
-[  684.798500] [UpperDev]IN UpperDev_write
-[  684.798502] [UpperDev]IN UpperDev_write
-[  684.798504] [UpperDev]IN UpperDev_write
-[  684.798506] [UpperDev]IN UpperDev_write
-[  684.798508] [UpperDev]IN UpperDev_write
-[  684.798510] [UpperDev]IN UpperDev_write
-[  684.798512] [UpperDev]IN UpperDev_write
-[  684.798514] [UpperDev]IN UpperDev_write
-[  684.798516] [UpperDev]IN UpperDev_write
-[  684.798518] [UpperDev]IN UpperDev_write
-[  684.798520] [UpperDev]IN UpperDev_write
-[  684.798522] [UpperDev]IN UpperDev_write
-[  684.798524] [UpperDev]IN UpperDev_write
-[  684.798526] [UpperDev]IN UpperDev_write
-[  684.798528] [UpperDev]IN UpperDev_write
-[  684.798530] [UpperDev]IN UpperDev_write
-[  684.798531] [UpperDev]IN UpperDev_write
-[  684.798533] [UpperDev]IN UpperDev_write
-[  684.798535] [UpperDev]IN UpperDev_write
-[  684.798537] [UpperDev]IN UpperDev_write
-[  684.798539] [UpperDev]IN UpperDev_write
-[  684.798541] [UpperDev]IN UpperDev_write
-[  684.798543] [UpperDev]IN UpperDev_write
-[  684.798545] [UpperDev]IN UpperDev_write
-[  684.798547] [UpperDev]IN UpperDev_write
-[  684.798549] [UpperDev]IN UpperDev_write
-[  684.798551] [UpperDev]IN UpperDev_write
-[  684.798553] [UpperDev]IN UpperDev_write
-[  684.798555] [UpperDev]IN UpperDev_write
-[  684.798557] [UpperDev]IN UpperDev_write
-[  684.798559] [UpperDev]IN UpperDev_write
-[  684.798561] [UpperDev]IN UpperDev_write
-[  684.798563] [UpperDev]IN UpperDev_write
-[  684.798565] [UpperDev]IN UpperDev_write
-[  684.798567] [UpperDev]IN UpperDev_write
-[  684.798568] [UpperDev]IN UpperDev_write
-[  684.798570] [UpperDev]IN UpperDev_write
-[  684.798572] [UpperDev]IN UpperDev_write
-[  684.798574] [UpperDev]IN UpperDev_write
-[  684.798576] [UpperDev]IN UpperDev_write
-[  684.798578] [UpperDev]IN UpperDev_write
-[  684.798580] [UpperDev]IN UpperDev_write
-[  684.798582] [UpperDev]IN UpperDev_write
-[  684.798584] [UpperDev]IN UpperDev_write
-[  684.798586] [UpperDev]IN UpperDev_write
-[  684.798588] [UpperDev]IN UpperDev_write
-[  684.798590] [UpperDev]IN UpperDev_write
-[  684.798592] [UpperDev]IN UpperDev_write
-[  684.798594] [UpperDev]IN UpperDev_write
-[  684.798596] [UpperDev]IN UpperDev_write
-[  684.798598] [UpperDev]IN UpperDev_write
-[  684.798599] [UpperDev]IN UpperDev_write
-[  684.798601] [UpperDev]IN UpperDev_write
-[  684.798603] [UpperDev]IN UpperDev_write
-[  684.798605] [UpperDev]IN UpperDev_write
-[  684.798607] [UpperDev]IN UpperDev_write
-[  684.798609] [UpperDev]IN UpperDev_write
-[  684.798611] [UpperDev]IN UpperDev_write
-[  684.798613] [UpperDev]IN UpperDev_write
-[  684.798615] [UpperDev]IN UpperDev_write
-[  684.798617] [UpperDev]IN UpperDev_write
-[  684.798619] [UpperDev]IN UpperDev_write
-[  684.798621] [UpperDev]IN UpperDev_write
-[  684.798623] [UpperDev]IN UpperDev_write
-[  684.798625] [UpperDev]IN UpperDev_write
-[  684.798627] [UpperDev]IN UpperDev_write
-[  684.798629] [UpperDev]IN UpperDev_write
-[  684.798630] [UpperDev]IN UpperDev_write
-[  684.798632] [UpperDev]IN UpperDev_write
-[  684.798634] [UpperDev]IN UpperDev_write
-[  684.798636] [UpperDev]IN UpperDev_write
-[  684.798638] [UpperDev]IN UpperDev_write
-[  684.798640] [UpperDev]IN UpperDev_write
-[  684.798642] [UpperDev]IN UpperDev_write
-[  684.798644] [UpperDev]IN UpperDev_write
-[  684.798646] [UpperDev]IN UpperDev_write
-[  684.798648] [UpperDev]IN UpperDev_write
-[  684.798650] [UpperDev]IN UpperDev_write
-[  684.798652] [UpperDev]IN UpperDev_write
-[  684.798654] [UpperDev]IN UpperDev_write
-[  684.798656] [UpperDev]IN UpperDev_write
-[  684.798658] [UpperDev]IN UpperDev_write
-[  684.798660] [UpperDev]IN UpperDev_write
-[  684.798661] [UpperDev]IN UpperDev_write
-[  684.798663] [UpperDev]IN UpperDev_write
-[  684.798665] [UpperDev]IN UpperDev_write
-[  684.798667] [UpperDev]IN UpperDev_write
-[  684.798669] [UpperDev]IN UpperDev_write
-[  684.798671] [UpperDev]IN UpperDev_write
-[  684.798673] [UpperDev]IN UpperDev_write
-[  684.798675] [UpperDev]IN UpperDev_write
-[  684.798677] [UpperDev]IN UpperDev_write
-[  684.798679] [UpperDev]IN UpperDev_write
-[  684.798681] [UpperDev]IN UpperDev_write
-[  684.798683] [UpperDev]IN UpperDev_write
-[  684.798685] [UpperDev]IN UpperDev_write
-[  684.798687] [UpperDev]IN UpperDev_write
-[  684.798689] [UpperDev]IN UpperDev_write
-[  684.798691] [UpperDev]IN UpperDev_write
-[  684.798693] [UpperDev]IN UpperDev_write
-[  684.798695] [UpperDev]IN UpperDev_write
-[  684.798697] [UpperDev]IN UpperDev_write
-[  684.798698] [UpperDev]IN UpperDev_write
-[  684.798700] [UpperDev]IN UpperDev_write
-[  684.798702] [UpperDev]IN UpperDev_write
-[  684.798704] [UpperDev]IN UpperDev_write
-[  684.798706] [UpperDev]IN UpperDev_write
-[  684.798708] [UpperDev]IN UpperDev_write
-[  684.798710] [UpperDev]IN UpperDev_write
-[  684.798712] [UpperDev]IN UpperDev_write
-[  684.798714] [UpperDev]IN UpperDev_write
-[  684.798716] [UpperDev]IN UpperDev_write
-[  684.798718] [UpperDev]IN UpperDev_write
-[  684.798720] [UpperDev]IN UpperDev_write
-[  684.798722] [UpperDev]IN UpperDev_write
-[  684.798724] [UpperDev]IN UpperDev_write
-[  684.798726] [UpperDev]IN UpperDev_write
-[  684.798727] [UpperDev]IN UpperDev_write
-[  684.798729] [UpperDev]IN UpperDev_write
-[  684.798731] [UpperDev]IN UpperDev_write
-[  684.798733] [UpperDev]IN UpperDev_write
-[  684.798735] [UpperDev]IN UpperDev_write
-[  684.798737] [UpperDev]IN UpperDev_write
-[  684.798739] [UpperDev]IN UpperDev_write
-[  684.798741] [UpperDev]IN UpperDev_write
-[  684.798743] [UpperDev]IN UpperDev_write
-[  684.798745] [UpperDev]IN UpperDev_write
-[  684.798747] [UpperDev]IN UpperDev_write
-[  684.798749] [UpperDev]IN UpperDev_write
-[  684.798751] [UpperDev]IN UpperDev_write
-[  684.798752] [UpperDev]IN UpperDev_write
-[  684.798754] [UpperDev]IN UpperDev_write
-[  684.798756] [UpperDev]IN UpperDev_write
-[  684.798758] [UpperDev]IN UpperDev_write
-[  684.798760] [UpperDev]IN UpperDev_write
-[  684.798762] [UpperDev]IN UpperDev_write
-[  684.798764] [UpperDev]IN UpperDev_write
-[  684.798766] [UpperDev]IN UpperDev_write
-[  684.798768] [UpperDev]IN UpperDev_write
-[  684.798770] [UpperDev]IN UpperDev_write
-[  684.798772] [UpperDev]IN UpperDev_write
-[  684.798774] [UpperDev]IN UpperDev_write
-[  684.798776] [UpperDev]IN UpperDev_write
-[  684.798778] [UpperDev]IN UpperDev_write
-[  684.798780] [UpperDev]IN UpperDev_write
-[  684.798782] [UpperDev]IN UpperDev_write
-[  684.798783] [UpperDev]IN UpperDev_write
-[  684.798785] [UpperDev]IN UpperDev_write
-[  684.798787] [UpperDev]IN UpperDev_write
-[  684.798789] [UpperDev]IN UpperDev_write
-[  684.798791] [UpperDev]IN UpperDev_write
-[  684.798793] [UpperDev]IN UpperDev_write
-[  684.798795] [UpperDev]IN UpperDev_write
-[  684.798797] [UpperDev]IN UpperDev_write
-[  684.798799] [UpperDev]IN UpperDev_write
-[  684.798801] [UpperDev]IN UpperDev_write
-[  684.798803] [UpperDev]IN UpperDev_write
-[  684.798805] [UpperDev]IN UpperDev_write
-[  684.798807] [UpperDev]IN UpperDev_write
-[  684.798809] [UpperDev]IN UpperDev_write
-[  684.798811] [UpperDev]IN UpperDev_write
-[  684.798812] [UpperDev]IN UpperDev_write
-[  684.798814] [UpperDev]IN UpperDev_write
-[  684.798816] [UpperDev]IN UpperDev_write
-[  684.798818] [UpperDev]IN UpperDev_write
-[  684.798820] [UpperDev]IN UpperDev_write
-[  684.798822] [UpperDev]IN UpperDev_write
-[  684.798824] [UpperDev]IN UpperDev_write
-[  684.798826] [UpperDev]IN UpperDev_write
-[  684.798828] [UpperDev]IN UpperDev_write
-[  684.798830] [UpperDev]IN UpperDev_write
-[  684.798832] [UpperDev]IN UpperDev_write
-[  684.798834] [UpperDev]IN UpperDev_write
-[  684.798836] [UpperDev]IN UpperDev_write
-[  684.798837] [UpperDev]IN UpperDev_write
-[  684.798839] [UpperDev]IN UpperDev_write
-[  684.798841] [UpperDev]IN UpperDev_write
-[  684.798843] [UpperDev]IN UpperDev_write
-[  684.798845] [UpperDev]IN UpperDev_write
-[  684.798847] [UpperDev]IN UpperDev_write
-[  684.798849] [UpperDev]IN UpperDev_write
-[  684.798851] [UpperDev]IN UpperDev_write
-[  684.798853] [UpperDev]IN UpperDev_write
-[  684.798855] [UpperDev]IN UpperDev_write
-[  684.798857] [UpperDev]IN UpperDev_write
-[  684.798859] [UpperDev]IN UpperDev_write
-[  684.798861] [UpperDev]IN UpperDev_write
-[  684.798863] [UpperDev]IN UpperDev_write
-[  684.798865] [UpperDev]IN UpperDev_write
-[  684.798867] [UpperDev]IN UpperDev_write
-[  684.798869] [UpperDev]IN UpperDev_write
-[  684.798871] [UpperDev]IN UpperDev_write
-[  684.798873] [UpperDev]IN UpperDev_write
-[  684.798875] [UpperDev]IN UpperDev_write
-[  684.798877] [UpperDev]IN UpperDev_write
-[  684.798879] [UpperDev]IN UpperDev_write
-[  684.798880] [UpperDev]IN UpperDev_write
-[  684.798882] [UpperDev]IN UpperDev_write
-[  684.798884] [UpperDev]IN UpperDev_write
-[  684.798886] [UpperDev]IN UpperDev_write
-[  684.798888] [UpperDev]IN UpperDev_write
-[  684.798890] [UpperDev]IN UpperDev_write
-[  684.798892] [UpperDev]IN UpperDev_write
-[  684.798894] [UpperDev]IN UpperDev_write
-[  684.798896] [UpperDev]IN UpperDev_write
-[  684.798898] [UpperDev]IN UpperDev_write
-[  684.798900] [UpperDev]IN UpperDev_write
-[  684.798902] [UpperDev]IN UpperDev_write
-[  684.798904] [UpperDev]IN UpperDev_write
-[  684.798906] [UpperDev]IN UpperDev_write
-[  684.798908] [UpperDev]IN UpperDev_write
-[  684.798910] [UpperDev]IN UpperDev_write
-[  684.798912] [UpperDev]IN UpperDev_write
-[  684.798914] [UpperDev]IN UpperDev_write
-[  684.798916] [UpperDev]IN UpperDev_write
-[  684.798918] [UpperDev]IN UpperDev_write
-[  684.798920] [UpperDev]IN UpperDev_write
-[  684.798922] [UpperDev]IN UpperDev_write
-[  684.798924] [UpperDev]IN UpperDev_write
-[  684.798926] [UpperDev]IN UpperDev_write
-[  684.798928] [UpperDev]IN UpperDev_write
-[  684.798929] [UpperDev]IN UpperDev_write
-[  684.798931] [UpperDev]IN UpperDev_write
-[  684.798933] [UpperDev]IN UpperDev_write
-[  684.798935] [UpperDev]IN UpperDev_write
-[  684.798937] [UpperDev]IN UpperDev_write
-[  684.798939] [UpperDev]IN UpperDev_write
-[  684.798941] [UpperDev]IN UpperDev_write
-[  684.798943] [UpperDev]IN UpperDev_write
-[  684.798945] [UpperDev]IN UpperDev_write
-[  684.798947] [UpperDev]IN UpperDev_write
-[  684.798949] [UpperDev]IN UpperDev_write
-[  684.798951] [UpperDev]IN UpperDev_write
-[  684.798953] [UpperDev]IN UpperDev_write
-[  684.798955] [UpperDev]IN UpperDev_write
-[  684.798957] [UpperDev]IN UpperDev_write
-[  684.798959] [UpperDev]IN UpperDev_write
-[  684.798961] [UpperDev]IN UpperDev_write
-[  684.798963] [UpperDev]IN UpperDev_write
-[  684.798965] [UpperDev]IN UpperDev_write
-[  684.798967] [UpperDev]IN UpperDev_write
-[  684.798968] [UpperDev]IN UpperDev_write
-[  684.798970] [UpperDev]IN UpperDev_write
-[  684.798972] [UpperDev]IN UpperDev_write
-[  684.798974] [UpperDev]IN UpperDev_write
-[  684.798976] [UpperDev]IN UpperDev_write
-[  684.798978] [UpperDev]IN UpperDev_write
-[  684.798980] [UpperDev]IN UpperDev_write
-[  684.798982] [UpperDev]IN UpperDev_write
-[  684.798984] [UpperDev]IN UpperDev_write
-[  684.798986] [UpperDev]IN UpperDev_write
-[  684.798988] [UpperDev]IN UpperDev_write
-[  684.798990] [UpperDev]IN UpperDev_write
-[  684.798992] [UpperDev]IN UpperDev_write
-[  684.798994] [UpperDev]IN UpperDev_write
-[  684.798996] [UpperDev]IN UpperDev_write
-[  684.798998] [UpperDev]IN UpperDev_write
-[  684.799000] [UpperDev]IN UpperDev_write
-[  684.799002] [UpperDev]IN UpperDev_write
-[  684.799004] [UpperDev]IN UpperDev_write
-[  684.799006] [UpperDev]IN UpperDev_write
-[  684.799008] [UpperDev]IN UpperDev_write
-[  684.799010] [UpperDev]IN UpperDev_write
-[  684.799011] [UpperDev]IN UpperDev_write
-[  684.799013] [UpperDev]IN UpperDev_write
-[  684.799015] [UpperDev]IN UpperDev_write
-[  684.799017] [UpperDev]IN UpperDev_write
-[  684.799019] [UpperDev]IN UpperDev_write
-[  684.799021] [UpperDev]IN UpperDev_write
-[  684.799023] [UpperDev]IN UpperDev_write
-[  684.799025] [UpperDev]IN UpperDev_write
-[  684.799027] [UpperDev]IN UpperDev_write
-[  684.799029] [UpperDev]IN UpperDev_write
-[  684.799031] [UpperDev]IN UpperDev_write
-[  684.799033] [UpperDev]IN UpperDev_write
-[  684.799035] [UpperDev]IN UpperDev_write
-[  684.799037] [UpperDev]IN UpperDev_write
-[  684.799039] [UpperDev]IN UpperDev_write
-[  684.799041] [UpperDev]IN UpperDev_write
-[  684.799043] [UpperDev]IN UpperDev_write
-[  684.799045] [UpperDev]IN UpperDev_write
-[  684.799047] [UpperDev]IN UpperDev_write
-[  684.799049] [UpperDev]IN UpperDev_write
-[  684.799051] [UpperDev]IN UpperDev_write
-[  684.799052] [UpperDev]IN UpperDev_write
-[  684.799054] [UpperDev]IN UpperDev_write
-[  684.799056] [UpperDev]IN UpperDev_write
-[  684.799058] [UpperDev]IN UpperDev_write
-[  684.799060] [UpperDev]IN UpperDev_write
-[  684.799062] [UpperDev]IN UpperDev_write
-[  684.799064] [UpperDev]IN UpperDev_write
-[  684.799066] [UpperDev]IN UpperDev_write
-[  684.799068] [UpperDev]IN UpperDev_write
-[  684.799070] [UpperDev]IN UpperDev_write
-[  684.799072] [UpperDev]IN UpperDev_write
-[  684.799074] [UpperDev]IN UpperDev_write
-[  684.799076] [UpperDev]IN UpperDev_write
-[  684.799078] [UpperDev]IN UpperDev_write
-[  684.799080] [UpperDev]IN UpperDev_write
-[  684.799082] [UpperDev]IN UpperDev_write
-[  684.799084] [UpperDev]IN UpperDev_write
-[  684.799086] [UpperDev]IN UpperDev_write
-[  684.799088] [UpperDev]IN UpperDev_write
-[  684.799090] [UpperDev]IN UpperDev_write
-[  684.799092] [UpperDev]IN UpperDev_write
-[  684.799094] [UpperDev]IN UpperDev_write
-[  684.799096] [UpperDev]IN UpperDev_write
-[  684.799098] [UpperDev]IN UpperDev_write
-[  684.799100] [UpperDev]IN UpperDev_write
-[  684.799101] [UpperDev]IN UpperDev_write
-[  684.799103] [UpperDev]IN UpperDev_write
-[  684.799105] [UpperDev]IN UpperDev_write
-[  684.799107] [UpperDev]IN UpperDev_write
-[  684.799109] [UpperDev]IN UpperDev_write
-[  684.799111] [UpperDev]IN UpperDev_write
-[  684.799113] [UpperDev]IN UpperDev_write
-[  684.799115] [UpperDev]IN UpperDev_write
-[  684.799117] [UpperDev]IN UpperDev_write
-[  684.799119] [UpperDev]IN UpperDev_write
-[  684.799121] [UpperDev]IN UpperDev_write
-[  684.799123] [UpperDev]IN UpperDev_write
-[  684.799125] [UpperDev]IN UpperDev_write
-[  684.799127] [UpperDev]IN UpperDev_write
-[  684.799129] [UpperDev]IN UpperDev_write
-[  684.799131] [UpperDev]IN UpperDev_write
-[  684.799133] [UpperDev]IN UpperDev_write
-[  684.799134] [UpperDev]IN UpperDev_write
-[  684.799136] [UpperDev]IN UpperDev_write
-[  684.799138] [UpperDev]IN UpperDev_write
-[  684.799140] [UpperDev]IN UpperDev_write
-[  684.799142] [UpperDev]IN UpperDev_write
-[  684.799144] [UpperDev]IN UpperDev_write
-[  684.799146] [UpperDev]IN UpperDev_write
-[  684.799148] [UpperDev]IN UpperDev_write
-[  684.799150] [UpperDev]IN UpperDev_write
-[  684.799152] [UpperDev]IN UpperDev_write
-[  684.799154] [UpperDev]IN UpperDev_write
-[  684.799156] [UpperDev]IN UpperDev_write
-[  684.799158] [UpperDev]IN UpperDev_write
-[  684.799160] [UpperDev]IN UpperDev_write
-[  684.799162] [UpperDev]IN UpperDev_write
-[  684.799164] [UpperDev]IN UpperDev_write
-[  684.799166] [UpperDev]IN UpperDev_write
-[  684.799168] [UpperDev]IN UpperDev_write
-[  684.799170] [UpperDev]IN UpperDev_write
-[  684.799172] [UpperDev]IN UpperDev_write
-[  684.799174] [UpperDev]IN UpperDev_write
-[  684.799176] [UpperDev]IN UpperDev_write
-[  684.799178] [UpperDev]IN UpperDev_write
-[  684.799180] [UpperDev]IN UpperDev_write
-[  684.799181] [UpperDev]IN UpperDev_write
-[  684.799183] [UpperDev]IN UpperDev_write
-[  684.799185] [UpperDev]IN UpperDev_write
-[  684.799187] [UpperDev]IN UpperDev_write
-[  684.799189] [UpperDev]IN UpperDev_write
-[  684.799191] [UpperDev]IN UpperDev_write
-[  684.799193] [UpperDev]IN UpperDev_write
-[  684.799195] [UpperDev]IN UpperDev_write
-[  684.799197] [UpperDev]IN UpperDev_write
-[  684.799199] [UpperDev]IN UpperDev_write
-[  684.799201] [UpperDev]IN UpperDev_write
-[  684.799203] [UpperDev]IN UpperDev_write
-[  684.799205] [UpperDev]IN UpperDev_write
-[  684.799207] [UpperDev]IN UpperDev_write
-[  684.799209] [UpperDev]IN UpperDev_write
-[  684.799211] [UpperDev]IN UpperDev_write
-[  684.799213] [UpperDev]IN UpperDev_write
-[  684.799215] [UpperDev]IN UpperDev_write
-[  684.799217] [UpperDev]IN UpperDev_write
-[  684.799219] [UpperDev]IN UpperDev_write
-[  684.799221] [UpperDev]IN UpperDev_write
-[  684.799223] [UpperDev]IN UpperDev_write
-[  684.799225] [UpperDev]IN UpperDev_write
-[  684.799227] [UpperDev]IN UpperDev_write
-[  684.799229] [UpperDev]IN UpperDev_write
-[  684.799231] [UpperDev]IN UpperDev_write
-[  684.799232] [UpperDev]IN UpperDev_write
-[  684.799234] [UpperDev]IN UpperDev_write
-[  684.799236] [UpperDev]IN UpperDev_write
-[  684.799238] [UpperDev]IN UpperDev_write
-[  684.799240] [UpperDev]IN UpperDev_write
-[  684.799242] [UpperDev]IN UpperDev_write
-[  684.799244] [UpperDev]IN UpperDev_write
-[  684.799246] [UpperDev]IN UpperDev_write
-[  684.799248] [UpperDev]IN UpperDev_write
-[  684.799250] [UpperDev]IN UpperDev_write
-[  684.799252] [UpperDev]IN UpperDev_write
-[  684.799254] [UpperDev]IN UpperDev_write
-[  684.799256] [UpperDev]IN UpperDev_write
-[  684.799258] [UpperDev]IN UpperDev_write
-[  684.799260] [UpperDev]IN UpperDev_write
-[  684.799262] [UpperDev]IN UpperDev_write
-[  684.799264] [UpperDev]IN UpperDev_write
-[  684.799266] [UpperDev]IN UpperDev_write
-[  684.799268] [UpperDev]IN UpperDev_write
-[  684.799270] [UpperDev]IN UpperDev_write
-[  684.799272] [UpperDev]IN UpperDev_write
-[  684.799274] [UpperDev]IN UpperDev_write
-[  684.799276] [UpperDev]IN UpperDev_write
-[  684.799277] [UpperDev]IN UpperDev_write
-[  684.799279] [UpperDev]IN UpperDev_write
-[  684.799281] [UpperDev]IN UpperDev_write
-[  684.799283] [UpperDev]IN UpperDev_write
-[  684.799285] [UpperDev]IN UpperDev_write
-[  684.799287] [UpperDev]IN UpperDev_write
-[  684.799289] [UpperDev]IN UpperDev_write
-[  684.799291] [UpperDev]IN UpperDev_write
-[  684.799293] [UpperDev]IN UpperDev_write
-[  684.799295] [UpperDev]IN UpperDev_write
-[  684.799297] [UpperDev]IN UpperDev_write
-[  684.799299] [UpperDev]IN UpperDev_write
-[  684.799301] [UpperDev]IN UpperDev_write
-[  684.799303] [UpperDev]IN UpperDev_write
-[  684.799305] [UpperDev]IN UpperDev_write
-[  684.799307] [UpperDev]IN UpperDev_write
-[  684.799309] [UpperDev]IN UpperDev_write
-[  684.799311] [UpperDev]IN UpperDev_write
-[  684.799313] [UpperDev]IN UpperDev_write
-[  684.799315] [UpperDev]IN UpperDev_write
-[  684.799317] [UpperDev]IN UpperDev_write
-[  684.799319] [UpperDev]IN UpperDev_write
-[  684.799320] [UpperDev]IN UpperDev_write
-[  684.799322] [UpperDev]IN UpperDev_write
-[  684.799324] [UpperDev]IN UpperDev_write
-[  684.799326] [UpperDev]IN UpperDev_write
-[  684.799328] [UpperDev]IN UpperDev_write
-[  684.799330] [UpperDev]IN UpperDev_write
-[  684.799332] [UpperDev]IN UpperDev_write
-[  684.799334] [UpperDev]IN UpperDev_write
-[  684.799336] [UpperDev]IN UpperDev_write
-[  684.799338] [UpperDev]IN UpperDev_write
-[  684.799340] [UpperDev]IN UpperDev_write
-[  684.799342] [UpperDev]IN UpperDev_write
-[  684.799344] [UpperDev]IN UpperDev_write
-[  684.799346] [UpperDev]IN UpperDev_write
-[  684.799348] [UpperDev]IN UpperDev_write
-[  684.799350] [UpperDev]IN UpperDev_write
-[  684.799352] [UpperDev]IN UpperDev_write
-[  684.799353] [UpperDev]IN UpperDev_write
-[  684.799355] [UpperDev]IN UpperDev_write
-[  684.799357] [UpperDev]IN UpperDev_write
-[  684.799359] [UpperDev]IN UpperDev_write
-[  684.799361] [UpperDev]IN UpperDev_write
-[  684.799363] [UpperDev]IN UpperDev_write
-[  684.799365] [UpperDev]IN UpperDev_write
-[  684.799367] [UpperDev]IN UpperDev_write
-[  684.799369] [UpperDev]IN UpperDev_write
-[  684.799371] [UpperDev]IN UpperDev_write
-[  684.799373] [UpperDev]IN UpperDev_write
-[  684.799375] [UpperDev]IN UpperDev_write
-[  684.799377] [UpperDev]IN UpperDev_write
-[  684.799379] [UpperDev]IN UpperDev_write
-[  684.799381] [UpperDev]IN UpperDev_write
-[  684.799382] [UpperDev]IN UpperDev_write
-[  684.799384] [UpperDev]IN UpperDev_write
-[  684.799386] [UpperDev]IN UpperDev_write
-[  684.799388] [UpperDev]IN UpperDev_write
-[  684.799390] [UpperDev]IN UpperDev_write
-[  684.799392] [UpperDev]IN UpperDev_write
-[  684.799394] [UpperDev]IN UpperDev_write
-[  684.799396] [UpperDev]IN UpperDev_write
-[  684.799398] [UpperDev]IN UpperDev_write
-[  684.799400] [UpperDev]IN UpperDev_write
-[  684.799402] [UpperDev]IN UpperDev_write
-[  684.799404] [UpperDev]IN UpperDev_write
-[  684.799406] [UpperDev]IN UpperDev_write
-[  684.799408] [UpperDev]IN UpperDev_write
-[  684.799410] [UpperDev]IN UpperDev_write
-[  684.799412] [UpperDev]IN UpperDev_write
-[  684.799414] [UpperDev]IN UpperDev_write
-[  684.799416] [UpperDev]IN UpperDev_write
-[  684.799418] [UpperDev]IN UpperDev_write
-[  684.799420] [UpperDev]IN UpperDev_write
-[  684.799421] [UpperDev]IN UpperDev_write
-[  684.799423] [UpperDev]IN UpperDev_write
-[  684.799448] [UpperDev]IN UpperDev_write
-[  684.799454] [UpperDev]IN UpperDev_write
-[  684.799456] [UpperDev]IN UpperDev_write
-[  684.799458] [UpperDev]IN UpperDev_write
-[  684.799460] [UpperDev]IN UpperDev_write
-[  684.799463] [UpperDev]IN UpperDev_write
-[  684.799465] [UpperDev]IN UpperDev_write
-[  684.799467] [UpperDev]IN UpperDev_write
-[  684.799469] [UpperDev]IN UpperDev_write
-[  684.799471] [UpperDev]IN UpperDev_write
-[  684.799473] [UpperDev]IN UpperDev_write
-[  684.799475] [UpperDev]IN UpperDev_write
-[  684.799477] [UpperDev]IN UpperDev_write
-[  684.799479] [UpperDev]IN UpperDev_write
-[  684.799481] [UpperDev]IN UpperDev_write
-[  684.799483] [UpperDev]IN UpperDev_write
-[  684.799485] [UpperDev]IN UpperDev_write
-[  684.799487] [UpperDev]IN UpperDev_write
-[  684.799489] [UpperDev]IN UpperDev_write
-[  684.799491] [UpperDev]IN UpperDev_write
-[  684.799493] [UpperDev]IN UpperDev_write
-[  684.799495] [UpperDev]IN UpperDev_write
-[  684.799497] [UpperDev]IN UpperDev_write
-[  684.799498] [UpperDev]IN UpperDev_write
-[  684.799500] [UpperDev]IN UpperDev_write
-[  684.799502] [UpperDev]IN UpperDev_write
-[  684.799504] [UpperDev]IN UpperDev_write
-[  684.799506] [UpperDev]IN UpperDev_write
-[  684.799508] [UpperDev]IN UpperDev_write
-[  684.799510] [UpperDev]IN UpperDev_write
-[  684.799512] [UpperDev]IN UpperDev_write
-[  684.799514] [UpperDev]IN UpperDev_write
-[  684.799516] [UpperDev]IN UpperDev_write
-[  684.799518] [UpperDev]IN UpperDev_write
-[  684.799520] [UpperDev]IN UpperDev_write
-[  684.799522] [UpperDev]IN UpperDev_write
-[  684.799524] [UpperDev]IN UpperDev_write
-[  684.799526] [UpperDev]IN UpperDev_write
-[  684.799528] [UpperDev]IN UpperDev_write
-[  684.799530] [UpperDev]IN UpperDev_write
-[  684.799532] [UpperDev]IN UpperDev_write
-[  684.799534] [UpperDev]IN UpperDev_write
-[  684.799535] [UpperDev]IN UpperDev_write
-[  684.799537] [UpperDev]IN UpperDev_write
-[  684.799539] [UpperDev]IN UpperDev_write
-[  684.799541] [UpperDev]IN UpperDev_write
-[  684.799543] [UpperDev]IN UpperDev_write
-[  684.799545] [UpperDev]IN UpperDev_write
-[  684.799547] [UpperDev]IN UpperDev_write
-[  684.799549] [UpperDev]IN UpperDev_write
-[  684.799551] [UpperDev]IN UpperDev_write
-[  684.799553] [UpperDev]IN UpperDev_write
-[  684.799555] [UpperDev]IN UpperDev_write
-[  684.799557] [UpperDev]IN UpperDev_write
-[  684.799559] [UpperDev]IN UpperDev_write
-[  684.799561] [UpperDev]IN UpperDev_write
-[  684.799563] [UpperDev]IN UpperDev_write
-[  684.799565] [UpperDev]IN UpperDev_write
-[  684.799566] [UpperDev]IN UpperDev_write
-[  684.799568] [UpperDev]IN UpperDev_write
-[  684.799570] [UpperDev]IN UpperDev_write
-[  684.799572] [UpperDev]IN UpperDev_write
-[  684.799574] [UpperDev]IN UpperDev_write
-[  684.799576] [UpperDev]IN UpperDev_write
-[  684.799578] [UpperDev]IN UpperDev_write
-[  684.799580] [UpperDev]IN UpperDev_write
-[  684.799582] [UpperDev]IN UpperDev_write
-[  684.799584] [UpperDev]IN UpperDev_write
-[  684.799586] [UpperDev]IN UpperDev_write
-[  684.799587] [UpperDev]IN UpperDev_write
-[  684.799589] [UpperDev]IN UpperDev_write
-[  684.799591] [UpperDev]IN UpperDev_write
-[  684.799593] [UpperDev]IN UpperDev_write
-[  684.799595] [UpperDev]IN UpperDev_write
-[  684.799597] [UpperDev]IN UpperDev_write
-[  684.799599] [UpperDev]IN UpperDev_write
-[  684.799601] [UpperDev]IN UpperDev_write
-[  684.799603] [UpperDev]IN UpperDev_write
-[  684.799605] [UpperDev]IN UpperDev_write
-[  684.799607] [UpperDev]IN UpperDev_write
-[  684.799608] [UpperDev]IN UpperDev_write
-[  684.799610] [UpperDev]IN UpperDev_write
-[  684.799612] [UpperDev]IN UpperDev_write
-[  684.799614] [UpperDev]IN UpperDev_write
-[  684.799616] [UpperDev]IN UpperDev_write
-[  684.799618] [UpperDev]IN UpperDev_write
-[  684.799620] [UpperDev]IN UpperDev_write
-[  684.799622] [UpperDev]IN UpperDev_write
-[  684.799624] [UpperDev]IN UpperDev_write
-[  684.799626] [UpperDev]IN UpperDev_write
-[  684.799628] [UpperDev]IN UpperDev_write
-[  684.799629] [UpperDev]IN UpperDev_write
-[  684.799631] [UpperDev]IN UpperDev_write
-[  684.799633] [UpperDev]IN UpperDev_write
-[  684.799635] [UpperDev]IN UpperDev_write
-[  684.799637] [UpperDev]IN UpperDev_write
-[  684.799639] [UpperDev]IN UpperDev_write
-[  684.799641] [UpperDev]IN UpperDev_write
-[  684.799643] [UpperDev]IN UpperDev_write
-[  684.799645] [UpperDev]IN UpperDev_write
-[  684.799647] [UpperDev]IN UpperDev_write
-[  684.799649] [UpperDev]IN UpperDev_write
-[  684.799651] [UpperDev]IN UpperDev_write
-[  684.799653] [UpperDev]IN UpperDev_write
-[  684.799655] [UpperDev]IN UpperDev_write
-[  684.799657] [UpperDev]IN UpperDev_write
-[  684.799659] [UpperDev]IN UpperDev_write
-[  684.799660] [UpperDev]IN UpperDev_write
-[  684.799662] [UpperDev]IN UpperDev_write
-[  684.799664] [UpperDev]IN UpperDev_write
-[  684.799666] [UpperDev]IN UpperDev_write
-[  684.799668] [UpperDev]IN UpperDev_write
-[  684.799670] [UpperDev]IN UpperDev_write
-[  684.799672] [UpperDev]IN UpperDev_write
-[  684.799674] [UpperDev]IN UpperDev_write
-[  684.799676] [UpperDev]IN UpperDev_write
-[  684.799678] [UpperDev]IN UpperDev_write
-[  684.799680] [UpperDev]IN UpperDev_write
-[  684.799682] [UpperDev]IN UpperDev_write
-[  684.799683] [UpperDev]IN UpperDev_write
-[  684.799685] [UpperDev]IN UpperDev_write
-[  684.799687] [UpperDev]IN UpperDev_write
-[  684.799689] [UpperDev]IN UpperDev_write
-[  684.799691] [UpperDev]IN UpperDev_write
-[  684.799693] [UpperDev]IN UpperDev_write
-[  684.799695] [UpperDev]IN UpperDev_write
-[  684.799697] [UpperDev]IN UpperDev_write
-[  684.799699] [UpperDev]IN UpperDev_write
-[  684.799701] [UpperDev]IN UpperDev_write
-[  684.799703] [UpperDev]IN UpperDev_write
-[  684.799705] [UpperDev]IN UpperDev_write
-[  684.799707] [UpperDev]IN UpperDev_write
-[  684.799709] [UpperDev]IN UpperDev_write
-[  684.799710] [UpperDev]IN UpperDev_write
-[  684.799712] [UpperDev]IN UpperDev_write
-[  684.799714] [UpperDev]IN UpperDev_write
-[  684.799716] [UpperDev]IN UpperDev_write
-[  684.799718] [UpperDev]IN UpperDev_write
-[  684.799720] [UpperDev]IN UpperDev_write
-[  684.799722] [UpperDev]IN UpperDev_write
-[  684.799724] [UpperDev]IN UpperDev_write
-[  684.799726] [UpperDev]IN UpperDev_write
-[  684.799728] [UpperDev]IN UpperDev_write
-[  684.799730] [UpperDev]IN UpperDev_write
-[  684.799732] [UpperDev]IN UpperDev_write
-[  684.799734] [UpperDev]IN UpperDev_write
-[  684.799735] [UpperDev]IN UpperDev_write
-[  684.799737] [UpperDev]IN UpperDev_write
-[  684.799739] [UpperDev]IN UpperDev_write
-[  684.799741] [UpperDev]IN UpperDev_write
-[  684.799743] [UpperDev]IN UpperDev_write
-[  684.799745] [UpperDev]IN UpperDev_write
-[  684.799747] [UpperDev]IN UpperDev_write
-[  684.799749] [UpperDev]IN UpperDev_write
-[  684.799751] [UpperDev]IN UpperDev_write
-[  684.799753] [UpperDev]IN UpperDev_write
-[  684.799755] [UpperDev]IN UpperDev_write
-[  684.799757] [UpperDev]IN UpperDev_write
-[  684.799759] [UpperDev]IN UpperDev_write
-[  684.799761] [UpperDev]IN UpperDev_write
-[  684.799762] [UpperDev]IN UpperDev_write
-[  684.799764] [UpperDev]IN UpperDev_write
-[  684.799766] [UpperDev]IN UpperDev_write
-[  684.799768] [UpperDev]IN UpperDev_write
-[  684.799770] [UpperDev]IN UpperDev_write
-[  684.799772] [UpperDev]IN UpperDev_write
-[  684.799774] [UpperDev]IN UpperDev_write
-[  684.799776] [UpperDev]IN UpperDev_write
-[  684.799778] [UpperDev]IN UpperDev_write
-[  684.799780] [UpperDev]IN UpperDev_write
-[  684.799782] [UpperDev]IN UpperDev_write
-[  684.799783] [UpperDev]IN UpperDev_write
-[  684.799785] [UpperDev]IN UpperDev_write
-[  684.799787] [UpperDev]IN UpperDev_write
-[  684.799789] [UpperDev]IN UpperDev_write
-[  684.799791] [UpperDev]IN UpperDev_write
-[  684.799793] [UpperDev]IN UpperDev_write
-[  684.799795] [UpperDev]IN UpperDev_write
-[  684.799797] [UpperDev]IN UpperDev_write
-[  684.799799] [UpperDev]IN UpperDev_write
-[  684.799801] [UpperDev]IN UpperDev_write
-[  684.799803] [UpperDev]IN UpperDev_write
-[  684.799805] [UpperDev]IN UpperDev_write
-[  684.799807] [UpperDev]IN UpperDev_write
-[  684.799809] [UpperDev]IN UpperDev_write
-[  684.799811] [UpperDev]IN UpperDev_write
-[  684.799813] [UpperDev]IN UpperDev_write
-[  684.799815] [UpperDev]IN UpperDev_write
-[  684.799817] [UpperDev]IN UpperDev_write
-[  684.799818] [UpperDev]IN UpperDev_write
-[  684.799820] [UpperDev]IN UpperDev_write
-[  684.799822] [UpperDev]IN UpperDev_write
-[  684.799824] [UpperDev]IN UpperDev_write
-[  684.799826] [UpperDev]IN UpperDev_write
-[  684.799828] [UpperDev]IN UpperDev_write
-[  684.799830] [UpperDev]IN UpperDev_write
-[  684.799832] [UpperDev]IN UpperDev_write
-[  684.799834] [UpperDev]IN UpperDev_write
-[  684.799836] [UpperDev]IN UpperDev_write
-[  684.799838] [UpperDev]IN UpperDev_write
-[  684.799839] [UpperDev]IN UpperDev_write
-[  684.799841] [UpperDev]IN UpperDev_write
-[  684.799843] [UpperDev]IN UpperDev_write
-[  684.799845] [UpperDev]IN UpperDev_write
-[  684.799847] [UpperDev]IN UpperDev_write
-[  684.799849] [UpperDev]IN UpperDev_write
-[  684.799851] [UpperDev]IN UpperDev_write
-[  684.799853] [UpperDev]IN UpperDev_write
-[  684.799855] [UpperDev]IN UpperDev_write
-[  684.799857] [UpperDev]IN UpperDev_write
-[  684.799858] [UpperDev]IN UpperDev_write
-[  684.799860] [UpperDev]IN UpperDev_write
-[  684.799862] [UpperDev]IN UpperDev_write
-[  684.799864] [UpperDev]IN UpperDev_write
-[  684.799866] [UpperDev]IN UpperDev_write
-[  684.799868] [UpperDev]IN UpperDev_write
-[  684.799870] [UpperDev]IN UpperDev_write
-[  684.799872] [UpperDev]IN UpperDev_write
-[  684.799874] [UpperDev]IN UpperDev_write
-[  684.799876] [UpperDev]IN UpperDev_write
-[  684.799878] [UpperDev]IN UpperDev_write
-[  684.799880] [UpperDev]IN UpperDev_write
-[  684.799881] [UpperDev]IN UpperDev_write
-[  684.799883] [UpperDev]IN UpperDev_write
-[  684.799885] [UpperDev]IN UpperDev_write
-[  684.799887] [UpperDev]IN UpperDev_write
-[  684.799889] [UpperDev]IN UpperDev_write
-[  684.799891] [UpperDev]IN UpperDev_write
-[  684.799893] [UpperDev]IN UpperDev_write
-[  684.799895] [UpperDev]IN UpperDev_write
-[  684.799897] [UpperDev]IN UpperDev_write
-[  684.799899] [UpperDev]IN UpperDev_write
-[  684.799901] [UpperDev]IN UpperDev_write
-[  684.799903] [UpperDev]IN UpperDev_write
-[  684.799905] [UpperDev]IN UpperDev_write
-[  684.799906] [UpperDev]IN UpperDev_write
-[  684.799908] [UpperDev]IN UpperDev_write
-[  684.799910] [UpperDev]IN UpperDev_write
-[  684.799912] [UpperDev]IN UpperDev_write
-[  684.799914] [UpperDev]IN UpperDev_write
-[  684.799916] [UpperDev]IN UpperDev_write
-[  684.799918] [UpperDev]IN UpperDev_write
-[  684.799920] [UpperDev]IN UpperDev_write
-[  684.799922] [UpperDev]IN UpperDev_write
-[  684.799924] [UpperDev]IN UpperDev_write
-[  684.799926] [UpperDev]IN UpperDev_write
-[  684.799928] [UpperDev]IN UpperDev_write
-[  684.799930] [UpperDev]IN UpperDev_write
-[  684.799931] [UpperDev]IN UpperDev_write
-[  684.799933] [UpperDev]IN UpperDev_write
-[  684.799935] [UpperDev]IN UpperDev_write
-[  684.799937] [UpperDev]IN UpperDev_write
-[  684.799939] [UpperDev]IN UpperDev_write
-[  684.799941] [UpperDev]IN UpperDev_write
-[  684.799943] [UpperDev]IN UpperDev_write
-[  684.799945] [UpperDev]IN UpperDev_write
-[  684.799947] [UpperDev]IN UpperDev_write
-[  684.799949] [UpperDev]IN UpperDev_write
-[  684.799951] [UpperDev]IN UpperDev_write
-[  684.799953] [UpperDev]IN UpperDev_write
-[  684.799955] [UpperDev]IN UpperDev_write
-[  684.799957] [UpperDev]IN UpperDev_write
-[  684.799959] [UpperDev]IN UpperDev_write
-[  684.799960] [UpperDev]IN UpperDev_write
-[  684.799962] [UpperDev]IN UpperDev_write
-[  684.799964] [UpperDev]IN UpperDev_write
-[  684.799966] [UpperDev]IN UpperDev_write
-[  684.799968] [UpperDev]IN UpperDev_write
-[  684.799970] [UpperDev]IN UpperDev_write
-[  684.799972] [UpperDev]IN UpperDev_write
-[  684.799974] [UpperDev]IN UpperDev_write
-[  684.799976] [UpperDev]IN UpperDev_write
-[  684.799978] [UpperDev]IN UpperDev_write
-[  684.799980] [UpperDev]IN UpperDev_write
-[  684.799982] [UpperDev]IN UpperDev_write
-[  684.799984] [UpperDev]IN UpperDev_write
-[  684.799985] [UpperDev]IN UpperDev_write
-[  684.799987] [UpperDev]IN UpperDev_write
-[  684.799989] [UpperDev]IN UpperDev_write
-[  684.799991] [UpperDev]IN UpperDev_write
-[  684.799993] [UpperDev]IN UpperDev_write
-[  684.799995] [UpperDev]IN UpperDev_write
-[  684.799997] [UpperDev]IN UpperDev_write
-[  684.799999] [UpperDev]IN UpperDev_write
-[  684.800001] [UpperDev]IN UpperDev_write
-[  684.800003] [UpperDev]IN UpperDev_write
-[  684.800005] [UpperDev]IN UpperDev_write
-[  684.800006] [UpperDev]IN UpperDev_write
-[  684.800008] [UpperDev]IN UpperDev_write
-[  684.800010] [UpperDev]IN UpperDev_write
-[  684.800012] [UpperDev]IN UpperDev_write
-[  684.800014] [UpperDev]IN UpperDev_write
-[  684.800016] [UpperDev]IN UpperDev_write
-[  684.800018] [UpperDev]IN UpperDev_write
-[  684.800020] [UpperDev]IN UpperDev_write
-[  684.800022] [UpperDev]IN UpperDev_write
-[  684.800024] [UpperDev]IN UpperDev_write
-[  684.800026] [UpperDev]IN UpperDev_write
-[  684.800028] [UpperDev]IN UpperDev_write
-[  684.800029] [UpperDev]IN UpperDev_write
-[  684.800031] [UpperDev]IN UpperDev_write
-[  684.800033] [UpperDev]IN UpperDev_write
-[  684.800035] [UpperDev]IN UpperDev_write
-[  684.800037] [UpperDev]IN UpperDev_write
-[  684.800039] [UpperDev]IN UpperDev_write
-[  684.800041] [UpperDev]IN UpperDev_write
-[  684.800043] [UpperDev]IN UpperDev_write
-[  684.800045] [UpperDev]IN UpperDev_write
-[  684.800047] [UpperDev]IN UpperDev_write
-[  684.800049] [UpperDev]IN UpperDev_write
-[  684.800051] [UpperDev]IN UpperDev_write
-[  684.800053] [UpperDev]IN UpperDev_write
-[  684.800054] [UpperDev]IN UpperDev_write
-[  684.800056] [UpperDev]IN UpperDev_write
-[  684.800058] [UpperDev]IN UpperDev_write
-[  684.800060] [UpperDev]IN UpperDev_write
-[  684.800062] [UpperDev]IN UpperDev_write
-[  684.800064] [UpperDev]IN UpperDev_write
-[  684.800066] [UpperDev]IN UpperDev_write
-[  684.800068] [UpperDev]IN UpperDev_write
-[  684.800070] [UpperDev]IN UpperDev_write
-[  684.800072] [UpperDev]IN UpperDev_write
-[  684.800073] [UpperDev]IN UpperDev_write
-[  684.800075] [UpperDev]IN UpperDev_write
-[  684.800077] [UpperDev]IN UpperDev_write
-[  684.800079] [UpperDev]IN UpperDev_write
-[  684.800081] [UpperDev]IN UpperDev_write
-[  684.800083] [UpperDev]IN UpperDev_write
-[  684.800085] [UpperDev]IN UpperDev_write
-[  684.800087] [UpperDev]IN UpperDev_write
-[  684.800089] [UpperDev]IN UpperDev_write
-[  684.800091] [UpperDev]IN UpperDev_write
-[  684.800092] [UpperDev]IN UpperDev_write
-[  684.800094] [UpperDev]IN UpperDev_write
-[  684.800096] [UpperDev]IN UpperDev_write
-[  684.800098] [UpperDev]IN UpperDev_write
-[  684.800100] [UpperDev]IN UpperDev_write
-[  684.800102] [UpperDev]IN UpperDev_write
-[  684.800104] [UpperDev]IN UpperDev_write
-[  684.800106] [UpperDev]IN UpperDev_write
-[  684.800108] [UpperDev]IN UpperDev_write
-[  684.800110] [UpperDev]IN UpperDev_write
-[  684.800112] [UpperDev]IN UpperDev_write
-[  684.800114] [UpperDev]IN UpperDev_write
-[  684.800115] [UpperDev]IN UpperDev_write
-[  684.800117] [UpperDev]IN UpperDev_write
-[  684.800119] [UpperDev]IN UpperDev_write
-[  684.800121] [UpperDev]IN UpperDev_write
-[  684.800123] [UpperDev]IN UpperDev_write
-[  684.800125] [UpperDev]IN UpperDev_write
-[  684.800127] [UpperDev]IN UpperDev_write
-[  684.800129] [UpperDev]IN UpperDev_write
-[  684.800131] [UpperDev]IN UpperDev_write
-[  684.800133] [UpperDev]IN UpperDev_write
-[  684.800135] [UpperDev]IN UpperDev_write
-[  684.800137] [UpperDev]IN UpperDev_write
-[  684.800138] [UpperDev]IN UpperDev_write
-[  684.800140] [UpperDev]IN UpperDev_write
-[  684.800142] [UpperDev]IN UpperDev_write
-[  684.800144] [UpperDev]IN UpperDev_write
-[  684.800146] [UpperDev]IN UpperDev_write
-[  684.800148] [UpperDev]IN UpperDev_write
-[  684.800150] [UpperDev]IN UpperDev_write
-[  684.800152] [UpperDev]IN UpperDev_write
-[  684.800154] [UpperDev]IN UpperDev_write
-[  684.800156] [UpperDev]IN UpperDev_write
-[  684.800158] [UpperDev]IN UpperDev_write
-[  684.800160] [UpperDev]IN UpperDev_write
-[  684.800162] [UpperDev]IN UpperDev_write
-[  684.800164] [UpperDev]IN UpperDev_write
-[  684.800165] [UpperDev]IN UpperDev_write
-[  684.800167] [UpperDev]IN UpperDev_write
-[  684.800169] [UpperDev]IN UpperDev_write
-[  684.800171] [UpperDev]IN UpperDev_write
-[  684.800173] [UpperDev]IN UpperDev_write
-[  684.800175] [UpperDev]IN UpperDev_write
-[  684.800177] [UpperDev]IN UpperDev_write
-[  684.800179] [UpperDev]IN UpperDev_write
-[  684.800181] [UpperDev]IN UpperDev_write
-[  684.800183] [UpperDev]IN UpperDev_write
-[  684.800185] [UpperDev]IN UpperDev_write
-[  684.800187] [UpperDev]IN UpperDev_write
-[  684.800189] [UpperDev]IN UpperDev_write
-[  684.800191] [UpperDev]IN UpperDev_write
-[  684.800192] [UpperDev]IN UpperDev_write
-[  684.800194] [UpperDev]IN UpperDev_write
-[  684.800196] [UpperDev]IN UpperDev_write
-[  684.800198] [UpperDev]IN UpperDev_write
-[  684.800200] [UpperDev]IN UpperDev_write
-[  684.800202] [UpperDev]IN UpperDev_write
-[  684.800204] [UpperDev]IN UpperDev_write
-[  684.800206] [UpperDev]IN UpperDev_write
-[  684.800208] [UpperDev]IN UpperDev_write
-[  684.800210] [UpperDev]IN UpperDev_write
-[  684.800212] [UpperDev]IN UpperDev_write
-[  684.800214] [UpperDev]IN UpperDev_write
-[  684.800215] [UpperDev]IN UpperDev_write
-[  684.800217] [UpperDev]IN UpperDev_write
-[  684.800219] [UpperDev]IN UpperDev_write
-[  684.800221] [UpperDev]IN UpperDev_write
-[  684.800223] [UpperDev]IN UpperDev_write
-[  684.800225] [UpperDev]IN UpperDev_write
-[  684.800227] [UpperDev]IN UpperDev_write
-[  684.800229] [UpperDev]IN UpperDev_write
-[  684.800231] [UpperDev]IN UpperDev_write
-[  684.800233] [UpperDev]IN UpperDev_write
-[  684.800235] [UpperDev]IN UpperDev_write
-[  684.800237] [UpperDev]IN UpperDev_write
-[  684.800238] [UpperDev]IN UpperDev_write
-[  684.800240] [UpperDev]IN UpperDev_write
-[  684.800242] [UpperDev]IN UpperDev_write
-[  684.800244] [UpperDev]IN UpperDev_write
-[  684.800246] [UpperDev]IN UpperDev_write
-[  684.800248] [UpperDev]IN UpperDev_write
-[  684.800250] [UpperDev]IN UpperDev_write
-[  684.800252] [UpperDev]IN UpperDev_write
-[  684.800254] [UpperDev]IN UpperDev_write
-[  684.800256] [UpperDev]IN UpperDev_write
-[  684.800258] [UpperDev]IN UpperDev_write
-[  684.800260] [UpperDev]IN UpperDev_write
-[  684.800262] [UpperDev]IN UpperDev_write
-[  684.800264] [UpperDev]IN UpperDev_write
-[  684.800265] [UpperDev]IN UpperDev_write
-[  684.800267] [UpperDev]IN UpperDev_write
-[  684.800269] [UpperDev]IN UpperDev_write
-[  684.800271] [UpperDev]IN UpperDev_write
-[  684.800273] [UpperDev]IN UpperDev_write
-[  684.800275] [UpperDev]IN UpperDev_write
-[  684.800277] [UpperDev]IN UpperDev_write
-[  684.800279] [UpperDev]IN UpperDev_write
-[  684.800281] [UpperDev]IN UpperDev_write
-[  684.800283] [UpperDev]IN UpperDev_write
-[  684.800285] [UpperDev]IN UpperDev_write
-[  684.800287] [UpperDev]IN UpperDev_write
-[  684.800289] [UpperDev]IN UpperDev_write
-[  684.800290] [UpperDev]IN UpperDev_write
-[  684.800292] [UpperDev]IN UpperDev_write
-[  684.800294] [UpperDev]IN UpperDev_write
-[  684.800296] [UpperDev]IN UpperDev_write
-[  684.800298] [UpperDev]IN UpperDev_write
-[  684.800300] [UpperDev]IN UpperDev_write
-[  684.800302] [UpperDev]IN UpperDev_write
-[  684.800304] [UpperDev]IN UpperDev_write
-[  684.800306] [UpperDev]IN UpperDev_write
-[  684.800308] [UpperDev]IN UpperDev_write
-[  684.800310] [UpperDev]IN UpperDev_write
-[  684.800312] [UpperDev]IN UpperDev_write
-[  684.800314] [UpperDev]IN UpperDev_write
-[  684.800316] [UpperDev]IN UpperDev_write
-[  684.800317] [UpperDev]IN UpperDev_write
-[  684.800319] [UpperDev]IN UpperDev_write
-[  684.800321] [UpperDev]IN UpperDev_write
-[  684.800323] [UpperDev]IN UpperDev_write
-[  684.800325] [UpperDev]IN UpperDev_write
-[  684.800327] [UpperDev]IN UpperDev_write
-[  684.800329] [UpperDev]IN UpperDev_write
-[  684.800331] [UpperDev]IN UpperDev_write
-[  684.800333] [UpperDev]IN UpperDev_write
-[  684.800335] [UpperDev]IN UpperDev_write
-[  684.800337] [UpperDev]IN UpperDev_write
-[  684.800339] [UpperDev]IN UpperDev_write
-[  684.800341] [UpperDev]IN UpperDev_write
-[  684.800342] [UpperDev]IN UpperDev_write
-[  684.800344] [UpperDev]IN UpperDev_write
-[  684.800346] [UpperDev]IN UpperDev_write
-[  684.800348] [UpperDev]IN UpperDev_write
-[  684.800350] [UpperDev]IN UpperDev_write
-[  684.800352] [UpperDev]IN UpperDev_write
-[  684.800354] [UpperDev]IN UpperDev_write
-[  684.800356] [UpperDev]IN UpperDev_write
-[  684.800358] [UpperDev]IN UpperDev_write
-[  684.800360] [UpperDev]IN UpperDev_write
-[  684.800362] [UpperDev]IN UpperDev_write
-[  684.800364] [UpperDev]IN UpperDev_write
-[  684.800366] [UpperDev]IN UpperDev_write
-[  684.800368] [UpperDev]IN UpperDev_write
-[  684.800369] [UpperDev]IN UpperDev_write
-[  684.800371] [UpperDev]IN UpperDev_write
-[  684.800373] [UpperDev]IN UpperDev_write
-[  684.800847] [UpperDev]IN UpperDev_write
-[  684.800849] [UpperDev]IN UpperDev_write
-[  684.800851] [UpperDev]IN UpperDev_write
-[  684.800853] [UpperDev]IN UpperDev_write
-[  684.800855] [UpperDev]IN UpperDev_write
-[  684.800857] [UpperDev]IN UpperDev_write
-[  684.800858] [UpperDev]IN UpperDev_write
-[  684.800860] [UpperDev]IN UpperDev_write
-[  684.800862] [UpperDev]IN UpperDev_write
-[  684.800864] [UpperDev]IN UpperDev_write
-[  684.800866] [UpperDev]IN UpperDev_write
-[  684.800868] [UpperDev]IN UpperDev_write
-[  684.800870] [UpperDev]IN UpperDev_write
-[  684.800872] [UpperDev]IN UpperDev_write
-[  684.800874] [UpperDev]IN UpperDev_write
-[  684.800876] [UpperDev]IN UpperDev_write
-[  684.800878] [UpperDev]IN UpperDev_write
-[  684.800879] [UpperDev]IN UpperDev_write
-[  684.800881] [UpperDev]IN UpperDev_write
-[  684.800883] [UpperDev]IN UpperDev_write
-[  684.800885] [UpperDev]IN UpperDev_write
-[  684.800887] [UpperDev]IN UpperDev_write
-[  684.800889] [UpperDev]IN UpperDev_write
-[  684.800891] [UpperDev]IN UpperDev_write
-[  684.800893] [UpperDev]IN UpperDev_write
-[  684.800895] [UpperDev]IN UpperDev_write
-[  684.800897] [UpperDev]IN UpperDev_write
-[  684.800898] [UpperDev]IN UpperDev_write
-[  684.800900] [UpperDev]IN UpperDev_write
-[  684.800902] [UpperDev]IN UpperDev_write
-[  684.800904] [UpperDev]IN UpperDev_write
-[  684.800906] [UpperDev]IN UpperDev_write
-[  684.800908] [UpperDev]IN UpperDev_write
-[  684.800910] [UpperDev]IN UpperDev_write
-[  684.800912] [UpperDev]IN UpperDev_write
-[  684.800914] [UpperDev]IN UpperDev_write
-[  684.800916] [UpperDev]IN UpperDev_write
-[  684.800918] [UpperDev]IN UpperDev_write
-[  684.800920] [UpperDev]IN UpperDev_write
-[  684.800922] [UpperDev]IN UpperDev_write
-[  684.800924] [UpperDev]IN UpperDev_write
-[  684.800925] [UpperDev]IN UpperDev_write
-[  684.800927] [UpperDev]IN UpperDev_write
-[  684.800929] [UpperDev]IN UpperDev_write
-[  684.800931] [UpperDev]IN UpperDev_write
-[  684.800933] [UpperDev]IN UpperDev_write
-[  684.800935] [UpperDev]IN UpperDev_write
-[  684.800937] [UpperDev]IN UpperDev_write
-[  684.800939] [UpperDev]IN UpperDev_write
-[  684.800941] [UpperDev]IN UpperDev_write
-[  684.800943] [UpperDev]IN UpperDev_write
-[  684.800945] [UpperDev]IN UpperDev_write
-[  684.800946] [UpperDev]IN UpperDev_write
-[  684.800948] [UpperDev]IN UpperDev_write
-[  684.800950] [UpperDev]IN UpperDev_write
-[  684.800952] [UpperDev]IN UpperDev_write
-[  684.800954] [UpperDev]IN UpperDev_write
-[  684.800956] [UpperDev]IN UpperDev_write
-[  684.800958] [UpperDev]IN UpperDev_write
-[  684.800960] [UpperDev]IN UpperDev_write
-[  684.800962] [UpperDev]IN UpperDev_write
-[  684.800964] [UpperDev]IN UpperDev_write
-[  684.800966] [UpperDev]IN UpperDev_write
-[  684.800968] [UpperDev]IN UpperDev_write
-[  684.800970] [UpperDev]IN UpperDev_write
-[  684.800971] [UpperDev]IN UpperDev_write
-[  684.800973] [UpperDev]IN UpperDev_write
-[  684.800975] [UpperDev]IN UpperDev_write
-[  684.800977] [UpperDev]IN UpperDev_write
-[  684.800979] [UpperDev]IN UpperDev_write
-[  684.800981] [UpperDev]IN UpperDev_write
-[  684.800983] [UpperDev]IN UpperDev_write
-[  684.800985] [UpperDev]IN UpperDev_write
-[  684.800987] [UpperDev]IN UpperDev_write
-[  684.800989] [UpperDev]IN UpperDev_write
-[  684.800991] [UpperDev]IN UpperDev_write
-[  684.800992] [UpperDev]IN UpperDev_write
-[  684.800994] [UpperDev]IN UpperDev_write
-[  684.800996] [UpperDev]IN UpperDev_write
-[  684.800998] [UpperDev]IN UpperDev_write
-[  684.801000] [UpperDev]IN UpperDev_write
-[  684.801002] [UpperDev]IN UpperDev_write
-[  684.801004] [UpperDev]IN UpperDev_write
-[  684.801006] [UpperDev]IN UpperDev_write
-[  684.801008] [UpperDev]IN UpperDev_write
-[  684.801010] [UpperDev]IN UpperDev_write
-[  684.801012] [UpperDev]IN UpperDev_write
-[  684.801014] [UpperDev]IN UpperDev_write
-[  684.801016] [UpperDev]IN UpperDev_write
-[  684.801019] [UpperDev]IN UpperDev_write
-[  684.801021] [UpperDev]IN UpperDev_write
-[  684.801023] [UpperDev]IN UpperDev_write
-[  684.801025] [UpperDev]IN UpperDev_write
-[  684.801027] [UpperDev]IN UpperDev_write
-[  684.801029] [UpperDev]IN UpperDev_write
-[  684.801031] [UpperDev]IN UpperDev_write
-[  684.801033] [UpperDev]IN UpperDev_write
-[  684.801035] [UpperDev]IN UpperDev_write
-[  684.801037] [UpperDev]IN UpperDev_write
-[  684.801039] [UpperDev]IN UpperDev_write
-[  684.801040] [UpperDev]IN UpperDev_write
-[  684.801042] [UpperDev]IN UpperDev_write
-[  684.801044] [UpperDev]IN UpperDev_write
-[  684.801046] [UpperDev]IN UpperDev_write
-[  684.801048] [UpperDev]IN UpperDev_write
-[  684.801050] [UpperDev]IN UpperDev_write
-[  684.801052] [UpperDev]IN UpperDev_write
-[  684.801054] [UpperDev]IN UpperDev_write
-[  684.801056] [UpperDev]IN UpperDev_write
-[  684.801058] [UpperDev]IN UpperDev_write
-[  684.801060] [UpperDev]IN UpperDev_write
-[  684.801062] [UpperDev]IN UpperDev_write
-[  684.801063] [UpperDev]IN UpperDev_write
-[  684.801065] [UpperDev]IN UpperDev_write
-[  684.801067] [UpperDev]IN UpperDev_write
-[  684.801069] [UpperDev]IN UpperDev_write
-[  684.801071] [UpperDev]IN UpperDev_write
-[  684.801073] [UpperDev]IN UpperDev_write
-[  684.801075] [UpperDev]IN UpperDev_write
-[  684.801077] [UpperDev]IN UpperDev_write
-[  684.801079] [UpperDev]IN UpperDev_write
-[  684.801081] [UpperDev]IN UpperDev_write
-[  684.801082] [UpperDev]IN UpperDev_write
-[  684.801084] [UpperDev]IN UpperDev_write
-[  684.801086] [UpperDev]IN UpperDev_write
-[  684.801088] [UpperDev]IN UpperDev_write
-[  684.801090] [UpperDev]IN UpperDev_write
-[  684.801092] [UpperDev]IN UpperDev_write
-[  684.801094] [UpperDev]IN UpperDev_write
-[  684.801096] [UpperDev]IN UpperDev_write
-[  684.801098] [UpperDev]IN UpperDev_write
-[  684.801100] [UpperDev]IN UpperDev_write
-[  684.801102] [UpperDev]IN UpperDev_write
-[  684.801104] [UpperDev]IN UpperDev_write
-[  684.801105] [UpperDev]IN UpperDev_write
-[  684.801107] [UpperDev]IN UpperDev_write
-[  684.801109] [UpperDev]IN UpperDev_write
-[  684.801111] [UpperDev]IN UpperDev_write
-[  684.801113] [UpperDev]IN UpperDev_write
-[  684.801115] [UpperDev]IN UpperDev_write
-[  684.801117] [UpperDev]IN UpperDev_write
-[  684.801119] [UpperDev]IN UpperDev_write
-[  684.801121] [UpperDev]IN UpperDev_write
-[  684.801123] [UpperDev]IN UpperDev_write
-[  684.801124] [UpperDev]IN UpperDev_write
-[  684.801126] [UpperDev]IN UpperDev_write
-[  684.801128] [UpperDev]IN UpperDev_write
-[  684.801130] [UpperDev]IN UpperDev_write
-[  684.801132] [UpperDev]IN UpperDev_write
-[  684.801134] [UpperDev]IN UpperDev_write
-[  684.801136] [UpperDev]IN UpperDev_write
-[  684.801138] [UpperDev]IN UpperDev_write
-[  684.801140] [UpperDev]IN UpperDev_write
-[  684.801142] [UpperDev]IN UpperDev_write
-[  684.801144] [UpperDev]IN UpperDev_write
-[  684.801145] [UpperDev]IN UpperDev_write
-[  684.801147] [UpperDev]IN UpperDev_write
-[  684.801149] [UpperDev]IN UpperDev_write
-[  684.801151] [UpperDev]IN UpperDev_write
-[  684.801153] [UpperDev]IN UpperDev_write
-[  684.801155] [UpperDev]IN UpperDev_write
-[  684.801157] [UpperDev]IN UpperDev_write
-[  684.801159] [UpperDev]IN UpperDev_write
-[  684.801161] [UpperDev]IN UpperDev_write
-[  684.801163] [UpperDev]IN UpperDev_write
-[  684.801165] [UpperDev]IN UpperDev_write
-[  684.801166] [UpperDev]IN UpperDev_write
-[  684.801168] [UpperDev]IN UpperDev_write
-[  684.801170] [UpperDev]IN UpperDev_write
-[  684.801172] [UpperDev]IN UpperDev_write
-[  684.801174] [UpperDev]IN UpperDev_write
-[  684.801176] [UpperDev]IN UpperDev_write
-[  684.801178] [UpperDev]IN UpperDev_write
-[  684.801180] [UpperDev]IN UpperDev_write
-[  684.801182] [UpperDev]IN UpperDev_write
-[  684.801184] [UpperDev]IN UpperDev_write
-[  684.801186] [UpperDev]IN UpperDev_write
-[  684.801188] [UpperDev]IN UpperDev_write
-[  684.801199] [UpperDev]IN UpperDev_write
-[  684.801201] [UpperDev]IN UpperDev_write
-[  684.801203] [UpperDev]IN UpperDev_write
-[  684.801205] [UpperDev]IN UpperDev_write
-[  684.801207] [UpperDev]IN UpperDev_write
-[  684.801208] [UpperDev]IN UpperDev_write
-[  684.801210] [UpperDev]IN UpperDev_write
-[  684.801212] [UpperDev]IN UpperDev_write
-[  684.801214] [UpperDev]IN UpperDev_write
-[  684.801216] [UpperDev]IN UpperDev_write
-[  684.801218] [UpperDev]IN UpperDev_write
-[  684.801220] [UpperDev]IN UpperDev_write
-[  684.801222] [UpperDev]IN UpperDev_write
-[  684.801224] [UpperDev]IN UpperDev_write
-[  684.801226] [UpperDev]IN UpperDev_write
-[  684.801228] [UpperDev]IN UpperDev_write
-[  684.801229] [UpperDev]IN UpperDev_write
-[  684.801231] [UpperDev]IN UpperDev_write
-[  684.801233] [UpperDev]IN UpperDev_write
-[  684.801235] [UpperDev]IN UpperDev_write
-[  684.801237] [UpperDev]IN UpperDev_write
-[  684.801239] [UpperDev]IN UpperDev_write
-[  684.801241] [UpperDev]IN UpperDev_write
-[  684.801243] [UpperDev]IN UpperDev_write
-[  684.801245] [UpperDev]IN UpperDev_write
-[  684.801247] [UpperDev]IN UpperDev_write
-[  684.801249] [UpperDev]IN UpperDev_write
-[  684.801250] [UpperDev]IN UpperDev_write
-[  684.801252] [UpperDev]IN UpperDev_write
-[  684.801254] [UpperDev]IN UpperDev_write
-[  684.801256] [UpperDev]IN UpperDev_write
-[  684.801258] [UpperDev]IN UpperDev_write
-[  684.801260] [UpperDev]IN UpperDev_write
-[  684.801262] [UpperDev]IN UpperDev_write
-[  684.801264] [UpperDev]IN UpperDev_write
-[  684.801266] [UpperDev]IN UpperDev_write
-[  684.801268] [UpperDev]IN UpperDev_write
-[  684.801270] [UpperDev]IN UpperDev_write
-[  684.801272] [UpperDev]IN UpperDev_write
-[  684.801274] [UpperDev]IN UpperDev_write
-[  684.801276] [UpperDev]IN UpperDev_write
-[  684.801278] [UpperDev]IN UpperDev_write
-[  684.801280] [UpperDev]IN UpperDev_write
-[  684.801282] [UpperDev]IN UpperDev_write
-[  684.801283] [UpperDev]IN UpperDev_write
-[  684.801285] [UpperDev]IN UpperDev_write
-[  684.801287] [UpperDev]IN UpperDev_write
-[  684.801289] [UpperDev]IN UpperDev_write
-[  684.801291] [UpperDev]IN UpperDev_write
-[  684.801293] [UpperDev]IN UpperDev_write
-[  684.801295] [UpperDev]IN UpperDev_write
-[  684.801297] [UpperDev]IN UpperDev_write
-[  684.801299] [UpperDev]IN UpperDev_write
-[  684.801301] [UpperDev]IN UpperDev_write
-[  684.801302] [UpperDev]IN UpperDev_write
-[  684.801304] [UpperDev]IN UpperDev_write
-[  684.801306] [UpperDev]IN UpperDev_write
-[  684.801308] [UpperDev]IN UpperDev_write
-[  684.801310] [UpperDev]IN UpperDev_write
-[  684.801312] [UpperDev]IN UpperDev_write
-[  684.801314] [UpperDev]IN UpperDev_write
-[  684.801316] [UpperDev]IN UpperDev_write
-[  684.801318] [UpperDev]IN UpperDev_write
-[  684.801320] [UpperDev]IN UpperDev_write
-[  684.801321] [UpperDev]IN UpperDev_write
-[  684.801323] [UpperDev]IN UpperDev_write
-[  684.801325] [UpperDev]IN UpperDev_write
-[  684.801327] [UpperDev]IN UpperDev_write
-[  684.801329] [UpperDev]IN UpperDev_write
-[  684.801331] [UpperDev]IN UpperDev_write
-[  684.801333] [UpperDev]IN UpperDev_write
-[  684.801335] [UpperDev]IN UpperDev_write
-[  684.801337] [UpperDev]IN UpperDev_write
-[  684.801339] [UpperDev]IN UpperDev_write
-[  684.801340] [UpperDev]IN UpperDev_write
-[  684.801342] [UpperDev]IN UpperDev_write
-[  684.801344] [UpperDev]IN UpperDev_write
-[  684.801346] [UpperDev]IN UpperDev_write
-[  684.801348] [UpperDev]IN UpperDev_write
-[  684.801350] [UpperDev]IN UpperDev_write
-[  684.801352] [UpperDev]IN UpperDev_write
-[  684.801354] [UpperDev]IN UpperDev_write
-[  684.801356] [UpperDev]IN UpperDev_write
-[  684.801358] [UpperDev]IN UpperDev_write
-[  684.801360] [UpperDev]IN UpperDev_write
-[  684.801362] [UpperDev]IN UpperDev_write
-[  684.801363] [UpperDev]IN UpperDev_write
-[  684.801365] [UpperDev]IN UpperDev_write
-[  684.801367] [UpperDev]IN UpperDev_write
-[  684.801371] [UpperDev]IN UpperDev_write
-[  684.801373] [UpperDev]IN UpperDev_write
-[  684.801375] [UpperDev]IN UpperDev_write
-[  684.801377] [UpperDev]IN UpperDev_write
-[  684.801379] [UpperDev]IN UpperDev_write
-[  684.801381] [UpperDev]IN UpperDev_write
-[  684.801383] [UpperDev]IN UpperDev_write
-[  684.801385] [UpperDev]IN UpperDev_write
-[  684.801387] [UpperDev]IN UpperDev_write
-[  684.801389] [UpperDev]IN UpperDev_write
-[  684.801390] [UpperDev]IN UpperDev_write
-[  684.801392] [UpperDev]IN UpperDev_write
-[  684.801394] [UpperDev]IN UpperDev_write
-[  684.801396] [UpperDev]IN UpperDev_write
-[  684.801398] [UpperDev]IN UpperDev_write
-[  684.801400] [UpperDev]IN UpperDev_write
-[  684.801402] [UpperDev]IN UpperDev_write
-[  684.801404] [UpperDev]IN UpperDev_write
-[  684.801406] [UpperDev]IN UpperDev_write
-[  684.801408] [UpperDev]IN UpperDev_write
-[  684.801410] [UpperDev]IN UpperDev_write
-[  684.801412] [UpperDev]IN UpperDev_write
-[  684.801414] [UpperDev]IN UpperDev_write
-[  684.801415] [UpperDev]IN UpperDev_write
-[  684.801417] [UpperDev]IN UpperDev_write
-[  684.801419] [UpperDev]IN UpperDev_write
-[  684.801421] [UpperDev]IN UpperDev_write
-[  684.801423] [UpperDev]IN UpperDev_write
-[  684.801425] [UpperDev]IN UpperDev_write
-[  684.801427] [UpperDev]IN UpperDev_write
-[  684.801429] [UpperDev]IN UpperDev_write
-[  684.801431] [UpperDev]IN UpperDev_write
-[  684.801433] [UpperDev]IN UpperDev_write
-[  684.801435] [UpperDev]IN UpperDev_write
-[  684.801436] [UpperDev]IN UpperDev_write
-[  684.801438] [UpperDev]IN UpperDev_write
-[  684.801440] [UpperDev]IN UpperDev_write
-[  684.801442] [UpperDev]IN UpperDev_write
-[  684.801444] [UpperDev]IN UpperDev_write
-[  684.801446] [UpperDev]IN UpperDev_write
-[  684.801448] [UpperDev]IN UpperDev_write
-[  684.801450] [UpperDev]IN UpperDev_write
-[  684.801452] [UpperDev]IN UpperDev_write
-[  684.801454] [UpperDev]IN UpperDev_write
-[  684.801456] [UpperDev]IN UpperDev_write
-[  684.801458] [UpperDev]IN UpperDev_write
-[  684.801459] [UpperDev]IN UpperDev_write
-[  684.801461] [UpperDev]IN UpperDev_write
-[  684.801463] [UpperDev]IN UpperDev_write
-[  684.801465] [UpperDev]IN UpperDev_write
-[  684.801467] [UpperDev]IN UpperDev_write
-[  684.801469] [UpperDev]IN UpperDev_write
-[  684.801471] [UpperDev]IN UpperDev_write
-[  684.801473] [UpperDev]IN UpperDev_write
-[  684.801475] [UpperDev]IN UpperDev_write
-[  684.801477] [UpperDev]IN UpperDev_write
-[  684.801479] [UpperDev]IN UpperDev_write
-[  684.801481] [UpperDev]IN UpperDev_write
-[  684.801483] [UpperDev]IN UpperDev_write
-[  684.801484] [UpperDev]IN UpperDev_write
-[  684.801486] [UpperDev]IN UpperDev_write
-[  684.801488] [UpperDev]IN UpperDev_write
-[  684.801490] [UpperDev]IN UpperDev_write
-[  684.801492] [UpperDev]IN UpperDev_write
-[  684.801494] [UpperDev]IN UpperDev_write
-[  684.801496] [UpperDev]IN UpperDev_write
-[  684.801498] [UpperDev]IN UpperDev_write
-[  684.801500] [UpperDev]IN UpperDev_write
-[  684.801502] [UpperDev]IN UpperDev_write
-[  684.801504] [UpperDev]IN UpperDev_write
-[  684.801505] [UpperDev]IN UpperDev_write
-[  684.801507] [UpperDev]IN UpperDev_write
-[  684.801509] [UpperDev]IN UpperDev_write
-[  684.801511] [UpperDev]IN UpperDev_write
-[  684.801513] [UpperDev]IN UpperDev_write
-[  684.801515] [UpperDev]IN UpperDev_write
-[  684.801517] [UpperDev]IN UpperDev_write
-[  684.801519] [UpperDev]IN UpperDev_write
-[  684.801521] [UpperDev]IN UpperDev_write
-[  684.801523] [UpperDev]IN UpperDev_write
-[  684.801524] [UpperDev]IN UpperDev_write
-[  684.801526] [UpperDev]IN UpperDev_write
-[  684.801528] [UpperDev]IN UpperDev_write
-[  684.801530] [UpperDev]IN UpperDev_write
-[  684.801532] [UpperDev]IN UpperDev_write
-[  684.801534] [UpperDev]IN UpperDev_write
-[  684.801536] [UpperDev]IN UpperDev_write
-[  684.801538] [UpperDev]IN UpperDev_write
-[  684.801540] [UpperDev]IN UpperDev_write
-[  684.801549] [UpperDev]IN UpperDev_write
-[  684.801551] [UpperDev]IN UpperDev_write
-[  684.801553] [UpperDev]IN UpperDev_write
-[  684.801555] [UpperDev]IN UpperDev_write
-[  684.801557] [UpperDev]IN UpperDev_write
-[  684.801559] [UpperDev]IN UpperDev_write
-[  684.801561] [UpperDev]IN UpperDev_write
-[  684.801563] [UpperDev]IN UpperDev_write
-[  684.801565] [UpperDev]IN UpperDev_write
-[  684.801567] [UpperDev]IN UpperDev_write
-[  684.801569] [UpperDev]IN UpperDev_write
-[  684.801570] [UpperDev]IN UpperDev_write
-[  684.801572] [UpperDev]IN UpperDev_write
-[  684.801574] [UpperDev]IN UpperDev_write
-[  684.801576] [UpperDev]IN UpperDev_write
-[  684.801578] [UpperDev]IN UpperDev_write
-[  684.801580] [UpperDev]IN UpperDev_write
-[  684.801582] [UpperDev]IN UpperDev_write
-[  684.801584] [UpperDev]IN UpperDev_write
-[  684.801586] [UpperDev]IN UpperDev_write
-[  684.801588] [UpperDev]IN UpperDev_write
-[  684.801590] [UpperDev]IN UpperDev_write
-[  684.801591] [UpperDev]IN UpperDev_write
-[  684.801593] [UpperDev]IN UpperDev_write
-[  684.801595] [UpperDev]IN UpperDev_write
-[  684.801597] [UpperDev]IN UpperDev_write
-[  684.801599] [UpperDev]IN UpperDev_write
-[  684.801601] [UpperDev]IN UpperDev_write
-[  684.801603] [UpperDev]IN UpperDev_write
-[  684.801605] [UpperDev]IN UpperDev_write
-[  684.801607] [UpperDev]IN UpperDev_write
-[  684.801609] [UpperDev]IN UpperDev_write
-[  684.801611] [UpperDev]IN UpperDev_write
-[  684.801612] [UpperDev]IN UpperDev_write
-[  684.801614] [UpperDev]IN UpperDev_write
-[  684.801616] [UpperDev]IN UpperDev_write
-[  684.801618] [UpperDev]IN UpperDev_write
-[  684.801620] [UpperDev]IN UpperDev_write
-[  684.801622] [UpperDev]IN UpperDev_write
-[  684.801624] [UpperDev]IN UpperDev_write
-[  684.801626] [UpperDev]IN UpperDev_write
-[  684.801628] [UpperDev]IN UpperDev_write
-[  684.801630] [UpperDev]IN UpperDev_write
-[  684.801632] [UpperDev]IN UpperDev_write
-[  684.801633] [UpperDev]IN UpperDev_write
-[  684.801635] [UpperDev]IN UpperDev_write
-[  684.801637] [UpperDev]IN UpperDev_write
-[  684.801639] [UpperDev]IN UpperDev_write
-[  684.801641] [UpperDev]IN UpperDev_write
-[  684.801643] [UpperDev]IN UpperDev_write
-[  684.801645] [UpperDev]IN UpperDev_write
-[  684.801647] [UpperDev]IN UpperDev_write
-[  684.801649] [UpperDev]IN UpperDev_write
-[  684.801651] [UpperDev]IN UpperDev_write
-[  684.801653] [UpperDev]IN UpperDev_write
-[  684.801655] [UpperDev]IN UpperDev_write
-[  684.801656] [UpperDev]IN UpperDev_write
-[  684.801658] [UpperDev]IN UpperDev_write
-[  684.801660] [UpperDev]IN UpperDev_write
-[  684.801662] [UpperDev]IN UpperDev_write
-[  684.801664] [UpperDev]IN UpperDev_write
-[  684.801666] [UpperDev]IN UpperDev_write
-[  684.801668] [UpperDev]IN UpperDev_write
-[  684.801670] [UpperDev]IN UpperDev_write
-[  684.801672] [UpperDev]IN UpperDev_write
-[  684.801674] [UpperDev]IN UpperDev_write
-[  684.801676] [UpperDev]IN UpperDev_write
-[  684.801678] [UpperDev]IN UpperDev_write
-[  684.801680] [UpperDev]IN UpperDev_write
-[  684.801682] [UpperDev]IN UpperDev_write
-[  684.801684] [UpperDev]IN UpperDev_write
-[  684.801686] [UpperDev]IN UpperDev_write
-[  684.801688] [UpperDev]IN UpperDev_write
-[  684.801690] [UpperDev]IN UpperDev_write
-[  684.801691] [UpperDev]IN UpperDev_write
-[  684.801693] [UpperDev]IN UpperDev_write
-[  684.801695] [UpperDev]IN UpperDev_write
-[  684.801697] [UpperDev]IN UpperDev_write
-[  684.801699] [UpperDev]IN UpperDev_write
-[  684.801701] [UpperDev]IN UpperDev_write
-[  684.801703] [UpperDev]IN UpperDev_write
-[  684.801705] [UpperDev]IN UpperDev_write
-[  684.801707] [UpperDev]IN UpperDev_write
-[  684.801709] [UpperDev]IN UpperDev_write
-[  684.801711] [UpperDev]IN UpperDev_write
-[  684.801713] [UpperDev]IN UpperDev_write
-[  684.801714] [UpperDev]IN UpperDev_write
-[  684.801716] [UpperDev]IN UpperDev_write
-[  684.801718] [UpperDev]IN UpperDev_write
-[  684.801724] [UpperDev]IN UpperDev_write
-[  684.801726] [UpperDev]IN UpperDev_write
-[  684.801728] [UpperDev]IN UpperDev_write
-[  684.801730] [UpperDev]IN UpperDev_write
-[  684.801732] [UpperDev]IN UpperDev_write
-[  684.801734] [UpperDev]IN UpperDev_write
-[  684.801735] [UpperDev]IN UpperDev_write
-[  684.801737] [UpperDev]IN UpperDev_write
-[  684.801739] [UpperDev]IN UpperDev_write
-[  684.801741] [UpperDev]IN UpperDev_write
-[  684.801743] [UpperDev]IN UpperDev_write
-[  684.801745] [UpperDev]IN UpperDev_write
-[  684.801747] [UpperDev]IN UpperDev_write
-[  684.801749] [UpperDev]IN UpperDev_write
-[  684.801751] [UpperDev]IN UpperDev_write
-[  684.801753] [UpperDev]IN UpperDev_write
-[  684.801755] [UpperDev]IN UpperDev_write
-[  684.801757] [UpperDev]IN UpperDev_write
-[  684.801759] [UpperDev]IN UpperDev_write
-[  684.801760] [UpperDev]IN UpperDev_write
-[  684.801762] [UpperDev]IN UpperDev_write
-[  684.801764] [UpperDev]IN UpperDev_write
-[  684.801766] [UpperDev]IN UpperDev_write
-[  684.801768] [UpperDev]IN UpperDev_write
-[  684.801770] [UpperDev]IN UpperDev_write
-[  684.801772] [UpperDev]IN UpperDev_write
-[  684.801774] [UpperDev]IN UpperDev_write
-[  684.801776] [UpperDev]IN UpperDev_write
-[  684.801778] [UpperDev]IN UpperDev_write
-[  684.801780] [UpperDev]IN UpperDev_write
-[  684.801782] [UpperDev]IN UpperDev_write
-[  684.801784] [UpperDev]IN UpperDev_write
-[  684.801785] [UpperDev]IN UpperDev_write
-[  684.801787] [UpperDev]IN UpperDev_write
-[  684.801789] [UpperDev]IN UpperDev_write
-[  684.801791] [UpperDev]IN UpperDev_write
-[  684.801793] [UpperDev]IN UpperDev_write
-[  684.801795] [UpperDev]IN UpperDev_write
-[  684.801797] [UpperDev]IN UpperDev_write
-[  684.801799] [UpperDev]IN UpperDev_write
-[  684.801801] [UpperDev]IN UpperDev_write
-[  684.801803] [UpperDev]IN UpperDev_write
-[  684.801805] [UpperDev]IN UpperDev_write
-[  684.801807] [UpperDev]IN UpperDev_write
-[  684.801808] [UpperDev]IN UpperDev_write
-[  684.801810] [UpperDev]IN UpperDev_write
-[  684.801812] [UpperDev]IN UpperDev_write
-[  684.801814] [UpperDev]IN UpperDev_write
-[  684.801816] [UpperDev]IN UpperDev_write
-[  684.801818] [UpperDev]IN UpperDev_write
-[  684.801820] [UpperDev]IN UpperDev_write
-[  684.801822] [UpperDev]IN UpperDev_write
-[  684.801824] [UpperDev]IN UpperDev_write
-[  684.801826] [UpperDev]IN UpperDev_write
-[  684.801828] [UpperDev]IN UpperDev_write
-[  684.801830] [UpperDev]IN UpperDev_write
-[  684.801832] [UpperDev]IN UpperDev_write
-[  684.801833] [UpperDev]IN UpperDev_write
-[  684.801835] [UpperDev]IN UpperDev_write
-[  684.801837] [UpperDev]IN UpperDev_write
-[  684.801839] [UpperDev]IN UpperDev_write
-[  684.801841] [UpperDev]IN UpperDev_write
-[  684.801843] [UpperDev]IN UpperDev_write
-[  684.801845] [UpperDev]IN UpperDev_write
-[  684.801847] [UpperDev]IN UpperDev_write
-[  684.801849] [UpperDev]IN UpperDev_write
-[  684.801851] [UpperDev]IN UpperDev_write
-[  684.801853] [UpperDev]IN UpperDev_write
-[  684.801855] [UpperDev]IN UpperDev_write
-[  684.801856] [UpperDev]IN UpperDev_write
-[  684.801858] [UpperDev]IN UpperDev_write
-[  684.801860] [UpperDev]IN UpperDev_write
-[  684.801862] [UpperDev]IN UpperDev_write
-[  684.801864] [UpperDev]IN UpperDev_write
-[  684.801866] [UpperDev]IN UpperDev_write
-[  684.801868] [UpperDev]IN UpperDev_write
-[  684.801870] [UpperDev]IN UpperDev_write
-[  684.801872] [UpperDev]IN UpperDev_write
-[  684.801874] [UpperDev]IN UpperDev_write
-[  684.801876] [UpperDev]IN UpperDev_write
-[  684.801878] [UpperDev]IN UpperDev_write
-[  684.801880] [UpperDev]IN UpperDev_write
-[  684.801881] [UpperDev]IN UpperDev_write
-[  684.801883] [UpperDev]IN UpperDev_write
-[  684.801885] [UpperDev]IN UpperDev_write
-[  684.801887] [UpperDev]IN UpperDev_write
-[  684.801889] [UpperDev]IN UpperDev_write
-[  684.801891] [UpperDev]IN UpperDev_write
-[  684.801893] [UpperDev]IN UpperDev_write
-[  684.801899] [UpperDev]IN UpperDev_write
-[  684.801901] [UpperDev]IN UpperDev_write
-[  684.801903] [UpperDev]IN UpperDev_write
-[  684.801905] [UpperDev]IN UpperDev_write
-[  684.801906] [UpperDev]IN UpperDev_write
-[  684.801908] [UpperDev]IN UpperDev_write
-[  684.801910] [UpperDev]IN UpperDev_write
-[  684.801912] [UpperDev]IN UpperDev_write
-[  684.801914] [UpperDev]IN UpperDev_write
-[  684.801916] [UpperDev]IN UpperDev_write
-[  684.801918] [UpperDev]IN UpperDev_write
-[  684.801920] [UpperDev]IN UpperDev_write
-[  684.801922] [UpperDev]IN UpperDev_write
-[  684.801923] [UpperDev]IN UpperDev_write
-[  684.801925] [UpperDev]IN UpperDev_write
-[  684.801927] [UpperDev]IN UpperDev_write
-[  684.801951] [UpperDev]IN UpperDev_write
-[  684.801956] [UpperDev]IN UpperDev_write
-[  684.801958] [UpperDev]IN UpperDev_write
-[  684.801960] [UpperDev]IN UpperDev_write
-[  684.801962] [UpperDev]IN UpperDev_write
-[  684.801964] [UpperDev]IN UpperDev_write
-[  684.801965] [UpperDev]IN UpperDev_write
-[  684.801967] [UpperDev]IN UpperDev_write
-[  684.801969] [UpperDev]IN UpperDev_write
-[  684.801971] [UpperDev]IN UpperDev_write
-[  684.801973] [UpperDev]IN UpperDev_write
-[  684.801975] [UpperDev]IN UpperDev_write
-[  684.801977] [UpperDev]IN UpperDev_write
-[  684.801979] [UpperDev]IN UpperDev_write
-[  684.801981] [UpperDev]IN UpperDev_write
-[  684.801982] [UpperDev]IN UpperDev_write
-[  684.801984] [UpperDev]IN UpperDev_write
-[  684.801986] [UpperDev]IN UpperDev_write
-[  684.801988] [UpperDev]IN UpperDev_write
-[  684.801990] [UpperDev]IN UpperDev_write
-[  684.801992] [UpperDev]IN UpperDev_write
-[  684.801994] [UpperDev]IN UpperDev_write
-[  684.801996] [UpperDev]IN UpperDev_write
-[  684.801998] [UpperDev]IN UpperDev_write
-[  684.802000] [UpperDev]IN UpperDev_write
-[  684.802002] [UpperDev]IN UpperDev_write
-[  684.802004] [UpperDev]IN UpperDev_write
-[  684.802006] [UpperDev]IN UpperDev_write
-[  684.802008] [UpperDev]IN UpperDev_write
-[  684.802009] [UpperDev]IN UpperDev_write
-[  684.802011] [UpperDev]IN UpperDev_write
-[  684.802013] [UpperDev]IN UpperDev_write
-[  684.802015] [UpperDev]IN UpperDev_write
-[  684.802017] [UpperDev]IN UpperDev_write
-[  684.802019] [UpperDev]IN UpperDev_write
-[  684.802021] [UpperDev]IN UpperDev_write
-[  684.802023] [UpperDev]IN UpperDev_write
-[  684.802025] [UpperDev]IN UpperDev_write
-[  684.802027] [UpperDev]IN UpperDev_write
-[  684.802029] [UpperDev]IN UpperDev_write
-[  684.802030] [UpperDev]IN UpperDev_write
-[  684.802032] [UpperDev]IN UpperDev_write
-[  684.802034] [UpperDev]IN UpperDev_write
-[  684.802036] [UpperDev]IN UpperDev_write
-[  684.802038] [UpperDev]IN UpperDev_write
-[  684.802040] [UpperDev]IN UpperDev_write
-[  684.802042] [UpperDev]IN UpperDev_write
-[  684.802044] [UpperDev]IN UpperDev_write
-[  684.802046] [UpperDev]IN UpperDev_write
-[  684.802048] [UpperDev]IN UpperDev_write
-[  684.802049] [UpperDev]IN UpperDev_write
-[  684.802051] [UpperDev]IN UpperDev_write
-[  684.802053] [UpperDev]IN UpperDev_write
-[  684.802055] [UpperDev]IN UpperDev_write
-[  684.802057] [UpperDev]IN UpperDev_write
-[  684.802059] [UpperDev]IN UpperDev_write
-[  684.802061] [UpperDev]IN UpperDev_write
-[  684.802063] [UpperDev]IN UpperDev_write
-[  684.802065] [UpperDev]IN UpperDev_write
-[  684.802067] [UpperDev]IN UpperDev_write
-[  684.802069] [UpperDev]IN UpperDev_write
-[  684.802070] [UpperDev]IN UpperDev_write
-[  684.802072] [UpperDev]IN UpperDev_write
-[  684.802074] [UpperDev]IN UpperDev_write
-[  684.802076] [UpperDev]IN UpperDev_write
-[  684.802078] [UpperDev]IN UpperDev_write
-[  684.802080] [UpperDev]IN UpperDev_write
-[  684.802082] [UpperDev]IN UpperDev_write
-[  684.802084] [UpperDev]IN UpperDev_write
-[  684.802086] [UpperDev]IN UpperDev_write
-[  684.802087] [UpperDev]IN UpperDev_write
-[  684.802089] [UpperDev]IN UpperDev_write
-[  684.802091] [UpperDev]IN UpperDev_write
-[  684.802107] [UpperDev]IN UpperDev_write
-[  684.802108] [UpperDev]IN UpperDev_write
-[  684.802110] [UpperDev]IN UpperDev_write
-[  684.802112] [UpperDev]IN UpperDev_write
-[  684.802114] [UpperDev]IN UpperDev_write
-[  684.802116] [UpperDev]IN UpperDev_write
-[  684.802118] [UpperDev]IN UpperDev_write
-[  684.802120] [UpperDev]IN UpperDev_write
-[  684.802122] [UpperDev]IN UpperDev_write
-[  684.802124] [UpperDev]IN UpperDev_write
-[  684.802126] [UpperDev]IN UpperDev_write
-[  684.802127] [UpperDev]IN UpperDev_write
-[  684.802129] [UpperDev]IN UpperDev_write
-[  684.802131] [UpperDev]IN UpperDev_write
-[  684.802133] [UpperDev]IN UpperDev_write
-[  684.802135] [UpperDev]IN UpperDev_write
-[  684.802137] [UpperDev]IN UpperDev_write
-[  684.802139] [UpperDev]IN UpperDev_write
-[  684.802141] [UpperDev]IN UpperDev_write
-[  684.802143] [UpperDev]IN UpperDev_write
-[  684.802145] [UpperDev]IN UpperDev_write
-[  684.802146] [UpperDev]IN UpperDev_write
-[  684.802148] [UpperDev]IN UpperDev_write
-[  684.802150] [UpperDev]IN UpperDev_write
-[  684.802152] [UpperDev]IN UpperDev_write
-[  684.802154] [UpperDev]IN UpperDev_write
-[  684.802156] [UpperDev]IN UpperDev_write
-[  684.802158] [UpperDev]IN UpperDev_write
-[  684.802160] [UpperDev]IN UpperDev_write
-[  684.802162] [UpperDev]IN UpperDev_write
-[  684.802164] [UpperDev]IN UpperDev_write
-[  684.802166] [UpperDev]IN UpperDev_write
-[  684.802183] [UpperDev]IN UpperDev_write
-[  684.802185] [UpperDev]IN UpperDev_write
-[  684.802187] [UpperDev]IN UpperDev_write
-[  684.802189] [UpperDev]IN UpperDev_write
-[  684.802191] [UpperDev]IN UpperDev_write
-[  684.802193] [UpperDev]IN UpperDev_write
-[  684.802195] [UpperDev]IN UpperDev_write
-[  684.802197] [UpperDev]IN UpperDev_write
-[  684.802199] [UpperDev]IN UpperDev_write
-[  684.802200] [UpperDev]IN UpperDev_write
-[  684.802202] [UpperDev]IN UpperDev_write
-[  684.802204] [UpperDev]IN UpperDev_write
-[  684.802206] [UpperDev]IN UpperDev_write
-[  684.802208] [UpperDev]IN UpperDev_write
-[  684.802210] [UpperDev]IN UpperDev_write
-[  684.802212] [UpperDev]IN UpperDev_write
-[  684.802214] [UpperDev]IN UpperDev_write
-[  684.802216] [UpperDev]IN UpperDev_write
-[  684.802218] [UpperDev]IN UpperDev_write
-[  684.802220] [UpperDev]IN UpperDev_write
-[  684.802222] [UpperDev]IN UpperDev_write
-[  684.802224] [UpperDev]IN UpperDev_write
-[  684.802225] [UpperDev]IN UpperDev_write
-[  684.802227] [UpperDev]IN UpperDev_write
-[  684.802229] [UpperDev]IN UpperDev_write
-[  684.802231] [UpperDev]IN UpperDev_write
-[  684.802233] [UpperDev]IN UpperDev_write
-[  684.802235] [UpperDev]IN UpperDev_write
-[  684.802237] [UpperDev]IN UpperDev_write
-[  684.802239] [UpperDev]IN UpperDev_write
-[  684.802241] [UpperDev]IN UpperDev_write
-[  684.802243] [UpperDev]IN UpperDev_write
-[  684.802245] [UpperDev]IN UpperDev_write
-[  684.802247] [UpperDev]IN UpperDev_write
-[  684.802249] [UpperDev]IN UpperDev_write
-[  684.802251] [UpperDev]IN UpperDev_write
-[  684.802252] [UpperDev]IN UpperDev_write
-[  684.802254] [UpperDev]IN UpperDev_write
-[  684.802256] [UpperDev]IN UpperDev_write
-[  684.802258] [UpperDev]IN UpperDev_write
-[  684.802260] [UpperDev]IN UpperDev_write
-[  684.802262] [UpperDev]IN UpperDev_write
-[  684.802264] [UpperDev]IN UpperDev_write
-[  684.802266] [UpperDev]IN UpperDev_write
-[  684.802268] [UpperDev]IN UpperDev_write
-[  684.802269] [UpperDev]IN UpperDev_write
-[  684.802271] [UpperDev]IN UpperDev_write
-[  684.802273] [UpperDev]IN UpperDev_write
-[  684.802275] [UpperDev]IN UpperDev_write
-[  684.802277] [UpperDev]IN UpperDev_write
-[  684.802279] [UpperDev]IN UpperDev_write
-[  684.802281] [UpperDev]IN UpperDev_write
-[  684.802283] [UpperDev]IN UpperDev_write
-[  684.802285] [UpperDev]IN UpperDev_write
-[  684.802287] [UpperDev]IN UpperDev_write
-[  684.802289] [UpperDev]IN UpperDev_write
-[  684.802291] [UpperDev]IN UpperDev_write
+[    0.000000] ACPI: LAPIC (acpi_id[0x38] lapic_id[0x38] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x39] lapic_id[0x39] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3a] lapic_id[0x3a] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3b] lapic_id[0x3b] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3c] lapic_id[0x3c] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3d] lapic_id[0x3d] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3e] lapic_id[0x3e] disabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x3f] lapic_id[0x3f] disabled)
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x05] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x06] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x07] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x08] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x09] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0a] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0b] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0c] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0d] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0e] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x0f] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x10] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x11] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x12] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x13] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x14] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x15] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x16] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x17] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x18] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x19] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1a] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1b] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1c] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1d] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1e] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x1f] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x20] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x21] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x22] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x23] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x24] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x25] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x26] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x27] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x28] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x29] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2a] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2b] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2c] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2d] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2e] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x2f] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x30] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x31] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x32] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x33] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x34] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x35] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x36] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x37] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x38] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x39] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3a] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3b] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3c] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3d] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3e] high edge lint[0x1])
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0x3f] high edge lint[0x1])
+[    0.000000] ACPI: IOAPIC (id[0x40] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 64, version 17, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 high edge)
+[    0.000000] ACPI: IRQ0 used by override.
+[    0.000000] ACPI: IRQ2 used by override.
+[    0.000000] ACPI: IRQ9 used by override.
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086af01 base: 0xfed00000
+[    0.000000] smpboot: 64 Processors exceeds NR_CPUS limit of 8
+[    0.000000] smpboot: Allowing 8 CPUs, 4 hotplug CPUs
+[    0.000000] nr_irqs_gsi: 40
+[    0.000000] PM: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000c9fff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000ca000-0x000cbfff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000cc000-0x000dbfff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000dc000-0x000fffff]
+[    0.000000] e820: [mem 0x60000000-0xefffffff] available for PCI devices
+[    0.000000] Booting paravirtualized kernel on bare hardware
+[    0.000000] setup_percpu: NR_CPUS:8 nr_cpumask_bits:8 nr_cpu_ids:8 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 14 pages/cpu @f5f30000 s36288 r0 d21056 u57344
+[    0.000000] pcpu-alloc: s36288 r0 d21056 u57344 alloc=14*4096
+[    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 [0] 4 [0] 5 [0] 6 [0] 7 
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 391302
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.11.0-14-generic root=UUID=c25eded1-5383-42d8-a221-4c38cc4b5ce6 ro find_preseed=/preseed.cfg auto noprompt priority=critical locale=en_US quiet
+[    0.000000] PID hash table entries: 4096 (order: 2, 16384 bytes)
+[    0.000000] Dentry cache hash table entries: 131072 (order: 7, 524288 bytes)
+[    0.000000] Inode-cache hash table entries: 65536 (order: 6, 262144 bytes)
+[    0.000000] Initializing CPU#0
+[    0.000000] xsave: enabled xstate_bv 0x7, cntxt size 0x340
+[    0.000000] allocated 3145720 bytes of page_cgroup
+[    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+[    0.000000] Initializing HighMem for node 0 (00037bfe:00060000)
+[    0.000000] Memory: 1527580K/1572344K available (6353K kernel code, 607K rwdata, 2640K rodata, 880K init, 908K bss, 44764K reserved, 659336K highmem)
+[    0.000000] virtual kernel memory layout:
+[    0.000000]     fixmap  : 0xfff14000 - 0xfffff000   ( 940 kB)
+[    0.000000]     pkmap   : 0xffc00000 - 0xffe00000   (2048 kB)
+[    0.000000]     vmalloc : 0xf83fe000 - 0xffbfe000   ( 120 MB)
+[    0.000000]     lowmem  : 0xc0000000 - 0xf7bfe000   ( 891 MB)
+[    0.000000]       .init : 0xc1962000 - 0xc1a3e000   ( 880 kB)
+[    0.000000]       .data : 0xc1634864 - 0xc1961dc0   (3253 kB)
+[    0.000000]       .text : 0xc1000000 - 0xc1634864   (6354 kB)
+[    0.000000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
+[    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=8, Nodes=1
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+[    0.000000] NR_IRQS:2304 nr_irqs:744 16
+[    0.000000] CPU 0 irqstacks, hard=f540a000 soft=f540c000
+[    0.000000] Console: colour VGA+ 80x25
+[    0.000000] console [tty0] enabled
+[    0.000000] hpet clockevent registered
+[    0.000000] TSC freq read from hypervisor : 2095.310 MHz
+[    0.000000] tsc: Detected 2095.310 MHz processor
+[    0.000001] Calibrating delay loop (skipped) preset value.. 4190.62 BogoMIPS (lpj=8381240)
+[    0.000004] pid_max: default: 32768 minimum: 301
+[    0.000031] Security Framework initialized
+[    0.000057] AppArmor: AppArmor initialized
+[    0.000058] Yama: becoming mindful.
+[    0.000090] Mount-cache hash table entries: 512
+[    0.000261] Initializing cgroup subsys memory
+[    0.000267] Initializing cgroup subsys devices
+[    0.000268] Initializing cgroup subsys freezer
+[    0.000270] Initializing cgroup subsys blkio
+[    0.000271] Initializing cgroup subsys perf_event
+[    0.000273] Initializing cgroup subsys hugetlb
+[    0.000334] Disabled fast string operations
+[    0.000338] CPU: Physical Processor ID: 0
+[    0.000339] CPU: Processor Core ID: 0
+[    0.000348] ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+[    0.000348] ENERGY_PERF_BIAS: View and update with x86_energy_perf_policy(8)
+[    0.000968] mce: CPU supports 0 MCE banks
+[    0.000985] Last level iTLB entries: 4KB 512, 2MB 0, 4MB 0
+[    0.000985] Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32
+[    0.000985] tlb_flushall_shift: 1
+[    0.001887] Freeing SMP alternatives memory: 28K (c1a3e000 - c1a45000)
+[    0.007321] ACPI: Core revision 20130517
+[    0.014610] ACPI: All ACPI Tables successfully acquired
+[    0.016746] ftrace: allocating 27143 entries in 54 pages
+[    0.042472] Enabling APIC mode:  Flat.  Using 1 I/O APICs
+[    0.042833] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.082546] smpboot: CPU0: Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz (fam: 06, model: 3a, stepping: 09)
+[    0.189248] Performance Events: 16-deep LBR, IvyBridge events, core PMU driver.
+[    0.189262] perf_event_intel: CPUID marked event: 'cpu cycles' unavailable
+[    0.189264] perf_event_intel: CPUID marked event: 'instructions' unavailable
+[    0.189265] perf_event_intel: CPUID marked event: 'bus cycles' unavailable
+[    0.189266] perf_event_intel: CPUID marked event: 'cache references' unavailable
+[    0.189267] perf_event_intel: CPUID marked event: 'cache misses' unavailable
+[    0.189268] perf_event_intel: CPUID marked event: 'branch instructions' unavailable
+[    0.189269] perf_event_intel: CPUID marked event: 'branch misses' unavailable
+[    0.189273] ... version:                1
+[    0.189273] ... bit width:              48
+[    0.189274] ... generic registers:      4
+[    0.189275] ... value mask:             0000ffffffffffff
+[    0.189276] ... max period:             000000007fffffff
+[    0.189277] ... fixed-purpose events:   0
+[    0.189278] ... event mask:             000000000000000f
+[    0.190533] NMI watchdog: disabled (cpu0): hardware events not enabled
+[    0.190624] CPU 1 irqstacks, hard=f556a000 soft=f556c000
+[    0.200799] Initializing CPU#1
+[    0.201988] Disabled fast string operations
+[    0.202640] mce: CPU supports 0 MCE banks
+[    0.190626] smpboot: Booting Node   0, Processors  #1
+[    0.202867] CPU 2 irqstacks, hard=f558c000 soft=f558e000
+[    0.213013] Initializing CPU#2
+[    0.213927] Disabled fast string operations
+[    0.214610] mce: CPU supports 0 MCE banks
+[    0.202871]  #2
+[    0.214785] CPU 3 irqstacks, hard=f55aa000 soft=f55ac000
+[    0.224911] Initializing CPU#3
+[    0.225835] Disabled fast string operations
+[    0.226485] mce: CPU supports 0 MCE banks
+[    0.214789]  #3
+[    0.226594] Brought up 4 CPUs
+[    0.226599] smpboot: Total of 4 processors activated (16762.48 BogoMIPS)
+[    0.226768] x86 PAT enabled: cpu 3, old 0x0, new 0x7010600070106
+[    0.226823] x86 PAT enabled: cpu 1, old 0x0, new 0x7010600070106
+[    0.226861] x86 PAT enabled: cpu 0, old 0x0, new 0x7010600070106
+[    0.226911] x86 PAT enabled: cpu 2, old 0x0, new 0x7010600070106
+[    0.229517] devtmpfs: initialized
+[    0.229704] EVM: security.selinux
+[    0.229705] EVM: security.SMACK64
+[    0.229706] EVM: security.capability
+[    0.229927] PM: Registering ACPI NVS region [mem 0x5feff000-0x5fefffff] (4096 bytes)
+[    0.230734] regulator-dummy: no parameters
+[    0.230804] RTC time: 17:29:17, date: 12/07/13
+[    0.230848] NET: Registered protocol family 16
+[    0.230979] EISA bus registered
+[    0.231058] ACPI: bus type PCI registered
+[    0.231060] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[    0.231237] PCI: MMCONFIG for domain 0000 [bus 00-7f] at [mem 0xf0000000-0xf7ffffff] (base 0xf0000000)
+[    0.231239] PCI: MMCONFIG at [mem 0xf0000000-0xf7ffffff] reserved in E820
+[    0.231240] PCI: Using MMCONFIG for extended config space
+[    0.231241] PCI: Using configuration type 1 for base access
+[    0.231379] mtrr: your CPUs had inconsistent variable MTRR settings
+[    0.231380] mtrr: probably your BIOS does not setup all CPUs.
+[    0.231381] mtrr: corrected configuration.
+[    0.232219] bio: create slab <bio-0> at 0
+[    0.232736] ACPI: Added _OSI(Module Device)
+[    0.232738] ACPI: Added _OSI(Processor Device)
+[    0.232739] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.232741] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.236044] ACPI: EC: Look up EC in DSDT
+[    0.242007] [Firmware Bug]: ACPI: BIOS _OSI(Linux) query ignored
+[    1.054639] ACPI: Interpreter enabled
+[    1.054672] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S2_] (20130517/hwxface-571)
+[    1.054680] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S3_] (20130517/hwxface-571)
+[    1.054724] ACPI: (supports S0 S1 S4 S5)
+[    1.054727] ACPI: Using IOAPIC for interrupt routing
+[    1.054785] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[    1.098137] ACPI: No dock devices found.
+[    1.976518] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-7f])
+[    1.976912] acpi PNP0A03:00: Requesting ACPI _OSC control (0x1d)
+[    1.977527] acpi PNP0A03:00: ACPI _OSC control (0x15) granted
+[    1.980716] PCI host bridge to bus 0000:00
+[    1.980723] pci_bus 0000:00: root bus resource [bus 00-7f]
+[    1.980728] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+[    1.980732] pci_bus 0000:00: root bus resource [mem 0x000cc000-0x000cffff]
+[    1.980735] pci_bus 0000:00: root bus resource [mem 0x000d0000-0x000d3fff]
+[    1.980738] pci_bus 0000:00: root bus resource [mem 0x000d4000-0x000d7fff]
+[    1.980741] pci_bus 0000:00: root bus resource [mem 0x000d8000-0x000dbfff]
+[    1.980745] pci_bus 0000:00: root bus resource [mem 0xc0000000-0xfebfffff]
+[    1.980749] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+[    1.980752] pci_bus 0000:00: root bus resource [io  0x0d00-0xfeff]
+[    1.980881] pci 0000:00:00.0: [8086:7190] type 00 class 0x060000
+[    1.982250] pci 0000:00:01.0: [8086:7191] type 01 class 0x060400
+[    1.983374] pci 0000:00:07.0: [8086:7110] type 00 class 0x060100
+[    1.984960] pci 0000:00:07.1: [8086:7111] type 00 class 0x01018a
+[    1.989780] pci 0000:00:07.1: reg 0x20: [io  0x1060-0x106f]
+[    1.992226] pci 0000:00:07.3: [8086:7113] type 00 class 0x068000
+[    1.997303] pci 0000:00:07.3: quirk: [io  0x1000-0x103f] claimed by PIIX4 ACPI
+[    1.997333] pci 0000:00:07.3: quirk: [io  0x1040-0x104f] claimed by PIIX4 SMB
+[    1.998103] pci 0000:00:07.7: [15ad:0740] type 00 class 0x088000
+[    1.999949] pci 0000:00:07.7: reg 0x10: [io  0x1080-0x10bf]
+[    2.001563] pci 0000:00:07.7: reg 0x14: [mem 0xfebfe000-0xfebfffff 64bit]
+[    2.009021] pci 0000:00:0f.0: [15ad:0405] type 00 class 0x030000
+[    2.061245] pci 0000:00:0f.0: reg 0x10: [io  0x1070-0x107f]
+[    2.098371] pci 0000:00:0f.0: reg 0x14: [mem 0xe8000000-0xefffffff pref]
+[    2.120719] pci 0000:00:0f.0: reg 0x18: [mem 0xfe000000-0xfe7fffff]
+[    2.210691] pci 0000:00:0f.0: reg 0x30: [mem 0x00000000-0x00007fff pref]
+[    2.211105] pci 0000:00:10.0: [1000:0030] type 00 class 0x010000
+[    2.211983] pci 0000:00:10.0: reg 0x10: [io  0x1400-0x14ff]
+[    2.212846] pci 0000:00:10.0: reg 0x14: [mem 0xfeba0000-0xfebbffff 64bit]
+[    2.213730] pci 0000:00:10.0: reg 0x1c: [mem 0xfebc0000-0xfebdffff 64bit]
+[    2.215673] pci 0000:00:10.0: reg 0x30: [mem 0x00000000-0x00003fff pref]
+[    2.215923] pci 0000:00:11.0: [15ad:0790] type 01 class 0x060401
+[    2.216501] pci 0000:00:11.0: System wakeup disabled by ACPI
+[    2.216680] pci 0000:00:15.0: [15ad:07a0] type 01 class 0x060400
+[    2.217382] pci 0000:00:15.0: PME# supported from D0 D3hot D3cold
+[    2.217617] pci 0000:00:15.0: System wakeup disabled by ACPI
+[    2.217760] pci 0000:00:15.1: [15ad:07a0] type 01 class 0x060400
+[    2.218486] pci 0000:00:15.1: PME# supported from D0 D3hot D3cold
+[    2.218692] pci 0000:00:15.1: System wakeup disabled by ACPI
+[    2.218828] pci 0000:00:15.2: [15ad:07a0] type 01 class 0x060400
+[    2.219484] pci 0000:00:15.2: PME# supported from D0 D3hot D3cold
+[    2.219682] pci 0000:00:15.2: System wakeup disabled by ACPI
+[    2.219830] pci 0000:00:15.3: [15ad:07a0] type 01 class 0x060400
+[    2.220491] pci 0000:00:15.3: PME# supported from D0 D3hot D3cold
+[    2.220689] pci 0000:00:15.3: System wakeup disabled by ACPI
+[    2.220824] pci 0000:00:15.4: [15ad:07a0] type 01 class 0x060400
+[    2.221486] pci 0000:00:15.4: PME# supported from D0 D3hot D3cold
+[    2.221685] pci 0000:00:15.4: System wakeup disabled by ACPI
+[    2.221815] pci 0000:00:15.5: [15ad:07a0] type 01 class 0x060400
+[    2.222468] pci 0000:00:15.5: PME# supported from D0 D3hot D3cold
+[    2.222665] pci 0000:00:15.5: System wakeup disabled by ACPI
+[    2.222799] pci 0000:00:15.6: [15ad:07a0] type 01 class 0x060400
+[    2.223463] pci 0000:00:15.6: PME# supported from D0 D3hot D3cold
+[    2.223660] pci 0000:00:15.6: System wakeup disabled by ACPI
+[    2.223794] pci 0000:00:15.7: [15ad:07a0] type 01 class 0x060400
+[    2.224450] pci 0000:00:15.7: PME# supported from D0 D3hot D3cold
+[    2.224647] pci 0000:00:15.7: System wakeup disabled by ACPI
+[    2.224776] pci 0000:00:16.0: [15ad:07a0] type 01 class 0x060400
+[    2.225438] pci 0000:00:16.0: PME# supported from D0 D3hot D3cold
+[    2.225636] pci 0000:00:16.0: System wakeup disabled by ACPI
+[    2.225770] pci 0000:00:16.1: [15ad:07a0] type 01 class 0x060400
+[    2.226430] pci 0000:00:16.1: PME# supported from D0 D3hot D3cold
+[    2.226638] pci 0000:00:16.1: System wakeup disabled by ACPI
+[    2.226772] pci 0000:00:16.2: [15ad:07a0] type 01 class 0x060400
+[    2.227426] pci 0000:00:16.2: PME# supported from D0 D3hot D3cold
+[    2.227624] pci 0000:00:16.2: System wakeup disabled by ACPI
+[    2.227757] pci 0000:00:16.3: [15ad:07a0] type 01 class 0x060400
+[    2.228414] pci 0000:00:16.3: PME# supported from D0 D3hot D3cold
+[    2.228612] pci 0000:00:16.3: System wakeup disabled by ACPI
+[    2.228745] pci 0000:00:16.4: [15ad:07a0] type 01 class 0x060400
+[    2.229409] pci 0000:00:16.4: PME# supported from D0 D3hot D3cold
+[    2.229606] pci 0000:00:16.4: System wakeup disabled by ACPI
+[    2.229739] pci 0000:00:16.5: [15ad:07a0] type 01 class 0x060400
+[    2.230398] pci 0000:00:16.5: PME# supported from D0 D3hot D3cold
+[    2.230596] pci 0000:00:16.5: System wakeup disabled by ACPI
+[    2.230725] pci 0000:00:16.6: [15ad:07a0] type 01 class 0x060400
+[    2.231379] pci 0000:00:16.6: PME# supported from D0 D3hot D3cold
+[    2.231576] pci 0000:00:16.6: System wakeup disabled by ACPI
+[    2.231716] pci 0000:00:16.7: [15ad:07a0] type 01 class 0x060400
+[    2.232370] pci 0000:00:16.7: PME# supported from D0 D3hot D3cold
+[    2.232567] pci 0000:00:16.7: System wakeup disabled by ACPI
+[    2.232700] pci 0000:00:17.0: [15ad:07a0] type 01 class 0x060400
+[    2.233371] pci 0000:00:17.0: PME# supported from D0 D3hot D3cold
+[    2.233569] pci 0000:00:17.0: System wakeup disabled by ACPI
+[    2.233698] pci 0000:00:17.1: [15ad:07a0] type 01 class 0x060400
+[    2.234362] pci 0000:00:17.1: PME# supported from D0 D3hot D3cold
+[    2.234560] pci 0000:00:17.1: System wakeup disabled by ACPI
+[    2.234693] pci 0000:00:17.2: [15ad:07a0] type 01 class 0x060400
+[    2.235348] pci 0000:00:17.2: PME# supported from D0 D3hot D3cold
+[    2.235571] pci 0000:00:17.2: System wakeup disabled by ACPI
+[    2.235716] pci 0000:00:17.3: [15ad:07a0] type 01 class 0x060400
+[    2.236371] pci 0000:00:17.3: PME# supported from D0 D3hot D3cold
+[    2.236568] pci 0000:00:17.3: System wakeup disabled by ACPI
+[    2.236759] pci 0000:00:17.4: [15ad:07a0] type 01 class 0x060400
+[    2.237491] pci 0000:00:17.4: PME# supported from D0 D3hot D3cold
+[    2.237695] pci 0000:00:17.4: System wakeup disabled by ACPI
+[    2.237838] pci 0000:00:17.5: [15ad:07a0] type 01 class 0x060400
+[    2.238497] pci 0000:00:17.5: PME# supported from D0 D3hot D3cold
+[    2.238696] pci 0000:00:17.5: System wakeup disabled by ACPI
+[    2.238832] pci 0000:00:17.6: [15ad:07a0] type 01 class 0x060400
+[    2.239494] pci 0000:00:17.6: PME# supported from D0 D3hot D3cold
+[    2.239692] pci 0000:00:17.6: System wakeup disabled by ACPI
+[    2.239822] pci 0000:00:17.7: [15ad:07a0] type 01 class 0x060400
+[    2.240478] pci 0000:00:17.7: PME# supported from D0 D3hot D3cold
+[    2.240675] pci 0000:00:17.7: System wakeup disabled by ACPI
+[    2.240808] pci 0000:00:18.0: [15ad:07a0] type 01 class 0x060400
+[    2.241469] pci 0000:00:18.0: PME# supported from D0 D3hot D3cold
+[    2.241676] pci 0000:00:18.0: System wakeup disabled by ACPI
+[    2.241811] pci 0000:00:18.1: [15ad:07a0] type 01 class 0x060400
+[    2.242467] pci 0000:00:18.1: PME# supported from D0 D3hot D3cold
+[    2.242665] pci 0000:00:18.1: System wakeup disabled by ACPI
+[    2.242795] pci 0000:00:18.2: [15ad:07a0] type 01 class 0x060400
+[    2.243450] pci 0000:00:18.2: PME# supported from D0 D3hot D3cold
+[    2.243648] pci 0000:00:18.2: System wakeup disabled by ACPI
+[    2.243781] pci 0000:00:18.3: [15ad:07a0] type 01 class 0x060400
+[    2.244445] pci 0000:00:18.3: PME# supported from D0 D3hot D3cold
+[    2.244644] pci 0000:00:18.3: System wakeup disabled by ACPI
+[    2.244777] pci 0000:00:18.4: [15ad:07a0] type 01 class 0x060400
+[    2.245447] pci 0000:00:18.4: PME# supported from D0 D3hot D3cold
+[    2.245646] pci 0000:00:18.4: System wakeup disabled by ACPI
+[    2.245776] pci 0000:00:18.5: [15ad:07a0] type 01 class 0x060400
+[    2.246431] pci 0000:00:18.5: PME# supported from D0 D3hot D3cold
+[    2.246629] pci 0000:00:18.5: System wakeup disabled by ACPI
+[    2.246772] pci 0000:00:18.6: [15ad:07a0] type 01 class 0x060400
+[    2.247427] pci 0000:00:18.6: PME# supported from D0 D3hot D3cold
+[    2.247624] pci 0000:00:18.6: System wakeup disabled by ACPI
+[    2.247758] pci 0000:00:18.7: [15ad:07a0] type 01 class 0x060400
+[    2.248421] pci 0000:00:18.7: PME# supported from D0 D3hot D3cold
+[    2.248624] pci 0000:00:18.7: System wakeup disabled by ACPI
+[    2.249096] pci 0000:00:01.0: PCI bridge to [bus 01]
+[    2.249508] acpiphp: Slot [32] registered
+[    2.249533] acpiphp: Slot [33] registered
+[    2.249554] acpiphp: Slot [34] registered
+[    2.249575] acpiphp: Slot [35] registered
+[    2.249596] acpiphp: Slot [36] registered
+[    2.249617] acpiphp: Slot [37] registered
+[    2.249637] acpiphp: Slot [38] registered
+[    2.249658] acpiphp: Slot [39] registered
+[    2.249681] acpiphp: Slot [40] registered
+[    2.249702] acpiphp: Slot [41] registered
+[    2.249723] acpiphp: Slot [42] registered
+[    2.249744] acpiphp: Slot [43] registered
+[    2.249764] acpiphp: Slot [44] registered
+[    2.249785] acpiphp: Slot [45] registered
+[    2.249805] acpiphp: Slot [46] registered
+[    2.249825] acpiphp: Slot [47] registered
+[    2.249846] acpiphp: Slot [48] registered
+[    2.249866] acpiphp: Slot [49] registered
+[    2.249890] acpiphp: Slot [50] registered
+[    2.249911] acpiphp: Slot [51] registered
+[    2.249931] acpiphp: Slot [52] registered
+[    2.249952] acpiphp: Slot [53] registered
+[    2.249972] acpiphp: Slot [54] registered
+[    2.249992] acpiphp: Slot [55] registered
+[    2.250013] acpiphp: Slot [56] registered
+[    2.250033] acpiphp: Slot [57] registered
+[    2.250053] acpiphp: Slot [58] registered
+[    2.250077] acpiphp: Slot [59] registered
+[    2.250098] acpiphp: Slot [60] registered
+[    2.250119] acpiphp: Slot [61] registered
+[    2.250139] acpiphp: Slot [62] registered
+[    2.250160] acpiphp: Slot [63] registered
+[    2.250213] pci 0000:02:00.0: [15ad:0774] type 00 class 0x0c0300
+[    2.251992] pci 0000:02:00.0: reg 0x20: [io  0x20c0-0x20df]
+[    2.252741] pci 0000:02:00.0: System wakeup disabled by ACPI
+[    2.252806] pci 0000:02:01.0: [1022:2000] type 00 class 0x020000
+[    2.253147] pci 0000:02:01.0: reg 0x10: [io  0x2000-0x207f]
+[    2.255045] pci 0000:02:01.0: reg 0x30: [mem 0x00000000-0x0000ffff pref]
+[    2.255167] pci 0000:02:01.0: System wakeup disabled by ACPI
+[    2.255232] pci 0000:02:02.0: [1274:1371] type 00 class 0x040100
+[    2.255651] pci 0000:02:02.0: reg 0x10: [io  0x2080-0x20bf]
+[    2.258124] pci 0000:02:02.0: System wakeup disabled by ACPI
+[    2.258207] pci 0000:02:03.0: [15ad:0770] type 00 class 0x0c0320
+[    2.258623] pci 0000:02:03.0: reg 0x10: [mem 0xfd5ff000-0xfd5fffff]
+[    2.260946] pci 0000:02:03.0: System wakeup disabled by ACPI
+[    2.261233] pci 0000:00:11.0: PCI bridge to [bus 02] (subtractive decode)
+[    2.261255] pci 0000:00:11.0:   bridge window [io  0x2000-0x3fff]
+[    2.261275] pci 0000:00:11.0:   bridge window [mem 0xfd500000-0xfdffffff]
+[    2.261314] pci 0000:00:11.0:   bridge window [mem 0xe7b00000-0xe7ffffff 64bit pref]
+[    2.261317] pci 0000:00:11.0:   bridge window [mem 0x000a0000-0x000bffff] (subtractive decode)
+[    2.261318] pci 0000:00:11.0:   bridge window [mem 0x000cc000-0x000cffff] (subtractive decode)
+[    2.261320] pci 0000:00:11.0:   bridge window [mem 0x000d0000-0x000d3fff] (subtractive decode)
+[    2.261321] pci 0000:00:11.0:   bridge window [mem 0x000d4000-0x000d7fff] (subtractive decode)
+[    2.261322] pci 0000:00:11.0:   bridge window [mem 0x000d8000-0x000dbfff] (subtractive decode)
+[    2.261324] pci 0000:00:11.0:   bridge window [mem 0xc0000000-0xfebfffff] (subtractive decode)
+[    2.261326] pci 0000:00:11.0:   bridge window [io  0x0000-0x0cf7] (subtractive decode)
+[    2.261327] pci 0000:00:11.0:   bridge window [io  0x0d00-0xfeff] (subtractive decode)
+[    2.261896] pci 0000:03:00.0: [15ad:0778] type 00 class 0x0c0330
+[    2.262336] pci 0000:03:00.0: reg 0x10: [mem 0xfd4c0000-0xfd4dffff 64bit]
+[    2.264577] pci 0000:03:00.0: PME# supported from D0 D3hot D3cold
+[    2.264715] pci 0000:03:00.0: System wakeup disabled by ACPI
+[    2.264751] pci 0000:03:00.0: disabling ASPM on pre-1.1 PCIe device.  You can enable it with 'pcie_aspm=force'
+[    2.264802] pci 0000:00:15.0: PCI bridge to [bus 03]
+[    2.264823] pci 0000:00:15.0:   bridge window [io  0x4000-0x4fff]
+[    2.264843] pci 0000:00:15.0:   bridge window [mem 0xfd400000-0xfd4fffff]
+[    2.264882] pci 0000:00:15.0:   bridge window [mem 0xe7a00000-0xe7afffff 64bit pref]
+[    2.265357] pci 0000:00:15.1: PCI bridge to [bus 04]
+[    2.265385] pci 0000:00:15.1:   bridge window [io  0x8000-0x8fff]
+[    2.265406] pci 0000:00:15.1:   bridge window [mem 0xfd000000-0xfd0fffff]
+[    2.265444] pci 0000:00:15.1:   bridge window [mem 0xe7600000-0xe76fffff 64bit pref]
+[    2.265908] pci 0000:00:15.2: PCI bridge to [bus 05]
+[    2.265929] pci 0000:00:15.2:   bridge window [io  0xc000-0xcfff]
+[    2.265950] pci 0000:00:15.2:   bridge window [mem 0xfcc00000-0xfccfffff]
+[    2.265988] pci 0000:00:15.2:   bridge window [mem 0xe7200000-0xe72fffff 64bit pref]
+[    2.266445] pci 0000:00:15.3: PCI bridge to [bus 06]
+[    2.266484] pci 0000:00:15.3:   bridge window [mem 0xfc800000-0xfc8fffff]
+[    2.266522] pci 0000:00:15.3:   bridge window [mem 0xe6e00000-0xe6efffff 64bit pref]
+[    2.266986] pci 0000:00:15.4: PCI bridge to [bus 07]
+[    2.267021] pci 0000:00:15.4:   bridge window [mem 0xfc400000-0xfc4fffff]
+[    2.267056] pci 0000:00:15.4:   bridge window [mem 0xe6a00000-0xe6afffff 64bit pref]
+[    2.267472] pci 0000:00:15.5: PCI bridge to [bus 08]
+[    2.267507] pci 0000:00:15.5:   bridge window [mem 0xfc000000-0xfc0fffff]
+[    2.267542] pci 0000:00:15.5:   bridge window [mem 0xe6600000-0xe66fffff 64bit pref]
+[    2.268002] pci 0000:00:15.6: PCI bridge to [bus 09]
+[    2.268038] pci 0000:00:15.6:   bridge window [mem 0xfbc00000-0xfbcfffff]
+[    2.268074] pci 0000:00:15.6:   bridge window [mem 0xe6200000-0xe62fffff 64bit pref]
+[    2.268502] pci 0000:00:15.7: PCI bridge to [bus 0a]
+[    2.268539] pci 0000:00:15.7:   bridge window [mem 0xfb800000-0xfb8fffff]
+[    2.268575] pci 0000:00:15.7:   bridge window [mem 0xe5e00000-0xe5efffff 64bit pref]
+[    2.269000] pci 0000:00:16.0: PCI bridge to [bus 0b]
+[    2.269019] pci 0000:00:16.0:   bridge window [io  0x5000-0x5fff]
+[    2.269039] pci 0000:00:16.0:   bridge window [mem 0xfd300000-0xfd3fffff]
+[    2.269075] pci 0000:00:16.0:   bridge window [mem 0xe7900000-0xe79fffff 64bit pref]
+[    2.269543] pci 0000:00:16.1: PCI bridge to [bus 0c]
+[    2.269564] pci 0000:00:16.1:   bridge window [io  0x9000-0x9fff]
+[    2.269584] pci 0000:00:16.1:   bridge window [mem 0xfcf00000-0xfcffffff]
+[    2.269623] pci 0000:00:16.1:   bridge window [mem 0xe7500000-0xe75fffff 64bit pref]
+[    2.270083] pci 0000:00:16.2: PCI bridge to [bus 0d]
+[    2.270104] pci 0000:00:16.2:   bridge window [io  0xd000-0xdfff]
+[    2.270124] pci 0000:00:16.2:   bridge window [mem 0xfcb00000-0xfcbfffff]
+[    2.270163] pci 0000:00:16.2:   bridge window [mem 0xe7100000-0xe71fffff 64bit pref]
+[    2.270620] pci 0000:00:16.3: PCI bridge to [bus 0e]
+[    2.270659] pci 0000:00:16.3:   bridge window [mem 0xfc700000-0xfc7fffff]
+[    2.270698] pci 0000:00:16.3:   bridge window [mem 0xe6d00000-0xe6dfffff 64bit pref]
+[    2.271157] pci 0000:00:16.4: PCI bridge to [bus 0f]
+[    2.271196] pci 0000:00:16.4:   bridge window [mem 0xfc300000-0xfc3fffff]
+[    2.271234] pci 0000:00:16.4:   bridge window [mem 0xe6900000-0xe69fffff 64bit pref]
+[    2.271712] pci 0000:00:16.5: PCI bridge to [bus 10]
+[    2.271751] pci 0000:00:16.5:   bridge window [mem 0xfbf00000-0xfbffffff]
+[    2.271790] pci 0000:00:16.5:   bridge window [mem 0xe6500000-0xe65fffff 64bit pref]
+[    2.272246] pci 0000:00:16.6: PCI bridge to [bus 11]
+[    2.272284] pci 0000:00:16.6:   bridge window [mem 0xfbb00000-0xfbbfffff]
+[    2.272323] pci 0000:00:16.6:   bridge window [mem 0xe6100000-0xe61fffff 64bit pref]
+[    2.272783] pci 0000:00:16.7: PCI bridge to [bus 12]
+[    2.272822] pci 0000:00:16.7:   bridge window [mem 0xfb700000-0xfb7fffff]
+[    2.272860] pci 0000:00:16.7:   bridge window [mem 0xe5d00000-0xe5dfffff 64bit pref]
+[    2.273325] pci 0000:00:17.0: PCI bridge to [bus 13]
+[    2.273353] pci 0000:00:17.0:   bridge window [io  0x6000-0x6fff]
+[    2.273374] pci 0000:00:17.0:   bridge window [mem 0xfd200000-0xfd2fffff]
+[    2.273413] pci 0000:00:17.0:   bridge window [mem 0xe7800000-0xe78fffff 64bit pref]
+[    2.273874] pci 0000:00:17.1: PCI bridge to [bus 14]
+[    2.273895] pci 0000:00:17.1:   bridge window [io  0xa000-0xafff]
+[    2.273915] pci 0000:00:17.1:   bridge window [mem 0xfce00000-0xfcefffff]
+[    2.273954] pci 0000:00:17.1:   bridge window [mem 0xe7400000-0xe74fffff 64bit pref]
+[    2.274431] pci 0000:00:17.2: PCI bridge to [bus 15]
+[    2.274452] pci 0000:00:17.2:   bridge window [io  0xe000-0xefff]
+[    2.274472] pci 0000:00:17.2:   bridge window [mem 0xfca00000-0xfcafffff]
+[    2.274511] pci 0000:00:17.2:   bridge window [mem 0xe7000000-0xe70fffff 64bit pref]
+[    2.274972] pci 0000:00:17.3: PCI bridge to [bus 16]
+[    2.275010] pci 0000:00:17.3:   bridge window [mem 0xfc600000-0xfc6fffff]
+[    2.275049] pci 0000:00:17.3:   bridge window [mem 0xe6c00000-0xe6cfffff 64bit pref]
+[    2.275506] pci 0000:00:17.4: PCI bridge to [bus 17]
+[    2.275545] pci 0000:00:17.4:   bridge window [mem 0xfc200000-0xfc2fffff]
+[    2.275584] pci 0000:00:17.4:   bridge window [mem 0xe6800000-0xe68fffff 64bit pref]
+[    2.276040] pci 0000:00:17.5: PCI bridge to [bus 18]
+[    2.276079] pci 0000:00:17.5:   bridge window [mem 0xfbe00000-0xfbefffff]
+[    2.276117] pci 0000:00:17.5:   bridge window [mem 0xe6400000-0xe64fffff 64bit pref]
+[    2.276585] pci 0000:00:17.6: PCI bridge to [bus 19]
+[    2.276624] pci 0000:00:17.6:   bridge window [mem 0xfba00000-0xfbafffff]
+[    2.276670] pci 0000:00:17.6:   bridge window [mem 0xe6000000-0xe60fffff 64bit pref]
+[    2.277127] pci 0000:00:17.7: PCI bridge to [bus 1a]
+[    2.277165] pci 0000:00:17.7:   bridge window [mem 0xfb600000-0xfb6fffff]
+[    2.277204] pci 0000:00:17.7:   bridge window [mem 0xe5c00000-0xe5cfffff 64bit pref]
+[    2.277672] pci 0000:00:18.0: PCI bridge to [bus 1b]
+[    2.277693] pci 0000:00:18.0:   bridge window [io  0x7000-0x7fff]
+[    2.277713] pci 0000:00:18.0:   bridge window [mem 0xfd100000-0xfd1fffff]
+[    2.277752] pci 0000:00:18.0:   bridge window [mem 0xe7700000-0xe77fffff 64bit pref]
+[    2.278243] pci 0000:00:18.1: PCI bridge to [bus 1c]
+[    2.278265] pci 0000:00:18.1:   bridge window [io  0xb000-0xbfff]
+[    2.278287] pci 0000:00:18.1:   bridge window [mem 0xfcd00000-0xfcdfffff]
+[    2.278325] pci 0000:00:18.1:   bridge window [mem 0xe7300000-0xe73fffff 64bit pref]
+[    2.278798] pci 0000:00:18.2: PCI bridge to [bus 1d]
+[    2.278837] pci 0000:00:18.2:   bridge window [mem 0xfc900000-0xfc9fffff]
+[    2.278876] pci 0000:00:18.2:   bridge window [mem 0xe6f00000-0xe6ffffff 64bit pref]
+[    2.279354] pci 0000:00:18.3: PCI bridge to [bus 1e]
+[    2.279392] pci 0000:00:18.3:   bridge window [mem 0xfc500000-0xfc5fffff]
+[    2.279431] pci 0000:00:18.3:   bridge window [mem 0xe6b00000-0xe6bfffff 64bit pref]
+[    2.279889] pci 0000:00:18.4: PCI bridge to [bus 1f]
+[    2.279928] pci 0000:00:18.4:   bridge window [mem 0xfc100000-0xfc1fffff]
+[    2.279966] pci 0000:00:18.4:   bridge window [mem 0xe6700000-0xe67fffff 64bit pref]
+[    2.280437] pci 0000:00:18.5: PCI bridge to [bus 20]
+[    2.280476] pci 0000:00:18.5:   bridge window [mem 0xfbd00000-0xfbdfffff]
+[    2.280515] pci 0000:00:18.5:   bridge window [mem 0xe6300000-0xe63fffff 64bit pref]
+[    2.280971] pci 0000:00:18.6: PCI bridge to [bus 21]
+[    2.281010] pci 0000:00:18.6:   bridge window [mem 0xfb900000-0xfb9fffff]
+[    2.281049] pci 0000:00:18.6:   bridge window [mem 0xe5f00000-0xe5ffffff 64bit pref]
+[    2.281519] pci 0000:00:18.7: PCI bridge to [bus 22]
+[    2.281558] pci 0000:00:18.7:   bridge window [mem 0xfb500000-0xfb5fffff]
+[    2.281597] pci 0000:00:18.7:   bridge window [mem 0xe5b00000-0xe5bfffff 64bit pref]
+[    2.283570] pci_bus 0000:00: on NUMA node 0
+[    2.283681] ACPI: PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 *9 10 11 14 15)
+[    2.283763] ACPI: PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 9 10 *11 14 15)
+[    2.283841] ACPI: PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 7 9 *10 11 14 15)
+[    2.283919] ACPI: PCI Interrupt Link [LNKD] (IRQs 3 4 *5 6 7 9 10 11 14 15)
+[    2.751124] ACPI: Enabled 2 GPEs in block 00 to 0F
+[    2.751143] ACPI: \_SB_.PCI0: notify handler is installed
+[    2.751488] Found 1 acpi root devices
+[    2.751961] vgaarb: device added: PCI:0000:00:0f.0,decodes=io+mem,owns=io+mem,locks=none
+[    2.751984] vgaarb: loaded
+[    2.751986] vgaarb: bridge control possible 0000:00:0f.0
+[    2.752397] SCSI subsystem initialized
+[    2.752402] ACPI: bus type ATA registered
+[    2.752696] libata version 3.00 loaded.
+[    2.752727] ACPI: bus type USB registered
+[    2.752768] usbcore: registered new interface driver usbfs
+[    2.752787] usbcore: registered new interface driver hub
+[    2.753169] usbcore: registered new device driver usb
+[    2.754110] PCI: Using ACPI for IRQ routing
+[    2.810628] PCI: pci_cache_line_size set to 64 bytes
+[    2.811512] e820: reserve RAM buffer [mem 0x0009f000-0x0009ffff]
+[    2.811515] e820: reserve RAM buffer [mem 0x5fee0000-0x5fffffff]
+[    2.811598] NetLabel: Initializing
+[    2.811599] NetLabel:  domain hash size = 128
+[    2.811600] NetLabel:  protocols = UNLABELED CIPSOv4
+[    2.811607] NetLabel:  unlabeled traffic allowed by default
+[    2.811885] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+[    2.811894] hpet0: 16 comparators, 64-bit 14.318180 MHz counter
+[    2.815069] Switched to clocksource hpet
+[    2.820906] AppArmor: AppArmor Filesystem Enabled
+[    2.820926] pnp: PnP ACPI init
+[    2.820935] ACPI: bus type PNP registered
+[    2.821099] system 00:00: [io  0x1000-0x103f] could not be reserved
+[    2.821101] system 00:00: [io  0x1040-0x104f] has been reserved
+[    2.821103] system 00:00: [io  0x0cf0-0x0cf1] has been reserved
+[    2.821106] system 00:00: Plug and Play ACPI device, IDs PNP0c02 (active)
+[    2.821115] pnp 00:01: [dma 4]
+[    2.821127] pnp 00:01: Plug and Play ACPI device, IDs PNP0200 (active)
+[    2.821148] pnp 00:02: Plug and Play ACPI device, IDs PNP0001 (active)
+[    2.821177] pnp 00:03: Plug and Play ACPI device, IDs PNP0b00 (active)
+[    2.821192] pnp 00:04: Plug and Play ACPI device, IDs PNP0800 (active)
+[    2.821216] pnp 00:05: Plug and Play ACPI device, IDs PNP0303 (active)
+[    2.821236] pnp 00:06: Plug and Play ACPI device, IDs PNP0f13 (active)
+[    2.821418] system 00:07: [mem 0xfed00000-0xfed003ff] has been reserved
+[    2.821421] system 00:07: Plug and Play ACPI device, IDs PNP0103 PNP0c01 (active)
+[    2.822968] pnp 00:08: Plug and Play ACPI device, IDs PNP0400 (active)
+[    2.823168] pnp 00:09: Plug and Play ACPI device, IDs PNP0501 (active)
+[    2.823384] pnp 00:0a: Plug and Play ACPI device, IDs PNP0501 (active)
+[    2.823544] pnp 00:0b: [dma 2]
+[    2.823580] pnp 00:0b: Plug and Play ACPI device, IDs PNP0700 (active)
+[    2.823759] system 00:0c: [io  0xfce0-0xfcff] has been reserved
+[    2.823762] system 00:0c: [mem 0xf0000000-0xf7ffffff] has been reserved
+[    2.823764] system 00:0c: [mem 0xfe800000-0xfe9fffff] has been reserved
+[    2.823766] system 00:0c: Plug and Play ACPI device, IDs PNP0c02 (active)
+[    2.952422] pnp 00:0d: Plug and Play ACPI device, IDs PNP0c80 (active)
+[    3.880441] pnp: PnP ACPI: found 14 devices
+[    3.880448] ACPI: bus type PNP unregistered
+[    3.880457] PnPBIOS: Disabled by ACPI PNP
+[    3.937906] pci 0000:00:15.3: bridge window [io  0x1000-0x0fff] to [bus 06] add_size 1000
+[    3.937956] pci 0000:00:15.4: bridge window [io  0x1000-0x0fff] to [bus 07] add_size 1000
+[    3.938005] pci 0000:00:15.5: bridge window [io  0x1000-0x0fff] to [bus 08] add_size 1000
+[    3.938055] pci 0000:00:15.6: bridge window [io  0x1000-0x0fff] to [bus 09] add_size 1000
+[    3.938104] pci 0000:00:15.7: bridge window [io  0x1000-0x0fff] to [bus 0a] add_size 1000
+[    3.938154] pci 0000:00:16.3: bridge window [io  0x1000-0x0fff] to [bus 0e] add_size 1000
+[    3.938204] pci 0000:00:16.4: bridge window [io  0x1000-0x0fff] to [bus 0f] add_size 1000
+[    3.938253] pci 0000:00:16.5: bridge window [io  0x1000-0x0fff] to [bus 10] add_size 1000
+[    3.938303] pci 0000:00:16.6: bridge window [io  0x1000-0x0fff] to [bus 11] add_size 1000
+[    3.938353] pci 0000:00:16.7: bridge window [io  0x1000-0x0fff] to [bus 12] add_size 1000
+[    3.938402] pci 0000:00:17.3: bridge window [io  0x1000-0x0fff] to [bus 16] add_size 1000
+[    3.938452] pci 0000:00:17.4: bridge window [io  0x1000-0x0fff] to [bus 17] add_size 1000
+[    3.938502] pci 0000:00:17.5: bridge window [io  0x1000-0x0fff] to [bus 18] add_size 1000
+[    3.938551] pci 0000:00:17.6: bridge window [io  0x1000-0x0fff] to [bus 19] add_size 1000
+[    3.938601] pci 0000:00:17.7: bridge window [io  0x1000-0x0fff] to [bus 1a] add_size 1000
+[    3.938650] pci 0000:00:18.2: bridge window [io  0x1000-0x0fff] to [bus 1d] add_size 1000
+[    3.938700] pci 0000:00:18.3: bridge window [io  0x1000-0x0fff] to [bus 1e] add_size 1000
+[    3.938750] pci 0000:00:18.4: bridge window [io  0x1000-0x0fff] to [bus 1f] add_size 1000
+[    3.938799] pci 0000:00:18.5: bridge window [io  0x1000-0x0fff] to [bus 20] add_size 1000
+[    3.938849] pci 0000:00:18.6: bridge window [io  0x1000-0x0fff] to [bus 21] add_size 1000
+[    3.938899] pci 0000:00:18.7: bridge window [io  0x1000-0x0fff] to [bus 22] add_size 1000
+[    3.938926] pci 0000:00:15.3: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938931] pci 0000:00:15.4: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938935] pci 0000:00:15.5: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938939] pci 0000:00:15.6: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938942] pci 0000:00:15.7: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938946] pci 0000:00:16.3: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938950] pci 0000:00:16.4: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938954] pci 0000:00:16.5: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938958] pci 0000:00:16.6: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938962] pci 0000:00:16.7: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938966] pci 0000:00:17.3: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938970] pci 0000:00:17.4: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938974] pci 0000:00:17.5: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938978] pci 0000:00:17.6: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938981] pci 0000:00:17.7: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938985] pci 0000:00:18.2: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938989] pci 0000:00:18.3: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938993] pci 0000:00:18.4: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.938997] pci 0000:00:18.5: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.939001] pci 0000:00:18.6: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.939005] pci 0000:00:18.7: res[13]=[io  0x1000-0x0fff] get_res_add_size add_size 1000
+[    3.939014] pci 0000:00:0f.0: BAR 6: assigned [mem 0xc0000000-0xc0007fff pref]
+[    3.939022] pci 0000:00:10.0: BAR 6: assigned [mem 0xc0008000-0xc000bfff pref]
+[    3.939029] pci 0000:00:15.3: BAR 13: can't assign io (size 0x1000)
+[    3.939035] pci 0000:00:15.4: BAR 13: can't assign io (size 0x1000)
+[    3.939041] pci 0000:00:15.5: BAR 13: can't assign io (size 0x1000)
+[    3.939046] pci 0000:00:15.6: BAR 13: can't assign io (size 0x1000)
+[    3.939051] pci 0000:00:15.7: BAR 13: can't assign io (size 0x1000)
+[    3.939056] pci 0000:00:16.3: BAR 13: can't assign io (size 0x1000)
+[    3.939062] pci 0000:00:16.4: BAR 13: can't assign io (size 0x1000)
+[    3.939067] pci 0000:00:16.5: BAR 13: can't assign io (size 0x1000)
+[    3.939072] pci 0000:00:16.6: BAR 13: can't assign io (size 0x1000)
+[    3.939078] pci 0000:00:16.7: BAR 13: can't assign io (size 0x1000)
+[    3.939083] pci 0000:00:17.3: BAR 13: can't assign io (size 0x1000)
+[    3.939088] pci 0000:00:17.4: BAR 13: can't assign io (size 0x1000)
+[    3.939094] pci 0000:00:17.5: BAR 13: can't assign io (size 0x1000)
+[    3.939099] pci 0000:00:17.6: BAR 13: can't assign io (size 0x1000)
+[    3.939104] pci 0000:00:17.7: BAR 13: can't assign io (size 0x1000)
+[    3.939109] pci 0000:00:18.2: BAR 13: can't assign io (size 0x1000)
+[    3.939115] pci 0000:00:18.3: BAR 13: can't assign io (size 0x1000)
+[    3.939135] pci 0000:00:18.4: BAR 13: can't assign io (size 0x1000)
+[    3.939141] pci 0000:00:18.5: BAR 13: can't assign io (size 0x1000)
+[    3.939147] pci 0000:00:18.6: BAR 13: can't assign io (size 0x1000)
+[    3.939152] pci 0000:00:18.7: BAR 13: can't assign io (size 0x1000)
+[    3.939161] pci 0000:00:18.7: BAR 13: can't assign io (size 0x1000)
+[    3.939167] pci 0000:00:18.6: BAR 13: can't assign io (size 0x1000)
+[    3.939173] pci 0000:00:18.5: BAR 13: can't assign io (size 0x1000)
+[    3.939178] pci 0000:00:18.4: BAR 13: can't assign io (size 0x1000)
+[    3.939183] pci 0000:00:18.3: BAR 13: can't assign io (size 0x1000)
+[    3.939189] pci 0000:00:18.2: BAR 13: can't assign io (size 0x1000)
+[    3.939194] pci 0000:00:17.7: BAR 13: can't assign io (size 0x1000)
+[    3.939199] pci 0000:00:17.6: BAR 13: can't assign io (size 0x1000)
+[    3.939205] pci 0000:00:17.5: BAR 13: can't assign io (size 0x1000)
+[    3.939210] pci 0000:00:17.4: BAR 13: can't assign io (size 0x1000)
+[    3.939216] pci 0000:00:17.3: BAR 13: can't assign io (size 0x1000)
+[    3.939221] pci 0000:00:16.7: BAR 13: can't assign io (size 0x1000)
+[    3.939226] pci 0000:00:16.6: BAR 13: can't assign io (size 0x1000)
+[    3.939232] pci 0000:00:16.5: BAR 13: can't assign io (size 0x1000)
+[    3.939237] pci 0000:00:16.4: BAR 13: can't assign io (size 0x1000)
+[    3.939243] pci 0000:00:16.3: BAR 13: can't assign io (size 0x1000)
+[    3.939248] pci 0000:00:15.7: BAR 13: can't assign io (size 0x1000)
+[    3.939253] pci 0000:00:15.6: BAR 13: can't assign io (size 0x1000)
+[    3.939259] pci 0000:00:15.5: BAR 13: can't assign io (size 0x1000)
+[    3.939264] pci 0000:00:15.4: BAR 13: can't assign io (size 0x1000)
+[    3.939269] pci 0000:00:15.3: BAR 13: can't assign io (size 0x1000)
+[    3.939274] pci 0000:00:01.0: PCI bridge to [bus 01]
+[    3.939324] pci 0000:02:01.0: BAR 6: assigned [mem 0xe7b00000-0xe7b0ffff pref]
+[    3.939329] pci 0000:00:11.0: PCI bridge to [bus 02]
+[    3.939352] pci 0000:00:11.0:   bridge window [io  0x2000-0x3fff]
+[    3.939401] pci 0000:00:11.0:   bridge window [mem 0xfd500000-0xfdffffff]
+[    3.939439] pci 0000:00:11.0:   bridge window [mem 0xe7b00000-0xe7ffffff 64bit pref]
+[    3.939489] pci 0000:00:15.0: PCI bridge to [bus 03]
+[    3.939511] pci 0000:00:15.0:   bridge window [io  0x4000-0x4fff]
+[    3.939561] pci 0000:00:15.0:   bridge window [mem 0xfd400000-0xfd4fffff]
+[    3.939598] pci 0000:00:15.0:   bridge window [mem 0xe7a00000-0xe7afffff 64bit pref]
+[    3.939774] pci 0000:00:15.1: PCI bridge to [bus 04]
+[    3.939799] pci 0000:00:15.1:   bridge window [io  0x8000-0x8fff]
+[    3.939849] pci 0000:00:15.1:   bridge window [mem 0xfd000000-0xfd0fffff]
+[    3.939886] pci 0000:00:15.1:   bridge window [mem 0xe7600000-0xe76fffff 64bit pref]
+[    3.939936] pci 0000:00:15.2: PCI bridge to [bus 05]
+[    3.939960] pci 0000:00:15.2:   bridge window [io  0xc000-0xcfff]
+[    3.940009] pci 0000:00:15.2:   bridge window [mem 0xfcc00000-0xfccfffff]
+[    3.940047] pci 0000:00:15.2:   bridge window [mem 0xe7200000-0xe72fffff 64bit pref]
+[    3.940096] pci 0000:00:15.3: PCI bridge to [bus 06]
+[    3.940146] pci 0000:00:15.3:   bridge window [mem 0xfc800000-0xfc8fffff]
+[    3.940184] pci 0000:00:15.3:   bridge window [mem 0xe6e00000-0xe6efffff 64bit pref]
+[    3.940233] pci 0000:00:15.4: PCI bridge to [bus 07]
+[    3.940283] pci 0000:00:15.4:   bridge window [mem 0xfc400000-0xfc4fffff]
+[    3.940332] pci 0000:00:15.4:   bridge window [mem 0xe6a00000-0xe6afffff 64bit pref]
+[    3.940382] pci 0000:00:15.5: PCI bridge to [bus 08]
+[    3.940432] pci 0000:00:15.5:   bridge window [mem 0xfc000000-0xfc0fffff]
+[    3.940469] pci 0000:00:15.5:   bridge window [mem 0xe6600000-0xe66fffff 64bit pref]
+[    3.940519] pci 0000:00:15.6: PCI bridge to [bus 09]
+[    3.940569] pci 0000:00:15.6:   bridge window [mem 0xfbc00000-0xfbcfffff]
+[    3.940606] pci 0000:00:15.6:   bridge window [mem 0xe6200000-0xe62fffff 64bit pref]
+[    3.940656] pci 0000:00:15.7: PCI bridge to [bus 0a]
+[    3.940705] pci 0000:00:15.7:   bridge window [mem 0xfb800000-0xfb8fffff]
+[    3.940743] pci 0000:00:15.7:   bridge window [mem 0xe5e00000-0xe5efffff 64bit pref]
+[    3.940793] pci 0000:00:16.0: PCI bridge to [bus 0b]
+[    3.940816] pci 0000:00:16.0:   bridge window [io  0x5000-0x5fff]
+[    3.940866] pci 0000:00:16.0:   bridge window [mem 0xfd300000-0xfd3fffff]
+[    3.940903] pci 0000:00:16.0:   bridge window [mem 0xe7900000-0xe79fffff 64bit pref]
+[    3.940953] pci 0000:00:16.1: PCI bridge to [bus 0c]
+[    3.940976] pci 0000:00:16.1:   bridge window [io  0x9000-0x9fff]
+[    3.941025] pci 0000:00:16.1:   bridge window [mem 0xfcf00000-0xfcffffff]
+[    3.941075] pci 0000:00:16.1:   bridge window [mem 0xe7500000-0xe75fffff 64bit pref]
+[    3.941125] pci 0000:00:16.2: PCI bridge to [bus 0d]
+[    3.941148] pci 0000:00:16.2:   bridge window [io  0xd000-0xdfff]
+[    3.941197] pci 0000:00:16.2:   bridge window [mem 0xfcb00000-0xfcbfffff]
+[    3.941235] pci 0000:00:16.2:   bridge window [mem 0xe7100000-0xe71fffff 64bit pref]
+[    3.941284] pci 0000:00:16.3: PCI bridge to [bus 0e]
+[    3.941334] pci 0000:00:16.3:   bridge window [mem 0xfc700000-0xfc7fffff]
+[    3.941371] pci 0000:00:16.3:   bridge window [mem 0xe6d00000-0xe6dfffff 64bit pref]
+[    3.941421] pci 0000:00:16.4: PCI bridge to [bus 0f]
+[    3.941471] pci 0000:00:16.4:   bridge window [mem 0xfc300000-0xfc3fffff]
+[    3.941508] pci 0000:00:16.4:   bridge window [mem 0xe6900000-0xe69fffff 64bit pref]
+[    3.941558] pci 0000:00:16.5: PCI bridge to [bus 10]
+[    3.941608] pci 0000:00:16.5:   bridge window [mem 0xfbf00000-0xfbffffff]
+[    3.941645] pci 0000:00:16.5:   bridge window [mem 0xe6500000-0xe65fffff 64bit pref]
+[    3.941695] pci 0000:00:16.6: PCI bridge to [bus 11]
+[    3.941744] pci 0000:00:16.6:   bridge window [mem 0xfbb00000-0xfbbfffff]
+[    3.941782] pci 0000:00:16.6:   bridge window [mem 0xe6100000-0xe61fffff 64bit pref]
+[    3.941832] pci 0000:00:16.7: PCI bridge to [bus 12]
+[    3.941881] pci 0000:00:16.7:   bridge window [mem 0xfb700000-0xfb7fffff]
+[    3.941919] pci 0000:00:16.7:   bridge window [mem 0xe5d00000-0xe5dfffff 64bit pref]
+[    3.941968] pci 0000:00:17.0: PCI bridge to [bus 13]
+[    3.941992] pci 0000:00:17.0:   bridge window [io  0x6000-0x6fff]
+[    3.942041] pci 0000:00:17.0:   bridge window [mem 0xfd200000-0xfd2fffff]
+[    3.942079] pci 0000:00:17.0:   bridge window [mem 0xe7800000-0xe78fffff 64bit pref]
+[    3.942128] pci 0000:00:17.1: PCI bridge to [bus 14]
+[    3.942151] pci 0000:00:17.1:   bridge window [io  0xa000-0xafff]
+[    3.942201] pci 0000:00:17.1:   bridge window [mem 0xfce00000-0xfcefffff]
+[    3.942240] pci 0000:00:17.1:   bridge window [mem 0xe7400000-0xe74fffff 64bit pref]
+[    3.942289] pci 0000:00:17.2: PCI bridge to [bus 15]
+[    3.942312] pci 0000:00:17.2:   bridge window [io  0xe000-0xefff]
+[    3.942362] pci 0000:00:17.2:   bridge window [mem 0xfca00000-0xfcafffff]
+[    3.942400] pci 0000:00:17.2:   bridge window [mem 0xe7000000-0xe70fffff 64bit pref]
+[    3.942449] pci 0000:00:17.3: PCI bridge to [bus 16]
+[    3.942499] pci 0000:00:17.3:   bridge window [mem 0xfc600000-0xfc6fffff]
+[    3.942536] pci 0000:00:17.3:   bridge window [mem 0xe6c00000-0xe6cfffff 64bit pref]
+[    3.942586] pci 0000:00:17.4: PCI bridge to [bus 17]
+[    3.942636] pci 0000:00:17.4:   bridge window [mem 0xfc200000-0xfc2fffff]
+[    3.942673] pci 0000:00:17.4:   bridge window [mem 0xe6800000-0xe68fffff 64bit pref]
+[    3.942723] pci 0000:00:17.5: PCI bridge to [bus 18]
+[    3.942773] pci 0000:00:17.5:   bridge window [mem 0xfbe00000-0xfbefffff]
+[    3.942810] pci 0000:00:17.5:   bridge window [mem 0xe6400000-0xe64fffff 64bit pref]
+[    3.942860] pci 0000:00:17.6: PCI bridge to [bus 19]
+[    3.942909] pci 0000:00:17.6:   bridge window [mem 0xfba00000-0xfbafffff]
+[    3.942947] pci 0000:00:17.6:   bridge window [mem 0xe6000000-0xe60fffff 64bit pref]
+[    3.942997] pci 0000:00:17.7: PCI bridge to [bus 1a]
+[    3.943046] pci 0000:00:17.7:   bridge window [mem 0xfb600000-0xfb6fffff]
+[    3.943084] pci 0000:00:17.7:   bridge window [mem 0xe5c00000-0xe5cfffff 64bit pref]
+[    3.943133] pci 0000:00:18.0: PCI bridge to [bus 1b]
+[    3.943157] pci 0000:00:18.0:   bridge window [io  0x7000-0x7fff]
+[    3.943206] pci 0000:00:18.0:   bridge window [mem 0xfd100000-0xfd1fffff]
+[    3.943244] pci 0000:00:18.0:   bridge window [mem 0xe7700000-0xe77fffff 64bit pref]
+[    3.943293] pci 0000:00:18.1: PCI bridge to [bus 1c]
+[    3.943317] pci 0000:00:18.1:   bridge window [io  0xb000-0xbfff]
+[    3.943366] pci 0000:00:18.1:   bridge window [mem 0xfcd00000-0xfcdfffff]
+[    3.943404] pci 0000:00:18.1:   bridge window [mem 0xe7300000-0xe73fffff 64bit pref]
+[    3.943454] pci 0000:00:18.2: PCI bridge to [bus 1d]
+[    3.943503] pci 0000:00:18.2:   bridge window [mem 0xfc900000-0xfc9fffff]
+[    3.943541] pci 0000:00:18.2:   bridge window [mem 0xe6f00000-0xe6ffffff 64bit pref]
+[    3.943590] pci 0000:00:18.3: PCI bridge to [bus 1e]
+[    3.943640] pci 0000:00:18.3:   bridge window [mem 0xfc500000-0xfc5fffff]
+[    3.943678] pci 0000:00:18.3:   bridge window [mem 0xe6b00000-0xe6bfffff 64bit pref]
+[    3.943772] pci 0000:00:18.4: PCI bridge to [bus 1f]
+[    3.943822] pci 0000:00:18.4:   bridge window [mem 0xfc100000-0xfc1fffff]
+[    3.943860] pci 0000:00:18.4:   bridge window [mem 0xe6700000-0xe67fffff 64bit pref]
+[    3.943909] pci 0000:00:18.5: PCI bridge to [bus 20]
+[    3.943959] pci 0000:00:18.5:   bridge window [mem 0xfbd00000-0xfbdfffff]
+[    3.943996] pci 0000:00:18.5:   bridge window [mem 0xe6300000-0xe63fffff 64bit pref]
+[    3.944046] pci 0000:00:18.6: PCI bridge to [bus 21]
+[    3.944096] pci 0000:00:18.6:   bridge window [mem 0xfb900000-0xfb9fffff]
+[    3.944145] pci 0000:00:18.6:   bridge window [mem 0xe5f00000-0xe5ffffff 64bit pref]
+[    3.944195] pci 0000:00:18.7: PCI bridge to [bus 22]
+[    3.944245] pci 0000:00:18.7:   bridge window [mem 0xfb500000-0xfb5fffff]
+[    3.944282] pci 0000:00:18.7:   bridge window [mem 0xe5b00000-0xe5bfffff 64bit pref]
+[    3.944332] pci 0000:00:01.0: setting latency timer to 64
+[    3.944381] pci_bus 0000:00: resource 4 [mem 0x000a0000-0x000bffff]
+[    3.944387] pci_bus 0000:00: resource 5 [mem 0x000cc000-0x000cffff]
+[    3.944391] pci_bus 0000:00: resource 6 [mem 0x000d0000-0x000d3fff]
+[    3.944394] pci_bus 0000:00: resource 7 [mem 0x000d4000-0x000d7fff]
+[    3.944398] pci_bus 0000:00: resource 8 [mem 0x000d8000-0x000dbfff]
+[    3.944402] pci_bus 0000:00: resource 9 [mem 0xc0000000-0xfebfffff]
+[    3.944406] pci_bus 0000:00: resource 10 [io  0x0000-0x0cf7]
+[    3.944410] pci_bus 0000:00: resource 11 [io  0x0d00-0xfeff]
+[    3.944415] pci_bus 0000:02: resource 0 [io  0x2000-0x3fff]
+[    3.944432] pci_bus 0000:02: resource 1 [mem 0xfd500000-0xfdffffff]
+[    3.944436] pci_bus 0000:02: resource 2 [mem 0xe7b00000-0xe7ffffff 64bit pref]
+[    3.944440] pci_bus 0000:02: resource 4 [mem 0x000a0000-0x000bffff]
+[    3.944444] pci_bus 0000:02: resource 5 [mem 0x000cc000-0x000cffff]
+[    3.944448] pci_bus 0000:02: resource 6 [mem 0x000d0000-0x000d3fff]
+[    3.944451] pci_bus 0000:02: resource 7 [mem 0x000d4000-0x000d7fff]
+[    3.944455] pci_bus 0000:02: resource 8 [mem 0x000d8000-0x000dbfff]
+[    3.944459] pci_bus 0000:02: resource 9 [mem 0xc0000000-0xfebfffff]
+[    3.944463] pci_bus 0000:02: resource 10 [io  0x0000-0x0cf7]
+[    3.944466] pci_bus 0000:02: resource 11 [io  0x0d00-0xfeff]
+[    3.944471] pci_bus 0000:03: resource 0 [io  0x4000-0x4fff]
+[    3.944474] pci_bus 0000:03: resource 1 [mem 0xfd400000-0xfd4fffff]
+[    3.944478] pci_bus 0000:03: resource 2 [mem 0xe7a00000-0xe7afffff 64bit pref]
+[    3.944482] pci_bus 0000:04: resource 0 [io  0x8000-0x8fff]
+[    3.944486] pci_bus 0000:04: resource 1 [mem 0xfd000000-0xfd0fffff]
+[    3.944490] pci_bus 0000:04: resource 2 [mem 0xe7600000-0xe76fffff 64bit pref]
+[    3.944494] pci_bus 0000:05: resource 0 [io  0xc000-0xcfff]
+[    3.944497] pci_bus 0000:05: resource 1 [mem 0xfcc00000-0xfccfffff]
+[    3.944501] pci_bus 0000:05: resource 2 [mem 0xe7200000-0xe72fffff 64bit pref]
+[    3.944505] pci_bus 0000:06: resource 1 [mem 0xfc800000-0xfc8fffff]
+[    3.944509] pci_bus 0000:06: resource 2 [mem 0xe6e00000-0xe6efffff 64bit pref]
+[    3.944513] pci_bus 0000:07: resource 1 [mem 0xfc400000-0xfc4fffff]
+[    3.944517] pci_bus 0000:07: resource 2 [mem 0xe6a00000-0xe6afffff 64bit pref]
+[    3.944521] pci_bus 0000:08: resource 1 [mem 0xfc000000-0xfc0fffff]
+[    3.944525] pci_bus 0000:08: resource 2 [mem 0xe6600000-0xe66fffff 64bit pref]
+[    3.944529] pci_bus 0000:09: resource 1 [mem 0xfbc00000-0xfbcfffff]
+[    3.944533] pci_bus 0000:09: resource 2 [mem 0xe6200000-0xe62fffff 64bit pref]
+[    3.944537] pci_bus 0000:0a: resource 1 [mem 0xfb800000-0xfb8fffff]
+[    3.944541] pci_bus 0000:0a: resource 2 [mem 0xe5e00000-0xe5efffff 64bit pref]
+[    3.944544] pci_bus 0000:0b: resource 0 [io  0x5000-0x5fff]
+[    3.944548] pci_bus 0000:0b: resource 1 [mem 0xfd300000-0xfd3fffff]
+[    3.944552] pci_bus 0000:0b: resource 2 [mem 0xe7900000-0xe79fffff 64bit pref]
+[    3.944556] pci_bus 0000:0c: resource 0 [io  0x9000-0x9fff]
+[    3.944560] pci_bus 0000:0c: resource 1 [mem 0xfcf00000-0xfcffffff]
+[    3.944563] pci_bus 0000:0c: resource 2 [mem 0xe7500000-0xe75fffff 64bit pref]
+[    3.944567] pci_bus 0000:0d: resource 0 [io  0xd000-0xdfff]
+[    3.944571] pci_bus 0000:0d: resource 1 [mem 0xfcb00000-0xfcbfffff]
+[    3.944575] pci_bus 0000:0d: resource 2 [mem 0xe7100000-0xe71fffff 64bit pref]
+[    3.944579] pci_bus 0000:0e: resource 1 [mem 0xfc700000-0xfc7fffff]
+[    3.944582] pci_bus 0000:0e: resource 2 [mem 0xe6d00000-0xe6dfffff 64bit pref]
+[    3.944586] pci_bus 0000:0f: resource 1 [mem 0xfc300000-0xfc3fffff]
+[    3.944590] pci_bus 0000:0f: resource 2 [mem 0xe6900000-0xe69fffff 64bit pref]
+[    3.944594] pci_bus 0000:10: resource 1 [mem 0xfbf00000-0xfbffffff]
+[    3.944598] pci_bus 0000:10: resource 2 [mem 0xe6500000-0xe65fffff 64bit pref]
+[    3.944602] pci_bus 0000:11: resource 1 [mem 0xfbb00000-0xfbbfffff]
+[    3.944606] pci_bus 0000:11: resource 2 [mem 0xe6100000-0xe61fffff 64bit pref]
+[    3.944610] pci_bus 0000:12: resource 1 [mem 0xfb700000-0xfb7fffff]
+[    3.944614] pci_bus 0000:12: resource 2 [mem 0xe5d00000-0xe5dfffff 64bit pref]
+[    3.944618] pci_bus 0000:13: resource 0 [io  0x6000-0x6fff]
+[    3.944621] pci_bus 0000:13: resource 1 [mem 0xfd200000-0xfd2fffff]
+[    3.944625] pci_bus 0000:13: resource 2 [mem 0xe7800000-0xe78fffff 64bit pref]
+[    3.944629] pci_bus 0000:14: resource 0 [io  0xa000-0xafff]
+[    3.944633] pci_bus 0000:14: resource 1 [mem 0xfce00000-0xfcefffff]
+[    3.944637] pci_bus 0000:14: resource 2 [mem 0xe7400000-0xe74fffff 64bit pref]
+[    3.944641] pci_bus 0000:15: resource 0 [io  0xe000-0xefff]
+[    3.944644] pci_bus 0000:15: resource 1 [mem 0xfca00000-0xfcafffff]
+[    3.944648] pci_bus 0000:15: resource 2 [mem 0xe7000000-0xe70fffff 64bit pref]
+[    3.944652] pci_bus 0000:16: resource 1 [mem 0xfc600000-0xfc6fffff]
+[    3.944656] pci_bus 0000:16: resource 2 [mem 0xe6c00000-0xe6cfffff 64bit pref]
+[    3.944660] pci_bus 0000:17: resource 1 [mem 0xfc200000-0xfc2fffff]
+[    3.944664] pci_bus 0000:17: resource 2 [mem 0xe6800000-0xe68fffff 64bit pref]
+[    3.944668] pci_bus 0000:18: resource 1 [mem 0xfbe00000-0xfbefffff]
+[    3.944672] pci_bus 0000:18: resource 2 [mem 0xe6400000-0xe64fffff 64bit pref]
+[    3.944675] pci_bus 0000:19: resource 1 [mem 0xfba00000-0xfbafffff]
+[    3.944679] pci_bus 0000:19: resource 2 [mem 0xe6000000-0xe60fffff 64bit pref]
+[    3.944683] pci_bus 0000:1a: resource 1 [mem 0xfb600000-0xfb6fffff]
+[    3.944687] pci_bus 0000:1a: resource 2 [mem 0xe5c00000-0xe5cfffff 64bit pref]
+[    3.944691] pci_bus 0000:1b: resource 0 [io  0x7000-0x7fff]
+[    3.944695] pci_bus 0000:1b: resource 1 [mem 0xfd100000-0xfd1fffff]
+[    3.944698] pci_bus 0000:1b: resource 2 [mem 0xe7700000-0xe77fffff 64bit pref]
+[    3.944702] pci_bus 0000:1c: resource 0 [io  0xb000-0xbfff]
+[    3.944706] pci_bus 0000:1c: resource 1 [mem 0xfcd00000-0xfcdfffff]
+[    3.944710] pci_bus 0000:1c: resource 2 [mem 0xe7300000-0xe73fffff 64bit pref]
+[    3.944714] pci_bus 0000:1d: resource 1 [mem 0xfc900000-0xfc9fffff]
+[    3.944717] pci_bus 0000:1d: resource 2 [mem 0xe6f00000-0xe6ffffff 64bit pref]
+[    3.944721] pci_bus 0000:1e: resource 1 [mem 0xfc500000-0xfc5fffff]
+[    3.944725] pci_bus 0000:1e: resource 2 [mem 0xe6b00000-0xe6bfffff 64bit pref]
+[    3.944729] pci_bus 0000:1f: resource 1 [mem 0xfc100000-0xfc1fffff]
+[    3.944733] pci_bus 0000:1f: resource 2 [mem 0xe6700000-0xe67fffff 64bit pref]
+[    3.944737] pci_bus 0000:20: resource 1 [mem 0xfbd00000-0xfbdfffff]
+[    3.944741] pci_bus 0000:20: resource 2 [mem 0xe6300000-0xe63fffff 64bit pref]
+[    3.944745] pci_bus 0000:21: resource 1 [mem 0xfb900000-0xfb9fffff]
+[    3.944749] pci_bus 0000:21: resource 2 [mem 0xe5f00000-0xe5ffffff 64bit pref]
+[    3.944753] pci_bus 0000:22: resource 1 [mem 0xfb500000-0xfb5fffff]
+[    3.944756] pci_bus 0000:22: resource 2 [mem 0xe5b00000-0xe5bfffff 64bit pref]
+[    3.944806] NET: Registered protocol family 2
+[    3.944949] TCP established hash table entries: 8192 (order: 4, 65536 bytes)
+[    3.945003] TCP bind hash table entries: 8192 (order: 4, 65536 bytes)
+[    3.945042] TCP: Hash tables configured (established 8192 bind 8192)
+[    3.945138] TCP: reno registered
+[    3.945146] UDP hash table entries: 512 (order: 2, 16384 bytes)
+[    3.945165] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+[    3.945215] NET: Registered protocol family 1
+[    3.945229] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    3.945279] pci 0000:00:0f.0: Boot video device
+[    3.947798] PCI: CLS 32 bytes, default 64
+[    3.947847] Trying to unpack rootfs image as initramfs...
+[    4.033490] Freeing initrd memory: 16544K (f5fa0000 - f6fc8000)
+[    4.033553] Simple Boot Flag at 0x36 set to 0x1
+[    4.033673] Switched to clocksource tsc
+[    4.033869] Scanning for low memory corruption every 60 seconds
+[    4.034309] Initialise module verification
+[    4.034362] audit: initializing netlink socket (disabled)
+[    4.034373] type=2000 audit(1386437360.737:1): initialized
+[    4.048321] bounce pool size: 64 pages
+[    4.048338] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    4.048753] zbud: loaded
+[    4.048942] VFS: Disk quotas dquot_6.5.2
+[    4.048995] Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+[    4.049261] fuse init (API version 7.22)
+[    4.049410] msgmni has been set to 1728
+[    4.051600] Key type asymmetric registered
+[    4.051603] Asymmetric key parser 'x509' registered
+[    4.051627] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+[    4.051784] io scheduler noop registered
+[    4.051786] io scheduler deadline registered (default)
+[    4.051798] io scheduler cfq registered
+[    4.051880] pcieport 0000:00:15.0: irq 40 for MSI/MSI-X
+[    4.051943] pcieport 0000:00:15.1: irq 41 for MSI/MSI-X
+[    4.052006] pcieport 0000:00:15.2: irq 42 for MSI/MSI-X
+[    4.052070] pcieport 0000:00:15.3: irq 43 for MSI/MSI-X
+[    4.052133] pcieport 0000:00:15.4: irq 44 for MSI/MSI-X
+[    4.052196] pcieport 0000:00:15.5: irq 45 for MSI/MSI-X
+[    4.052259] pcieport 0000:00:15.6: irq 46 for MSI/MSI-X
+[    4.052322] pcieport 0000:00:15.7: irq 47 for MSI/MSI-X
+[    4.052385] pcieport 0000:00:16.0: irq 48 for MSI/MSI-X
+[    4.052449] pcieport 0000:00:16.1: irq 49 for MSI/MSI-X
+[    4.052512] pcieport 0000:00:16.2: irq 50 for MSI/MSI-X
+[    4.052575] pcieport 0000:00:16.3: irq 51 for MSI/MSI-X
+[    4.052638] pcieport 0000:00:16.4: irq 52 for MSI/MSI-X
+[    4.052701] pcieport 0000:00:16.5: irq 53 for MSI/MSI-X
+[    4.052764] pcieport 0000:00:16.6: irq 54 for MSI/MSI-X
+[    4.052828] pcieport 0000:00:16.7: irq 55 for MSI/MSI-X
+[    4.052891] pcieport 0000:00:17.0: irq 56 for MSI/MSI-X
+[    4.052954] pcieport 0000:00:17.1: irq 57 for MSI/MSI-X
+[    4.053017] pcieport 0000:00:17.2: irq 58 for MSI/MSI-X
+[    4.053080] pcieport 0000:00:17.3: irq 59 for MSI/MSI-X
+[    4.053143] pcieport 0000:00:17.4: irq 60 for MSI/MSI-X
+[    4.053207] pcieport 0000:00:17.5: irq 61 for MSI/MSI-X
+[    4.053270] pcieport 0000:00:17.6: irq 62 for MSI/MSI-X
+[    4.053333] pcieport 0000:00:17.7: irq 63 for MSI/MSI-X
+[    4.053396] pcieport 0000:00:18.0: irq 64 for MSI/MSI-X
+[    4.053459] pcieport 0000:00:18.1: irq 65 for MSI/MSI-X
+[    4.053522] pcieport 0000:00:18.2: irq 66 for MSI/MSI-X
+[    4.053586] pcieport 0000:00:18.3: irq 67 for MSI/MSI-X
+[    4.053649] pcieport 0000:00:18.4: irq 68 for MSI/MSI-X
+[    4.053712] pcieport 0000:00:18.5: irq 69 for MSI/MSI-X
+[    4.053775] pcieport 0000:00:18.6: irq 70 for MSI/MSI-X
+[    4.053838] pcieport 0000:00:18.7: irq 71 for MSI/MSI-X
+[    4.053901] pcieport 0000:00:15.0: Signaling PME through PCIe PME interrupt
+[    4.053905] pci 0000:03:00.0: Signaling PME through PCIe PME interrupt
+[    4.053926] pcie_pme 0000:00:15.0:pcie01: service driver pcie_pme loaded
+[    4.053990] pcieport 0000:00:15.1: Signaling PME through PCIe PME interrupt
+[    4.054012] pcie_pme 0000:00:15.1:pcie01: service driver pcie_pme loaded
+[    4.054075] pcieport 0000:00:15.2: Signaling PME through PCIe PME interrupt
+[    4.054097] pcie_pme 0000:00:15.2:pcie01: service driver pcie_pme loaded
+[    4.054160] pcieport 0000:00:15.3: Signaling PME through PCIe PME interrupt
+[    4.054182] pcie_pme 0000:00:15.3:pcie01: service driver pcie_pme loaded
+[    4.054246] pcieport 0000:00:15.4: Signaling PME through PCIe PME interrupt
+[    4.054268] pcie_pme 0000:00:15.4:pcie01: service driver pcie_pme loaded
+[    4.054331] pcieport 0000:00:15.5: Signaling PME through PCIe PME interrupt
+[    4.054354] pcie_pme 0000:00:15.5:pcie01: service driver pcie_pme loaded
+[    4.054417] pcieport 0000:00:15.6: Signaling PME through PCIe PME interrupt
+[    4.054439] pcie_pme 0000:00:15.6:pcie01: service driver pcie_pme loaded
+[    4.054502] pcieport 0000:00:15.7: Signaling PME through PCIe PME interrupt
+[    4.054524] pcie_pme 0000:00:15.7:pcie01: service driver pcie_pme loaded
+[    4.054587] pcieport 0000:00:16.0: Signaling PME through PCIe PME interrupt
+[    4.054609] pcie_pme 0000:00:16.0:pcie01: service driver pcie_pme loaded
+[    4.054672] pcieport 0000:00:16.1: Signaling PME through PCIe PME interrupt
+[    4.054694] pcie_pme 0000:00:16.1:pcie01: service driver pcie_pme loaded
+[    4.054758] pcieport 0000:00:16.2: Signaling PME through PCIe PME interrupt
+[    4.054779] pcie_pme 0000:00:16.2:pcie01: service driver pcie_pme loaded
+[    4.054843] pcieport 0000:00:16.3: Signaling PME through PCIe PME interrupt
+[    4.054865] pcie_pme 0000:00:16.3:pcie01: service driver pcie_pme loaded
+[    4.054928] pcieport 0000:00:16.4: Signaling PME through PCIe PME interrupt
+[    4.054950] pcie_pme 0000:00:16.4:pcie01: service driver pcie_pme loaded
+[    4.055013] pcieport 0000:00:16.5: Signaling PME through PCIe PME interrupt
+[    4.055036] pcie_pme 0000:00:16.5:pcie01: service driver pcie_pme loaded
+[    4.055099] pcieport 0000:00:16.6: Signaling PME through PCIe PME interrupt
+[    4.055121] pcie_pme 0000:00:16.6:pcie01: service driver pcie_pme loaded
+[    4.055184] pcieport 0000:00:16.7: Signaling PME through PCIe PME interrupt
+[    4.055206] pcie_pme 0000:00:16.7:pcie01: service driver pcie_pme loaded
+[    4.055269] pcieport 0000:00:17.0: Signaling PME through PCIe PME interrupt
+[    4.055291] pcie_pme 0000:00:17.0:pcie01: service driver pcie_pme loaded
+[    4.055354] pcieport 0000:00:17.1: Signaling PME through PCIe PME interrupt
+[    4.055377] pcie_pme 0000:00:17.1:pcie01: service driver pcie_pme loaded
+[    4.055440] pcieport 0000:00:17.2: Signaling PME through PCIe PME interrupt
+[    4.055462] pcie_pme 0000:00:17.2:pcie01: service driver pcie_pme loaded
+[    4.055525] pcieport 0000:00:17.3: Signaling PME through PCIe PME interrupt
+[    4.055547] pcie_pme 0000:00:17.3:pcie01: service driver pcie_pme loaded
+[    4.055610] pcieport 0000:00:17.4: Signaling PME through PCIe PME interrupt
+[    4.055632] pcie_pme 0000:00:17.4:pcie01: service driver pcie_pme loaded
+[    4.055695] pcieport 0000:00:17.5: Signaling PME through PCIe PME interrupt
+[    4.055718] pcie_pme 0000:00:17.5:pcie01: service driver pcie_pme loaded
+[    4.055865] pcieport 0000:00:17.6: Signaling PME through PCIe PME interrupt
+[    4.055890] pcie_pme 0000:00:17.6:pcie01: service driver pcie_pme loaded
+[    4.055953] pcieport 0000:00:17.7: Signaling PME through PCIe PME interrupt
+[    4.055976] pcie_pme 0000:00:17.7:pcie01: service driver pcie_pme loaded
+[    4.056039] pcieport 0000:00:18.0: Signaling PME through PCIe PME interrupt
+[    4.056070] pcie_pme 0000:00:18.0:pcie01: service driver pcie_pme loaded
+[    4.056133] pcieport 0000:00:18.1: Signaling PME through PCIe PME interrupt
+[    4.056156] pcie_pme 0000:00:18.1:pcie01: service driver pcie_pme loaded
+[    4.056219] pcieport 0000:00:18.2: Signaling PME through PCIe PME interrupt
+[    4.056241] pcie_pme 0000:00:18.2:pcie01: service driver pcie_pme loaded
+[    4.056304] pcieport 0000:00:18.3: Signaling PME through PCIe PME interrupt
+[    4.056326] pcie_pme 0000:00:18.3:pcie01: service driver pcie_pme loaded
+[    4.056389] pcieport 0000:00:18.4: Signaling PME through PCIe PME interrupt
+[    4.056411] pcie_pme 0000:00:18.4:pcie01: service driver pcie_pme loaded
+[    4.056474] pcieport 0000:00:18.5: Signaling PME through PCIe PME interrupt
+[    4.056497] pcie_pme 0000:00:18.5:pcie01: service driver pcie_pme loaded
+[    4.056560] pcieport 0000:00:18.6: Signaling PME through PCIe PME interrupt
+[    4.056582] pcie_pme 0000:00:18.6:pcie01: service driver pcie_pme loaded
+[    4.056645] pcieport 0000:00:18.7: Signaling PME through PCIe PME interrupt
+[    4.056667] pcie_pme 0000:00:18.7:pcie01: service driver pcie_pme loaded
+[    4.056682] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    4.056746] pciehp 0000:00:15.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.056840] pciehp 0000:00:15.0:pcie04: service driver pciehp loaded
+[    4.056902] pciehp 0000:00:15.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.056979] pciehp 0000:00:15.1:pcie04: service driver pciehp loaded
+[    4.057041] pciehp 0000:00:15.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057102] pciehp 0000:00:15.2:pcie04: service driver pciehp loaded
+[    4.057164] pciehp 0000:00:15.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057224] pciehp 0000:00:15.3:pcie04: service driver pciehp loaded
+[    4.057287] pciehp 0000:00:15.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057379] pciehp 0000:00:15.4:pcie04: service driver pciehp loaded
+[    4.057442] pciehp 0000:00:15.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057532] pciehp 0000:00:15.5:pcie04: service driver pciehp loaded
+[    4.057595] pciehp 0000:00:15.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057687] pciehp 0000:00:15.6:pcie04: service driver pciehp loaded
+[    4.057750] pciehp 0000:00:15.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.057847] pciehp 0000:00:15.7:pcie04: service driver pciehp loaded
+[    4.057910] pciehp 0000:00:16.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058003] pciehp 0000:00:16.0:pcie04: service driver pciehp loaded
+[    4.058064] pciehp 0000:00:16.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058162] pciehp 0000:00:16.1:pcie04: service driver pciehp loaded
+[    4.058225] pciehp 0000:00:16.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058317] pciehp 0000:00:16.2:pcie04: service driver pciehp loaded
+[    4.058380] pciehp 0000:00:16.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058476] pciehp 0000:00:16.3:pcie04: service driver pciehp loaded
+[    4.058538] pciehp 0000:00:16.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058629] pciehp 0000:00:16.4:pcie04: service driver pciehp loaded
+[    4.058693] pciehp 0000:00:16.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058785] pciehp 0000:00:16.5:pcie04: service driver pciehp loaded
+[    4.058848] pciehp 0000:00:16.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.058940] pciehp 0000:00:16.6:pcie04: service driver pciehp loaded
+[    4.059003] pciehp 0000:00:16.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059097] pciehp 0000:00:16.7:pcie04: service driver pciehp loaded
+[    4.059159] pciehp 0000:00:17.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059247] pciehp 0000:00:17.0:pcie04: service driver pciehp loaded
+[    4.059310] pciehp 0000:00:17.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059402] pciehp 0000:00:17.1:pcie04: service driver pciehp loaded
+[    4.059465] pciehp 0000:00:17.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059559] pciehp 0000:00:17.2:pcie04: service driver pciehp loaded
+[    4.059622] pciehp 0000:00:17.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059715] pciehp 0000:00:17.3:pcie04: service driver pciehp loaded
+[    4.059778] pciehp 0000:00:17.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.059894] pciehp 0000:00:17.4:pcie04: service driver pciehp loaded
+[    4.059956] pciehp 0000:00:17.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060044] pciehp 0000:00:17.5:pcie04: service driver pciehp loaded
+[    4.060107] pciehp 0000:00:17.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060199] pciehp 0000:00:17.6:pcie04: service driver pciehp loaded
+[    4.060262] pciehp 0000:00:17.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060354] pciehp 0000:00:17.7:pcie04: service driver pciehp loaded
+[    4.060418] pciehp 0000:00:18.0:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060510] pciehp 0000:00:18.0:pcie04: service driver pciehp loaded
+[    4.060573] pciehp 0000:00:18.1:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060665] pciehp 0000:00:18.1:pcie04: service driver pciehp loaded
+[    4.060728] pciehp 0000:00:18.2:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.060820] pciehp 0000:00:18.2:pcie04: service driver pciehp loaded
+[    4.060884] pciehp 0000:00:18.3:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.061003] pciehp 0000:00:18.3:pcie04: service driver pciehp loaded
+[    4.061065] pciehp 0000:00:18.4:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.061151] pciehp 0000:00:18.4:pcie04: service driver pciehp loaded
+[    4.061214] pciehp 0000:00:18.5:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.061307] pciehp 0000:00:18.5:pcie04: service driver pciehp loaded
+[    4.061370] pciehp 0000:00:18.6:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.061462] pciehp 0000:00:18.6:pcie04: service driver pciehp loaded
+[    4.061525] pciehp 0000:00:18.7:pcie04: HPC vendor_id 15ad device_id 7a0 ss_vid 15ad ss_did 7a0
+[    4.061618] pciehp 0000:00:18.7:pcie04: service driver pciehp loaded
+[    4.061632] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    4.061695] intel_idle: does not run on family 6 model 58
+[    4.061770] ACPI: AC Adapter [ACAD] (on-line)
+[    4.061895] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[    4.061900] ACPI: Power Button [PWRF]
+[    4.062329] GHES: HEST is not enabled!
+[    4.062455] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+[    4.062484] isapnp: Scanning for PnP cards...
+[    4.087742] 00:09: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    4.112998] 00:0a: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[    4.115837] Linux agpgart interface v0.103
+[    4.115838] agpgart-intel 0000:00:00.0: Intel 440BX Chipset
+[    4.117106] agpgart-intel 0000:00:00.0: AGP aperture is 256M @ 0x0
+[    4.119037] brd: module loaded
+[    4.119840] loop: module loaded
+[    4.119966] ata_piix 0000:00:07.1: version 2.13
+[    4.120499] scsi0 : ata_piix
+[    4.120710] scsi1 : ata_piix
+[    4.120747] ata1: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0x1060 irq 14
+[    4.120749] ata2: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0x1068 irq 15
+[    4.120961] libphy: Fixed MDIO Bus: probed
+[    4.121034] tun: Universal TUN/TAP device driver, 1.6
+[    4.121043] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    4.121080] PPP generic driver version 2.4.2
+[    4.121114] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    4.121116] ehci-pci: EHCI PCI platform driver
+[    4.121455] ehci-pci 0000:02:03.0: EHCI Host Controller
+[    4.121470] ehci-pci 0000:02:03.0: new USB bus registered, assigned bus number 1
+[    4.121631] ehci-pci 0000:02:03.0: cache line size of 32 is not supported
+[    4.121657] ehci-pci 0000:02:03.0: irq 17, io mem 0xfd5ff000
+[    4.131903] ehci-pci 0000:02:03.0: USB 2.0 started, EHCI 1.00
+[    4.131940] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    4.131943] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    4.131946] usb usb1: Product: EHCI Host Controller
+[    4.131948] usb usb1: Manufacturer: Linux 3.11.0-14-generic ehci_hcd
+[    4.131950] usb usb1: SerialNumber: 0000:02:03.0
+[    4.132205] hub 1-0:1.0: USB hub found
+[    4.132211] hub 1-0:1.0: 6 ports detected
+[    4.132385] ehci-platform: EHCI generic platform driver
+[    4.132392] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    4.132394] ohci-platform: OHCI generic platform driver
+[    4.132400] uhci_hcd: USB Universal Host Controller Interface driver
+[    4.132695] uhci_hcd 0000:02:00.0: UHCI Host Controller
+[    4.132708] uhci_hcd 0000:02:00.0: new USB bus registered, assigned bus number 2
+[    4.132935] uhci_hcd 0000:02:00.0: irq 18, io base 0x000020c0
+[    4.133045] usb usb2: New USB device found, idVendor=1d6b, idProduct=0001
+[    4.133055] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    4.133057] usb usb2: Product: UHCI Host Controller
+[    4.133059] usb usb2: Manufacturer: Linux 3.11.0-14-generic uhci_hcd
+[    4.133061] usb usb2: SerialNumber: 0000:02:00.0
+[    4.133273] hub 2-0:1.0: USB hub found
+[    4.133278] hub 2-0:1.0: 2 ports detected
+[    4.133752] xhci_hcd 0000:03:00.0: xHCI Host Controller
+[    4.133766] xhci_hcd 0000:03:00.0: new USB bus registered, assigned bus number 3
+[    4.134421] xhci_hcd 0000:03:00.0: cache line size of 32 is not supported
+[    4.134534] xhci_hcd 0000:03:00.0: irq 72 for MSI/MSI-X
+[    4.134589] xhci_hcd 0000:03:00.0: irq 73 for MSI/MSI-X
+[    4.134649] xhci_hcd 0000:03:00.0: irq 74 for MSI/MSI-X
+[    4.134678] xhci_hcd 0000:03:00.0: irq 75 for MSI/MSI-X
+[    4.134707] xhci_hcd 0000:03:00.0: irq 76 for MSI/MSI-X
+[    4.135319] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+[    4.135330] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    4.135332] usb usb3: Product: xHCI Host Controller
+[    4.135334] usb usb3: Manufacturer: Linux 3.11.0-14-generic xhci_hcd
+[    4.135336] usb usb3: SerialNumber: 0000:03:00.0
+[    4.135538] xHCI xhci_add_endpoint called for root hub
+[    4.135541] xHCI xhci_check_bandwidth called for root hub
+[    4.135561] hub 3-0:1.0: USB hub found
+[    4.135586] hub 3-0:1.0: 2 ports detected
+[    4.135729] xhci_hcd 0000:03:00.0: xHCI Host Controller
+[    4.135733] xhci_hcd 0000:03:00.0: new USB bus registered, assigned bus number 4
+[    4.135849] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+[    4.135874] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    4.135876] usb usb4: Product: xHCI Host Controller
+[    4.135878] usb usb4: Manufacturer: Linux 3.11.0-14-generic xhci_hcd
+[    4.135880] usb usb4: SerialNumber: 0000:03:00.0
+[    4.136081] xHCI xhci_add_endpoint called for root hub
+[    4.136084] xHCI xhci_check_bandwidth called for root hub
+[    4.136110] hub 4-0:1.0: USB hub found
+[    4.136134] hub 4-0:1.0: 2 ports detected
+[    4.287718] ata2.00: ATAPI: VMware Virtual IDE CDROM Drive, 00000001, max UDMA/33
+[    4.288082] ata2.00: configured for UDMA/33
+[    4.384170] i8042: PNP: PS/2 Controller [PNP0303:KBC,PNP0f13:MOUS] at 0x60,0x64 irq 1,12
+[    4.385047] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    4.385063] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    4.385393] mousedev: PS/2 mouse device common for all mice
+[    4.389043] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input1
+[    4.406047] rtc_cmos 00:03: rtc core: registered rtc_cmos as rtc0
+[    4.406139] rtc_cmos 00:03: alarms up to one month, y3k, 114 bytes nvram, hpet irqs
+[    4.406196] device-mapper: uevent: version 1.0.3
+[    4.406398] device-mapper: ioctl: 4.25.0-ioctl (2013-06-26) initialised: dm-devel@redhat.com
+[    4.406421] platform eisa.0: Probing EISA bus 0
+[    4.406439] platform eisa.0: EISA: Detected 0 cards
+[    4.406448] cpufreq-nforce2: No nForce2 chipset.
+[    4.406451] cpuidle: using governor ladder
+[    4.406452] cpuidle: using governor menu
+[    4.406464] ledtrig-cpu: registered to indicate activity on CPUs
+[    4.406543] TCP: cubic registered
+[    4.406618] NET: Registered protocol family 10
+[    4.406780] NET: Registered protocol family 17
+[    4.406798] Key type dns_resolver registered
+[    4.407106] Using IPI No-Shortcut mode
+[    4.407606] PM: Hibernation image not present or could not be loaded.
+[    4.407613] Loading module verification certificates
+[    4.409994] MODSIGN: Loaded cert 'Magrathea: Glacier signing key: 94b4c972d56471bcbe88837e8baa241d98a4e0f0'
+[    4.410015] registered taskstats version 1
+[    4.414365] Key type trusted registered
+[    4.417474] isapnp: No Plug & Play device found
+[    4.417972] scsi 1:0:0:0: CD-ROM            NECVMWar VMware IDE CDR10 1.00 PQ: 0 ANSI: 5
+[    4.418080] Key type encrypted registered
+[    4.418813] sr0: scsi3-mmc drive: 1x/1x writer dvd-ram cd/rw xa/form2 cdda tray
+[    4.418817] cdrom: Uniform CD-ROM driver Revision: 3.20
+[    4.419034] sr 1:0:0:0: Attached scsi CD-ROM sr0
+[    4.419246] sr 1:0:0:0: Attached scsi generic sg0 type 5
+[    4.420964] AppArmor: AppArmor sha1 policy hashing enabled
+[    4.428486]   Magic number: 9:292:491
+[    4.428647] rtc_cmos 00:03: setting system clock to 2013-12-07 17:29:22 UTC (1386437362)
+[    4.428894] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+[    4.428896] EDD information not available.
+[    4.429271] Freeing unused kernel memory: 880K (c1962000 - c1a3e000)
+[    4.429377] Write protecting the kernel text: 6356k
+[    4.429457] Write protecting the kernel read-only data: 2644k
+[    4.429459] NX-protecting the kernel data: 5932k
+[    4.443606] systemd-udevd[111]: starting version 204
+[    4.444127] usb 3-1: new full-speed USB device number 2 using xhci_hcd
+[    4.455334] floppy: module verification failed: signature and/or required key missing - tainting kernel
+[    4.455964] Floppy drive(s): fd0 is 1.44M
+[    4.460467] usb 3-1: New USB device found, idVendor=0e0f, idProduct=0002
+[    4.460471] usb 3-1: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[    4.460473] usb 3-1: Product: VMware Virtual USB Hub
+[    4.460549] usb 3-1: ep 0x81 - rounding interval to 1024 microframes, ep desc says 2040 microframes
+[    4.460744] hub 3-1:1.0: USB hub found
+[    4.460776] hub 3-1:1.0: 7 ports detected
+[    4.460937] Fusion MPT base driver 3.04.20
+[    4.460943] Copyright (c) 1999-2008 LSI Corporation
+[    4.461797] Fusion MPT SPI Host driver 3.04.20
+[    4.462553] mptbase: ioc0: Initiating bringup
+[    4.462608] pcnet32: pcnet32.c:v1.35 21.Apr.2008 tsbogend@alpha.franken.de
+[    4.462728] pcnet32: PCnet/PCI II 79C970A at 0x2000, 00:0c:29:47:67:b5 assigned IRQ 19
+[    4.462867] pcnet32: eth0: registered as PCnet/PCI II 79C970A
+[    4.462939] pcnet32: 1 cards_found
+[    4.473130] FDC 0 is a post-1991 82077
+[    4.532157] ioc0: LSI53C1030 B0: Capabilities={Initiator}
+[    4.572314] usb 3-2: new high-speed USB device number 3 using xhci_hcd
+[    4.588598] usb 3-2: New USB device found, idVendor=0e0f, idProduct=0002
+[    4.588606] usb 3-2: New USB device strings: Mfr=0, Product=1, SerialNumber=0
+[    4.588612] usb 3-2: Product: VMware Virtual USB Hub
+[    4.589349] hub 3-2:1.0: USB hub found
+[    4.589389] hub 3-2:1.0: 7 ports detected
+[    4.693678] scsi2 : ioc0: LSI53C1030 B0, FwRev=01032920h, Ports=1, MaxQ=128, IRQ=17
+[    4.732375] usb 3-1.1: new full-speed USB device number 4 using xhci_hcd
+[    4.748816] usb 3-1.1: New USB device found, idVendor=0e0f, idProduct=0003
+[    4.748824] usb 3-1.1: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[    4.748830] usb 3-1.1: Product: VMware Virtual USB Mouse
+[    4.748835] usb 3-1.1: Manufacturer: VMware
+[    4.761074] hidraw: raw HID events driver (C) Jiri Kosina
+[    4.769365] usbcore: registered new interface driver usbhid
+[    4.769372] usbhid: USB HID core driver
+[    4.776997] input: VMware VMware Virtual USB Mouse as /devices/pci0000:00/0000:00:15.0/0000:03:00.0/usb3/3-1/3-1.1/3-1.1:1.0/input/input2
+[    4.777936] hid-generic 0003:0E0F:0003.0001: input,hidraw0: USB HID v1.10 Mouse [VMware VMware Virtual USB Mouse] on usb-0000:03:00.0-1.1/input0
+[    4.805050] scsi 2:0:0:0: Direct-Access     VMware,  VMware Virtual S 1.0  PQ: 0 ANSI: 2
+[    4.805074] scsi target2:0:0: Beginning Domain Validation
+[    4.806700] scsi target2:0:0: Domain Validation skipping write tests
+[    4.806706] scsi target2:0:0: Ending Domain Validation
+[    4.806793] scsi target2:0:0: FAST-40 WIDE SCSI 80.0 MB/s ST (25 ns, offset 127)
+[    4.810240] sd 2:0:0:0: Attached scsi generic sg1 type 0
+[    4.810431] sd 2:0:0:0: [sda] 167772160 512-byte logical blocks: (85.8 GB/80.0 GiB)
+[    4.810544] sd 2:0:0:0: [sda] Write Protect is off
+[    4.810550] sd 2:0:0:0: [sda] Mode Sense: 61 00 00 00
+[    4.810660] sd 2:0:0:0: [sda] Cache data unavailable
+[    4.810665] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    4.811581] sd 2:0:0:0: [sda] Cache data unavailable
+[    4.811589] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    4.820501] usb 3-1.2: new full-speed USB device number 5 using xhci_hcd
+[    4.837008] usb 3-1.2: New USB device found, idVendor=0e0f, idProduct=0008
+[    4.837015] usb 3-1.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[    4.837020] usb 3-1.2: Product: Virtual Bluetooth Adapter
+[    4.837024] usb 3-1.2: Manufacturer: VMware
+[    4.837027] usb 3-1.2: SerialNumber: 000650268328
+[    4.844877]  sda: sda1 sda2 < sda5 >
+[    4.846286] sd 2:0:0:0: [sda] Cache data unavailable
+[    4.846311] sd 2:0:0:0: [sda] Assuming drive cache: write through
+[    4.846406] sd 2:0:0:0: [sda] Attached SCSI disk
+[    4.907421] EXT4-fs (sda1): INFO: recovery required on readonly filesystem
+[    4.907431] EXT4-fs (sda1): write access will be enabled during recovery
+[    5.188681] EXT4-fs (sda1): recovery complete
+[    5.189358] EXT4-fs (sda1): mounted filesystem with ordered data mode. Opts: (null)
+[    6.460385] Adding 2094076k swap on /dev/sda5.  Priority:-1 extents:1 across:2094076k FS
+[    6.888342] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+[    7.059428] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[    7.307917] systemd-udevd[311]: starting version 204
+[    7.894787] lp: driver loaded but no devices found
+[    8.451907] parport_pc 00:08: reported by Plug and Play ACPI
+[    8.452156] parport0: PC-style at 0x378, irq 7 [PCSPP,TRISTATE]
+[    8.530906] lp0: using parport0 (interrupt-driven).
+[    8.575858] vmw_vmci 0000:00:07.7: Found VMCI PCI device at 0x11080, irq 16
+[    8.575928] vmw_vmci 0000:00:07.7: Using capabilities 0xc
+[    8.576109] vmw_vmci 0000:00:07.7: irq 77 for MSI/MSI-X
+[    8.576159] vmw_vmci 0000:00:07.7: irq 78 for MSI/MSI-X
+[    8.576420] Guest personality initialized and is active
+[    8.576571] VMCI host device registered (name=vmci, major=10, minor=57)
+[    8.576573] Initialized host personality
+[    8.679588] [drm] Initialized drm 1.1.0 20060810
+[    8.691864] Bluetooth: Core ver 2.16
+[    8.691918] NET: Registered protocol family 31
+[    8.691920] Bluetooth: HCI device and connection manager initialized
+[    8.691927] Bluetooth: HCI socket layer initialized
+[    8.691929] Bluetooth: L2CAP socket layer initialized
+[    8.691949] Bluetooth: SCO socket layer initialized
+[    8.700856] microcode: CPU0 sig=0x306a9, pf=0x1, revision=0x15
+[    8.736664] usbcore: registered new interface driver btusb
+[    8.741252] piix4_smbus 0000:00:07.3: Host SMBus controller not enabled!
+[    8.815368] shpchp: Standard Hot Plug PCI Controller Driver version: 0.4
+[    8.848061] [drm] Capabilities:
+[    8.848073] [drm]   Rect copy.
+[    8.848075] [drm]   Cursor.
+[    8.848076] [drm]   Cursor bypass.
+[    8.848078] [drm]   Cursor bypass 2.
+[    8.848079] [drm]   8bit emulation.
+[    8.848080] [drm]   Alpha cursor.
+[    8.848082] [drm]   3D.
+[    8.848083] [drm]   Extended Fifo.
+[    8.848084] [drm]   Multimon.
+[    8.848086] [drm]   Pitchlock.
+[    8.848087] [drm]   Irq mask.
+[    8.848088] [drm]   Display Topology.
+[    8.848090] [drm]   GMR.
+[    8.848091] [drm]   Traces.
+[    8.848092] [drm]   GMR2.
+[    8.848094] [drm]   Screen Object 2.
+[    8.848095] [drm] Max GMR ids is 64
+[    8.848097] [drm] Max GMR descriptors is 4096
+[    8.848098] [drm] Max number of GMR pages is 196608
+[    8.848099] [drm] Max dedicated hypervisor surface memory is 786432 kiB
+[    8.848101] [drm] VRAM at 0xe8000000 size is 131072 kiB
+[    8.848103] [drm] MMIO at 0xfe000000 size is 2048 kiB
+[    8.848105] [drm] global init.
+[    8.848198] [TTM] Zone  kernel: Available graphics memory: 442848 kiB
+[    8.848201] [TTM] Zone highmem: Available graphics memory: 772516 kiB
+[    8.848203] [TTM] Initializing pool allocator
+[    8.848207] [TTM] Initializing DMA pool allocator
+[    8.848411] [drm] Supports vblank timestamp caching Rev 1 (10.10.2010).
+[    8.848414] [drm] No driver support for vblank timestamp query.
+[    8.848519] [drm] Screen objects system initialized
+[    8.848580] [drm] width 640
+[    8.848591] [drm] height 480
+[    8.848602] [drm] bpp 32
+[    8.851256] [drm] Fifo max 0x00200000 min 0x00001000 cap 0x0000077f
+[    8.852900] fbcon: svgadrmfb (fb0) is primary device
+[    8.854094] Console: switching to colour frame buffer device 100x37
+[    8.854854] [drm] Initialized vmwgfx 2.4.0 20120209 for 0000:00:0f.0 on minor 0
+[    8.927269] type=1400 audit(1386437366.995:2): apparmor="STATUS" operation="profile_load" parent=435 profile="unconfined" name="/sbin/dhclient" pid=445 comm="apparmor_parser"
+[    8.927278] type=1400 audit(1386437366.995:3): apparmor="STATUS" operation="profile_load" parent=435 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=445 comm="apparmor_parser"
+[    8.927283] type=1400 audit(1386437366.995:4): apparmor="STATUS" operation="profile_load" parent=435 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=445 comm="apparmor_parser"
+[    8.927434] type=1400 audit(1386437366.995:5): apparmor="STATUS" operation="profile_replace" parent=435 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=445 comm="apparmor_parser"
+[    8.927441] type=1400 audit(1386437366.995:6): apparmor="STATUS" operation="profile_replace" parent=435 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=445 comm="apparmor_parser"
+[    8.927592] type=1400 audit(1386437366.995:7): apparmor="STATUS" operation="profile_replace" parent=435 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=445 comm="apparmor_parser"
+[    9.176211] input: ImPS/2 Generic Wheel Mouse as /devices/platform/i8042/serio1/input/input3
+[    9.177337] microcode: CPU1 sig=0x306a9, pf=0x1, revision=0x15
+[    9.187884] ppdev: user-space parallel port driver
+[    9.188852] microcode: CPU2 sig=0x306a9, pf=0x1, revision=0x15
+[    9.190728] microcode: CPU3 sig=0x306a9, pf=0x1, revision=0x15
+[    9.191606] microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+[    9.994690] Bluetooth: RFCOMM TTY layer initialized
+[    9.994711] Bluetooth: RFCOMM socket layer initialized
+[    9.994712] Bluetooth: RFCOMM ver 1.11
+[   10.016225] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   10.016263] Bluetooth: BNEP filters: protocol multicast
+[   10.016278] Bluetooth: BNEP socket layer initialized
+[   10.098011] init: avahi-cups-reload main process (597) terminated with status 1
+[   10.222820] init: failsafe main process (508) killed by TERM signal
+[   10.460540] type=1400 audit(1386437368.527:8): apparmor="STATUS" operation="profile_load" parent=656 profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=673 comm="apparmor_parser"
+[   10.460581] type=1400 audit(1386437368.527:9): apparmor="STATUS" operation="profile_load" parent=656 profile="unconfined" name="/usr/sbin/cupsd" pid=673 comm="apparmor_parser"
+[   10.460718] type=1400 audit(1386437368.527:10): apparmor="STATUS" operation="profile_replace" parent=656 profile="unconfined" name="/usr/sbin/cupsd" pid=673 comm="apparmor_parser"
+[   10.702553] type=1400 audit(1386437368.767:11): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/sbin/dhclient" pid=726 comm="apparmor_parser"
+[   10.702575] type=1400 audit(1386437368.767:12): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=726 comm="apparmor_parser"
+[   10.702586] type=1400 audit(1386437368.767:13): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=726 comm="apparmor_parser"
+[   10.703445] type=1400 audit(1386437368.767:14): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=726 comm="apparmor_parser"
+[   10.703458] type=1400 audit(1386437368.767:15): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=726 comm="apparmor_parser"
+[   10.703494] type=1400 audit(1386437368.767:16): apparmor="STATUS" operation="profile_replace" parent=718 profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=726 comm="apparmor_parser"
+[   10.915170] type=1400 audit(1386437368.979:17): apparmor="STATUS" operation="profile_load" parent=718 profile="unconfined" name="/usr/lib/i386-linux-gnu/lightdm-remote-session-uccsconfigure/uccsconfigure-session-wrapper" pid=725 comm="apparmor_parser"
+[   20.668061] pcnet32 0000:02:01.0 eth0: link up
+[   23.729699] sda1: WRITE SAME failed. Manually zeroing.
+[   31.517912] init: plymouth main process (177) killed by ABRT signal
+[   33.242012] init: plymouth-stop pre-start process (1439) terminated with status 1
+[  239.828410] [UpperDev]StartUP!
+[  286.905045] UpperDev use Lower[UpperDev]IN UpperDev_write!
+[  382.609971] [UpperDev]Write Done
