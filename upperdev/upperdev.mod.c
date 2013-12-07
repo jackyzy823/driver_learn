@@ -18,13 +18,12 @@ static const struct modversion_info ____versions[]
 __used
 __attribute__((section("__versions"))) = {
 	{ 0xaf605240, __VMLINUX_SYMBOL_STR(module_layout) },
-	{ 0x7485e15e, __VMLINUX_SYMBOL_STR(unregister_chrdev_region) },
-	{ 0x44a72311, __VMLINUX_SYMBOL_STR(cdev_del) },
-	{ 0x83f60186, __VMLINUX_SYMBOL_STR(cdev_add) },
-	{ 0x5d9a7a85, __VMLINUX_SYMBOL_STR(cdev_init) },
-	{ 0xd8e484f0, __VMLINUX_SYMBOL_STR(register_chrdev_region) },
-	{ 0x50eedeb8, __VMLINUX_SYMBOL_STR(printk) },
+	{ 0x6bc3fbc0, __VMLINUX_SYMBOL_STR(__unregister_chrdev) },
+	{ 0x3721d9cc, __VMLINUX_SYMBOL_STR(__register_chrdev) },
 	{ 0xf7452e85, __VMLINUX_SYMBOL_STR(softdev_ioctl) },
+	{ 0xb8397675, __VMLINUX_SYMBOL_STR(softdev_send) },
+	{ 0x362ef408, __VMLINUX_SYMBOL_STR(_copy_from_user) },
+	{ 0x50eedeb8, __VMLINUX_SYMBOL_STR(printk) },
 	{ 0xb4390f9a, __VMLINUX_SYMBOL_STR(mcount) },
 };
 
@@ -34,4 +33,4 @@ __attribute__((section(".modinfo"))) =
 "depends=softdev";
 
 
-MODULE_INFO(srcversion, "44D4CD5A397BB30380D265A");
+MODULE_INFO(srcversion, "36303E731FAED24A403D65D");

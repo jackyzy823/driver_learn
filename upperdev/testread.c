@@ -14,7 +14,7 @@ int main(int argc ,char * argv[]){
     int fd,readres;
     char buffer[2048]={0};
     if(argc!=2){
-      printf("Please input filename.Such as ./testread ~/abc.txt\n");
+      printf("Please input filename.Such as ./testread /dev/upper\n");
       return -1;
     }
     fd=open(argv[1],O_RDONLY);

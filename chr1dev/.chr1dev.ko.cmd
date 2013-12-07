@@ -1,0 +1,1 @@
+cmd_/home/jackyzy823/code/driver_learn/chr1dev/chr1dev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-13-generic/scripts/module-common.lds --build-id  -o /home/jackyzy823/code/driver_learn/chr1dev/chr1dev.ko /home/jackyzy823/code/driver_learn/chr1dev/chr1dev.o /home/jackyzy823/code/driver_learn/chr1dev/chr1dev.mod.o

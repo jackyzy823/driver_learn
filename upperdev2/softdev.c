@@ -69,7 +69,7 @@ int softdev_recv(unsigned char **p)
 {
 	if(_data_OK)
 	{	*p = _data_buff;
-		_data_OK =t 0;
+		_data_OK = 0;
 		return _data_len;
 	}
 	*p = NULL;
@@ -102,8 +102,8 @@ int init_softdev(void)
 void cleanup_softdev(void)
 {
 }
-module_init(init_softdev);
-module_exit(cleanup_softdev);
+module_init(init_softdev)
+module_exit(cleanup_softdev)
 MODULE_AUTHOR("Fudan");
 MODULE_DESCRIPTION("Softdev virtual device");
 MODULE_VERSION("2.0");
