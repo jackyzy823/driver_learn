@@ -2,20 +2,19 @@
 #include <linux/init.h>
 #include <linux/fs.h>
 #include <linux/types.h>
-#include <linux/errno.h>
+#include <linux/errno.h>//import error types
 #include <linux/mm.h>
 #include <linux/sched.h>
 // #include <linux/syscalls.h> // to call sys_mknod
 // #include <asm/io.h>
 // #include <asm/system.h>
 // #include <asm/uaccess.h>
-#include <linux/cdev.h>//to import MKDEV
-#include <linux/fs.h>  //to import register_chrdev_region and unreg~
-#include "softdev.h"
+#include <linux/cdev.h>
+#include <linux/fs.h>  //to import register_chrdev and unreg~
 #include <asm/io.h>
 #include <asm/uaccess.h>
 #include <linux/slab.h>  //kfree and kmalloc
-// #define UPPERDEV_MAJOR 117
+#include "softdev.h"  //UPPERDEV_MAJOR 117 and other soft_functions
 
 // static int UpperDev_major=UPPERDEV_MAJOR;
 
@@ -98,7 +97,7 @@ ssize_t UpperDev_write(struct file *filp,const char __user *buf ,size_t size,lof
         return -EINVAL;
     }
 
-    printk(KERN_NOTICE "[UpperDev]Write Done");
+    printk(KERN_NOTICE "[UpperDev]Write Done!");
     return -EFAULT;
 }
 
@@ -108,15 +107,15 @@ long UpperDev_ioctl(struct file *filp,unsigned int cmd,unsigned long arg){
     switch(cmd){
         case 0:
             softdev_ioctl(0);
-            printk(KERN_NOTICE "UpperDev use Lower");
+            printk(KERN_NOTICE "[UpperDev]UpperDev use Lower!");
             break;
         case 1:
             softdev_ioctl(1);
-            printk(KERN_NOTICE "UpperDev use Upper");
+            printk(KERN_NOTICE "[UpperDev]UpperDev use Upper!");
             break;
         default:
             softdev_ioctl(1);
-            printk(KERN_NOTICE "UpperDev use Upper");
+            printk(KERN_NOTICE "[UpperDev]UpperDev use Upper!");
             break;
     }
     return 1;
@@ -131,10 +130,7 @@ static const struct file_operations UpperDev_fops=
     .write=UpperDev_write,
     .open=UpperDev_open,
     .release=UpperDev_release,
-    //above linux 2.6.38 ioctl =>unlocked_ioctl
-    // .read=UpperDev_read,
-    // .write=UpperDev_write,
-    
+    //above linux 2.6.38 ioctl =>unlocked_ioctl    
 };
 
 
@@ -149,7 +145,6 @@ static const struct file_operations UpperDev_fops=
 //     if(err){
 //         printk(KERN_NOTICE "ERROR IN cdev_add()\n");
 //     }
-
 // }
 
 
@@ -183,6 +178,7 @@ int UpperDev_init(void){
         printk("Unable to register char dev Upper");
         return ret;
     }
+    // sys_mknod("/dev/upper",O_RDWR | O_CREAT,UPPERDEV_MAJOR);  //Unknown Symbol error?Why?
     printk("[UpperDev]StartUP!");
     return 0;
 }

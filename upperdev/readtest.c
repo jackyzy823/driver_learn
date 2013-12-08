@@ -1,7 +1,8 @@
 /*
-filename:testread.c
-function:read data from upper
-usage:./testread upper
+*Author="11300720044"
+*filename:readtest.c
+*function:read data from upper
+*usage:./readtest /dev/upper
 */
 
 #include <stdio.h>
@@ -14,7 +15,7 @@ int main(int argc ,char * argv[]){
     int fd,readres;
     char buffer[2048]={0};
     if(argc!=2){
-      printf("Please input filename.Such as ./testread /dev/upper\n");
+      printf("Please input filename.Such as ./readtest /dev/upper\n");
       return -1;
     }
     fd=open(argv[1],O_RDONLY);

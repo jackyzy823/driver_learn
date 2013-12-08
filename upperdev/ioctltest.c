@@ -1,5 +1,8 @@
-//testioctl
-
+//ioctltest
+/*
+*Author="11300720044"
+*
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -12,7 +15,7 @@ int main(int argc,char* argv[]){
     unsigned int cmd;
     // printf("%d\n",argc);
     if(argc!=3){
-        printf("Wrong arguments.Please input filename/devname and command.\nSuch as ./testioctl /dev/upper 1\n");
+        printf("Wrong arguments.Please input filename/devname and command.\nSuch as ./ioctltest /dev/upper 1\n");
         return -1;
     }
     fd=open(argv[1],O_RDONLY);

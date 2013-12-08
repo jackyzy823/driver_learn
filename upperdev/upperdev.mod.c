@@ -38,4 +38,4 @@ __attribute__((section(".modinfo"))) =
 "depends=softdev";
 
 
-MODULE_INFO(srcversion, "E4DEE26400FED8027A6B928");
+MODULE_INFO(srcversion, "4A65BA7B68F916BDE7C9995");

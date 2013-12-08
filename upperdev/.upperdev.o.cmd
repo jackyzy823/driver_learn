@@ -731,14 +731,115 @@ deps_/home/jackyzy823/code/driver_learn/upperdev/upperdev.o := \
   include/linux/key.h \
   include/linux/selinux.h \
     $(wildcard include/config/security/selinux.h) \
-  include/linux/cdev.h \
-  /home/jackyzy823/code/driver_learn/upperdev/softdev.h \
+  include/linux/syscalls.h \
+    $(wildcard include/config/ftrace/syscalls.h) \
+    $(wildcard include/config/old/sigsuspend.h) \
+    $(wildcard include/config/old/sigsuspend3.h) \
+    $(wildcard include/config/odd/rt/sigaction.h) \
+    $(wildcard include/config/clone/backwards.h) \
+    $(wildcard include/config/clone/backwards3.h) \
+  /usr/src/linux-headers-3.11.0-14-generic/include/uapi/linux/aio_abi.h \
+  include/trace/syscall.h \
+  include/linux/ftrace_event.h \
+  include/linux/ring_buffer.h \
+    $(wildcard include/config/ring/buffer/allow/swap.h) \
+  include/linux/kmemcheck.h \
+  include/linux/seq_file.h \
+  include/linux/poll.h \
   /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/uaccess.h \
     $(wildcard include/config/x86/intel/usercopy.h) \
   /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/smap.h \
     $(wildcard include/config/x86/smap.h) \
   /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/uaccess_32.h \
     $(wildcard include/config/debug/strict/user/copy/checks.h) \
+  include/uapi/linux/poll.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/uapi/asm/poll.h \
+  /usr/src/linux-headers-3.11.0-14-generic/include/uapi/asm-generic/poll.h \
+  include/linux/trace_seq.h \
+  include/linux/hardirq.h \
+    $(wildcard include/config/generic/hardirqs.h) \
+  include/linux/ftrace_irq.h \
+    $(wildcard include/config/ftrace/nmi/enter.h) \
+  include/linux/vtime.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/hardirq.h \
+    $(wildcard include/config/x86/thermal/vector.h) \
+    $(wildcard include/config/x86/mce/threshold.h) \
+  include/linux/irq.h \
+    $(wildcard include/config/generic/pending/irq.h) \
+    $(wildcard include/config/hardirqs/sw/resend.h) \
+  include/linux/irqreturn.h \
+  include/linux/irqnr.h \
+  include/uapi/linux/irqnr.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/irq.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/irq_regs.h \
+  include/linux/irqdesc.h \
+    $(wildcard include/config/irq/preflow/fasteoi.h) \
+    $(wildcard include/config/sparse/irq.h) \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/hw_irq.h \
+    $(wildcard include/config/irq/remap.h) \
+  include/linux/profile.h \
+    $(wildcard include/config/profiling.h) \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/sections.h \
+    $(wildcard include/config/debug/rodata.h) \
+  include/asm-generic/sections.h \
+  include/linux/perf_event.h \
+    $(wildcard include/config/have/hw/breakpoint.h) \
+    $(wildcard include/config/function/tracer.h) \
+    $(wildcard include/config/cgroup/perf.h) \
+    $(wildcard include/config/cpu/sup/intel.h) \
+  include/uapi/linux/perf_event.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/perf_event.h \
+    $(wildcard include/config/cpu/sup/amd.h) \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/stacktrace.h \
+    $(wildcard include/config/frame/pointer.h) \
+  include/linux/uaccess.h \
+  include/linux/ptrace.h \
+  include/uapi/linux/ptrace.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/local64.h \
+  include/asm-generic/local64.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/hw_breakpoint.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/uapi/asm/hw_breakpoint.h \
+  include/linux/kdebug.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/kdebug.h \
+    $(wildcard include/config/kexec.h) \
+  include/linux/pid_namespace.h \
+    $(wildcard include/config/pid/ns.h) \
+  include/linux/nsproxy.h \
+  include/linux/ftrace.h \
+    $(wildcard include/config/have/function/trace/mcount/test.h) \
+    $(wildcard include/config/dynamic/ftrace/with/regs.h) \
+    $(wildcard include/config/dynamic/ftrace.h) \
+    $(wildcard include/config/stack/tracer.h) \
+  include/linux/trace_clock.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/trace_clock.h \
+  include/linux/kallsyms.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/ftrace.h \
+  include/linux/cpu.h \
+    $(wildcard include/config/arch/has/cpu/autoprobe.h) \
+    $(wildcard include/config/arch/cpu/probe/release.h) \
+    $(wildcard include/config/pm/sleep/smp.h) \
+  include/linux/node.h \
+    $(wildcard include/config/memory/hotplug/sparse.h) \
+  include/linux/device.h \
+    $(wildcard include/config/debug/devres.h) \
+    $(wildcard include/config/pinctrl.h) \
+    $(wildcard include/config/devtmpfs.h) \
+    $(wildcard include/config/sysfs/deprecated.h) \
+  include/linux/klist.h \
+  include/linux/pinctrl/devinfo.h \
+  include/linux/ratelimit.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/device.h \
+    $(wildcard include/config/x86/dev/dma/ops.h) \
+    $(wildcard include/config/intel/iommu.h) \
+    $(wildcard include/config/amd/iommu.h) \
+  include/linux/pm_wakeup.h \
+  include/linux/irq_work.h \
+    $(wildcard include/config/irq/work.h) \
+  include/linux/perf_regs.h \
+    $(wildcard include/config/have/perf/regs.h) \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/uapi/asm/perf_regs.h \
+  /usr/src/linux-headers-3.11.0-14-generic/arch/x86/include/asm/local.h \
+  include/linux/cdev.h \
   include/linux/slab.h \
     $(wildcard include/config/slab/debug.h) \
     $(wildcard include/config/failslab.h) \
@@ -752,6 +853,7 @@ deps_/home/jackyzy823/code/driver_learn/upperdev/upperdev.o := \
     $(wildcard include/config/slub/debug.h) \
   include/linux/kmemleak.h \
     $(wildcard include/config/debug/kmemleak.h) \
+  /home/jackyzy823/code/driver_learn/upperdev/softdev.h \
 
 /home/jackyzy823/code/driver_learn/upperdev/upperdev.o: $(deps_/home/jackyzy823/code/driver_learn/upperdev/upperdev.o)
 
